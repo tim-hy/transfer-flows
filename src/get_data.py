@@ -25,8 +25,9 @@ def get_club_leagues(data_dict):
     for league, df in data_dict.items():
         clubs = df.club_name.unique().tolist()
 
+        league_name = df["league_name"].unique()[0]
         for club in clubs:
-            league_id_dict[club] = league
+            league_id_dict[club] = league_name
 
     return league_id_dict
 
@@ -47,8 +48,8 @@ def export_data(data_dict, data_path, internal_transfers_only=True):
                 # Create internal transfers df, containing only transfers between these leagues
                 export_df = df.loc[df["league_to_name"].str.len() > 0]
 
-                export_path = os.path.join(data_path, "processed", "internal_transfers")
-                export_name = os.path.join(export_path, league)
+                export_path = os.path.join(data_path, "processed", "internal-transfers")
+                export_name = os.path.join(export_path, league+".csv")
 
                 export_df.to_csv(export_name)
 
