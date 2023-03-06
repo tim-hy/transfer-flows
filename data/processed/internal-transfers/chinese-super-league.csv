@@ -1,0 +1,504 @@
+,club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_from_name,year,season,country_from_name,league_to_name,country_to_name
+17,Shenyang Liuyao,Evgeni Dolgov,24.0,Left-Back,Dinamo Moscow,?,in,Winter,,Chinese Super League,1993,1993/1994,China,Premier Liga,Russia
+25,Dalian Wanda,Lin Ma,32.0,Attack,Liaoning FC,?,in,Winter,,Chinese Super League,1994,1994/1995,China,Chinese Super League,China
+28,Guangdong Winnerway,Bing Li,25.0,Centre-Forward,Liaoning FC,?,in,Winter,,Chinese Super League,1994,1994/1995,China,Chinese Super League,China
+43,Shanghai Shenhua,Clément Garcia,27.0,Attack,FC Gueugnon,?,in,Summer,,Chinese Super League,1995,1995/1996,China,Ligue 1,France
+47,Shenzhen Jianlibao,Slobodan Marovic,30.0,Left-Back,Silkeborg IF,?,in,Summer,,Chinese Super League,1995,1995/1996,China,Superligaen,Denmark
+58,Tianjin FC,Dmitry Gulenkov,27.0,Goalkeeper,Tom Tomsk,?,out,Winter,,Chinese Super League,1995,1995/1996,China,Premier Liga,Russia
+65,Dalian Wanda,Stefan Lindqvist,30.0,Central Midfield,IFK Göteborg,?,out,Summer,,Chinese Super League,1996,1996/1997,China,Allsvenskan,Sweden
+66,Shanghai Shenhua,Christian Perez,33.0,Attacking Midfield,Nîmes Olympique,free transfer,in,Summer,0.0,Chinese Super League,1996,1996/1997,China,Ligue 1,France
+72,Dalian Wanda,Haidong Hao,26.0,Centre-Forward,August 1st,€280k,in,Winter,0.28,Chinese Super League,1996,1996/1997,China,Chinese Super League,China
+73,Dalian Wanda,Stefan Lindqvist,29.0,Central Midfield,IFK Göteborg,?,in,Winter,,Chinese Super League,1996,1996/1997,China,Allsvenskan,Sweden
+74,Dalian Wanda,Magnus Sköldmark,28.0,Right-Back,Örebro SK,?,in,Winter,,Chinese Super League,1996,1996/1997,China,Allsvenskan,Sweden
+76,Dalian Wanda,Jens Fjellström,30.0,Left Midfield,Malmö FF,loan transfer,in,Winter,,Chinese Super League,1996,1996/1997,China,Allsvenskan,Sweden
+79,Dalian Wanda,Per Blohm,29.0,Midfield,Viking FK,?,out,Winter,,Chinese Super League,1996,1996/1997,China,Eliteserien,Norway
+95,Vanguard Huandao,Feng Jiang,26.0,Right-Back,Liaoning FC,?,in,Winter,,Chinese Super League,1996,1996/1997,China,Chinese Super League,China
+101,Tianjin Lifei,Jinming Han,27.0,Midfield,Vanguard Huandao,?,out,Winter,,Chinese Super League,1996,1996/1997,China,Chinese Super League,China
+103,Guangdong Winnerway,Mark Brennan,31.0,Central Midfield,Oldham Athletic,?,in,Winter,,Chinese Super League,1996,1996/1997,China,Premier League,England
+114,Shanghai Shenhua,Valeriy Kleimenov,31.0,Goalkeeper,Dinamo Moscow,?,in,Summer,,Chinese Super League,1997,1997/1998,China,Premier Liga,Russia
+120,Vanguard Huandao,Stefan Beneking,28.0,Goalkeeper,SC Freiburg,?,in,Summer,,Chinese Super League,1997,1997/1998,China,1 Bundesliga,Germany
+128,Dalian Wanda,Hans Eklund,28.0,Centre-Forward,Östers IF,?,in,Winter,,Chinese Super League,1997,1997/1998,China,Allsvenskan,Sweden
+129,Dalian Wanda,Niclas Nyhlén,31.0,Defensive Midfield,Halmstads BK,?,out,Winter,,Chinese Super League,1997,1997/1998,China,Allsvenskan,Sweden
+144,Qingdao Etsong Hainiu,Yi Zhuang,24.0,Attack,Liaoning FC,?,in,Winter,,Chinese Super League,1997,1997/1998,China,Chinese Super League,China
+153,Shenzhen Jianlibao,Bertin Tomou,19.0,Centre-Forward,Pohang Steelers,?,in,Winter,,Chinese Super League,1997,1997/1998,China,K League 1,South Korea
+155,Shenzhen Jianlibao,Ju-po Oh,24.0,Midfield,Chunnam Dragons,?,out,Winter,,Chinese Super League,1997,1997/1998,China,K League 1,South Korea
+157,Guangzhou Apollo,Weiguo Peng,27.0,Attacking Midfield,Vanguard Huandao,€295k,out,Winter,0.295,Chinese Super League,1997,1997/1998,China,Chinese Super League,China
+160,Liaoning FC,Fabrice Grange,26.0,Goalkeeper,FC Nantes,?,in,Summer,,Chinese Super League,1998,1998/1999,China,Ligue 1,France
+167,Shanghai Shenhua,Zhiyi Fan,28.0,Centre-Back,Crystal Palace,?,out,Summer,,Chinese Super League,1998,1998/1999,China,Premier League,England
+170,Beijing Guoan,Jorge Luis Campos,27.0,Attacking Midfield,CD Cruz Azul,?,out,Summer,,Chinese Super League,1998,1998/1999,China,Liga Mx Apertura,Mexico
+175,Dalian Wanda Shide,Jihai Sun,20.0,Centre-Back,Crystal Palace,?,out,Summer,,Chinese Super League,1998,1998/1999,China,Premier League,England
+207,Tianjin Teda,Jinming Han,29.0,Midfield,Vanguard Huandao,?,in,Winter,,Chinese Super League,1998,1998/1999,China,Chinese Super League,China
+208,Tianjin Teda,Gustavo Matosas,31.0,Midfield,Deportes Tolima,?,in,Winter,,Chinese Super League,1998,1998/1999,China,Liga Dimayor I,Colombia
+212,Tianjin Teda,Jian Li,21.0,Goalkeeper,August 1st,?,out,Winter,,Chinese Super League,1998,1998/1999,China,Chinese Super League,China
+214,Dalian Wanda Shide,Glenn Helder,30.0,Left Winger,NAC Breda,?,in,Winter,,Chinese Super League,1998,1998/1999,China,Eredivisie,Netherlands
+216,Dalian Wanda Shide,Hans Eklund,29.0,Centre-Forward,Viborg FF,?,out,Winter,,Chinese Super League,1998,1998/1999,China,Superligaen,Denmark
+217,Dalian Wanda Shide,Jens Fjellström,32.0,Left Midfield,Malmö FF,"End of loanDec 1, 1998",out,Winter,,Chinese Super League,1998,1998/1999,China,Allsvenskan,Sweden
+219,Shenyang Haishi,Jerry Larteza,24.0,Attacking Midfield,Vanguard Huandao,free transfer,in,Winter,0.0,Chinese Super League,1998,1998/1999,China,Chinese Super League,China
+223,Shenzhen Jianlibao,Jeong-hyeon Cho,29.0,Right Winger,Puchon SK,?,in,Winter,,Chinese Super League,1998,1998/1999,China,K League 1,South Korea
+227,Shenzhen Jianlibao,Abdelkrim Jinani,25.0,Attack,SR Delémont,?,out,Winter,,Chinese Super League,1998,1998/1999,China,Super League,Switzerland
+229,Dalian Shide,Jihai Sun,21.0,Centre-Back,Crystal Palace,?,in,Summer,,Chinese Super League,1999,1999/2000,China,Premier League,England
+230,Dalian Shide,Eliphas Shivute,24.0,Centre-Forward,Motherwell FC,?,in,Summer,,Chinese Super League,1999,1999/2000,China,Scottish Premiership,Scotland
+248,Shenzhen Jianlibao,Jeong-hyeon Cho,29.0,Right Winger,Chunnam Dragons,?,out,Summer,,Chinese Super League,1999,1999/2000,China,K League 1,South Korea
+294,Shenzhen Jianlibao,Li Yao,22.0,Attack,Liaoning FC,loan transfer,in,Winter,,Chinese Super League,1999,1999/2000,China,Chinese Super League,China
+310,Xiamen Blue Lions,Rodrigo Carbone,25.0,Midfield,Chunnam Dragons,?,in,Winter,,Chinese Super League,1999,1999/2000,China,K League 1,South Korea
+312,Dalian Shide,Adilson,24.0,Left-Back,Sevilla FC,loan transfer,in,Summer,,Chinese Super League,2000,2000/2001,China,Primera Division,Spain
+328,Beijing Guoan,Nikoslav Bjegovic,32.0,Centre-Back,FC Luzern,?,out,Summer,,Chinese Super League,2000,2000/2001,China,Super League,Switzerland
+333,Dalian Shide,Adilson,24.0,Left-Back,Sevilla FC,?,in,Winter,,Chinese Super League,2000,2000/2001,China,Primera Division,Spain
+339,Dalian Shide,Adilson,24.0,Left-Back,Sevilla FC,"End of loanDec 1, 2000",out,Winter,,Chinese Super League,2000,2000/2001,China,Primera Division,Spain
+340,Shanghai Shenhua,Shengqing Qu,25.0,Centre-Forward,Liaoning FC,?,in,Winter,,Chinese Super League,2000,2000/2001,China,Chinese Super League,China
+349,Shenzhen Jianlibao,Li Yao,23.0,Attack,Liaoning FC,"End of loanDec 31, 2000",out,Winter,,Chinese Super League,2000,2000/2001,China,Chinese Super League,China
+352,Shandong Luneng Taishan,José Herrera,35.0,Right-Back,Racing Club,?,in,Winter,,Chinese Super League,2000,2000/2001,China,Superliga,Argentina
+390,Shandong Luneng Taishan,Erik Yakhimovich,33.0,Centre-Back,Gaziantepspor,?,in,Summer,,Chinese Super League,2001,2001/2002,China,Super Lig,Turkey
+406,Shanghai Shenhua SVA SMEG,Tom Kare Staurvik,32.0,Defensive Midfield,GIF Sundsvall,?,out,Summer,,Chinese Super League,2001,2001/2002,China,Allsvenskan,Sweden
+439,Chongqing Lifan,Agent Sawu,30.0,Centre-Forward,FC Wil 1900,?,in,Winter,,Chinese Super League,2001,2001/2002,China,Super League,Switzerland
+440,Chongqing Lifan,Guanghai Bai,24.0,Attack,Liaoning FC,?,in,Winter,,Chinese Super League,2001,2001/2002,China,Chinese Super League,China
+454,Shanghai COSCO Huili,Zhiyi Fan,32.0,Centre-Back,Dundee FC,loan transfer,in,Winter,,Chinese Super League,2001,2001/2002,China,Scottish Premiership,Scotland
+493,Shanghai COSCO Sanlin,Samuel Boutal,32.0,Centre-Forward,Kilmarnock FC,free transfer,in,Summer,0.0,Chinese Super League,2002,2002/2003,China,Scottish Premiership,Scotland
+496,Shanghai COSCO Sanlin,Zhiyi Fan,32.0,Centre-Back,Dundee FC,"End of loanJun 30, 2002",out,Summer,,Chinese Super League,2002,2002/2003,China,Scottish Premiership,Scotland
+515,Chongqing Lifan,Christophe Cocard,34.0,Right Winger,Kilmarnock FC,?,in,Summer,,Chinese Super League,2002,2002/2003,China,Scottish Premiership,Scotland
+516,Chongqing Lifan,Jian Li,24.0,Goalkeeper,August 1st,?,in,Summer,,Chinese Super League,2002,2002/2003,China,Chinese Super League,China
+523,Shanghai Shenhua SVA SMEG,Yuning Zhang,25.0,Centre-Forward,Liaoning FC,€950k,in,Winter,0.95,Chinese Super League,2002,2002/2003,China,Chinese Super League,China
+524,Shanghai Shenhua SVA SMEG,Jörg Albertz,32.0,Left Midfield,Hamburger SV,free transfer,in,Winter,0.0,Chinese Super League,2002,2002/2003,China,1 Bundesliga,Germany
+526,Shanghai Shenhua SVA SMEG,Djima Oyawolé,26.0,Centre-Forward,KAA Gent,?,in,Winter,,Chinese Super League,2002,2002/2003,China,Juliper Pro League,Belgium
+527,Shanghai Shenhua SVA SMEG,Tomas Vasov,31.0,Midfield,KAA Gent,?,in,Winter,,Chinese Super League,2002,2002/2003,China,Juliper Pro League,Belgium
+533,Shanghai COSCO Sanlin,Metodi Stoynev,29.0,Attack,Liaoning FC,?,in,Winter,,Chinese Super League,2002,2002/2003,China,Chinese Super League,China
+537,Dalian Shide,Yao Li,25.0,Left Midfield,Liaoning FC,€500k,in,Winter,0.5,Chinese Super League,2002,2002/2003,China,Chinese Super League,China
+551,Shenyang Ginde,Kwame Ayew,28.0,Centre-Forward,Kocaelispor,?,in,Winter,,Chinese Super League,2002,2002/2003,China,Super Lig,Turkey
+557,Liaoning FC,Marko Tuomela,30.0,Centre-Back,GIF Sundsvall,?,in,Winter,,Chinese Super League,2002,2002/2003,China,Allsvenskan,Sweden
+571,Qingdao Etsong Hainiu,Gang Lü,25.0,Midfield,Liaoning FC,€778k,in,Winter,0.778,Chinese Super League,2002,2002/2003,China,Chinese Super League,China
+589,Tianjin Teda,Nenad Vanic,32.0,Centre-Back,KAA Gent,?,in,Winter,,Chinese Super League,2002,2002/2003,China,Juliper Pro League,Belgium
+597,Shenzhen Jianlibao,Chen Yang,29.0,Centre-Forward,FC St. Pauli,free transfer,in,Summer,0.0,Chinese Super League,2003,2003/2004,China,1 Bundesliga,Germany
+606,International Shanghai,Régis Dorn,23.0,Centre-Forward,Amiens SC,free transfer,in,Summer,0.0,Chinese Super League,2003,2003/2004,China,Ligue 1,France
+610,International Shanghai,Samuel Boutal,33.0,Centre-Forward,Stade Reims,free transfer,out,Summer,0.0,Chinese Super League,2003,2003/2004,China,Ligue 1,France
+615,Dalian Shide,Dave de Jong,28.0,Centre-Back,KV Mechelen,free transfer,in,Summer,0.0,Chinese Super League,2003,2003/2004,China,Juliper Pro League,Belgium
+636,Shenzhen Jianlibao,Bofei Lu,24.0,Central Midfield,August 1st,free transfer,in,Winter,0.0,Chinese Super League,2003,2003/2004,China,Chinese Super League,China
+643,Shandong Luneng Taishan,Jinyu Li,26.0,Centre-Forward,Liaoning FC,?,in,Winter,,Chinese Super League,2003,2003/2004,China,Chinese Super League,China
+648,International Shanghai,Yong Huang,25.0,Left Midfield,August 1st,?,in,Winter,,Chinese Super League,2003,2003/2004,China,Chinese Super League,China
+658,Dalian Shide,Peng Zhang,21.0,Centre-Forward,August 1st,?,in,Winter,,Chinese Super League,2003,2003/2004,China,Chinese Super League,China
+673,Tianjin Teda,Stig Töfting,34.0,Defensive Midfield,Aarhus GF,free transfer,out,Winter,0.0,Chinese Super League,2003,2003/2004,China,Superligaen,Denmark
+676,Beijing Guoan,Dongliang Sui,26.0,Defensive Midfield,August 1st,€260k,in,Winter,0.26,Chinese Super League,2003,2003/2004,China,Chinese Super League,China
+678,Beijing Guoan,Xiangchuang Yan,17.0,Right Winger,August 1st,?,in,Winter,,Chinese Super League,2003,2003/2004,China,Chinese Super League,China
+679,Beijing Guoan,Ning Xu,24.0,Centre-Back,August 1st,?,in,Winter,,Chinese Super League,2003,2003/2004,China,Chinese Super League,China
+681,Beijing Guoan,Yi Shang,24.0,Midfield,Xerez CD,loan transfer,out,Winter,,Chinese Super League,2003,2003/2004,China,Primera Division,Spain
+692,Shenyang Ginde,Bo Chen,29.0,Centre-Back,Liaoning FC,?,out,Winter,,Chinese Super League,2003,2003/2004,China,Chinese Super League,China
+706,Qingdao Etsong Hainiu,Junwei Liu,27.0,Defence,August 1st,free transfer,in,Winter,0.0,Chinese Super League,2003,2003/2004,China,Chinese Super League,China
+728,Tianjin Teda,Ahmet Dursun,26.0,Centre-Forward,Istanbulspor,free transfer,out,Summer,0.0,Chinese Super League,2004,2004/2005,China,Super Lig,Turkey
+736,Beijing Guoan,Yi Shang,25.0,Midfield,Xerez CD,"End of loanJun 30, 2004",in,Summer,,Chinese Super League,2004,2004/2005,China,Primera Division,Spain
+740,Shanghai Yungtay,Régis Dorn,24.0,Centre-Forward,SC Freiburg,free transfer,out,Summer,0.0,Chinese Super League,2004,2004/2005,China,1 Bundesliga,Germany
+743,Sichuan Guancheng,Kyung-soo Lee,30.0,Defence,Daegu FC,?,in,Summer,,Chinese Super League,2004,2004/2005,China,K League 1,South Korea
+758,Shanghai Shenhua SVA SMEG,Goran Trobok,30.0,Defensive Midfield,Spartak Moscow,free transfer,in,Winter,0.0,Chinese Super League,2004,2004/2005,China,Premier Liga,Russia
+790,Sichuan Guancheng,Daniel Nannskog,30.0,Centre-Forward,Stabæk Fotball,?,out,Winter,,Chinese Super League,2004,2004/2005,China,Eliteserien,Norway
+791,Sichuan Guancheng,Kyung-soo Lee,31.0,Defence,Daejeon Citizen,?,out,Winter,,Chinese Super League,2004,2004/2005,China,K League 1,South Korea
+807,Shenzhen Jianlibao,Yonghai Zhang,25.0,Centre-Back,Liaoning FC,loan transfer,in,Winter,,Chinese Super League,2004,2004/2005,China,Chinese Super League,China
+845,Tianjin Teda,Ionel Gane,33.0,Centre-Forward,VfL Bochum,free transfer,out,Summer,0.0,Chinese Super League,2005,2005/2006,China,1 Bundesliga,Germany
+854,Shenyang Ginde,Samuel Ayorinde,30.0,Attack,Yeovil Town,?,out,Summer,,Chinese Super League,2005,2005/2006,China,Championship,England
+856,Chongqing Lifan,Jun Shi,22.0,Centre-Forward,BSC Young Boys,€500k,out,Summer,0.5,Chinese Super League,2005,2005/2006,China,Super League,Switzerland
+874,Shanghai Shenhua SVA SMEG,Saúl Martínez,29.0,Centre-Forward,Omiya Ardija,?,out,Winter,,Chinese Super League,2005,2005/2006,China,J1 League,Japan
+875,Shanghai Shenhua SVA SMEG,Robert Lima,33.0,Centre-Back,Liverpool FC,?,out,Winter,,Chinese Super League,2005,2005/2006,China,Premier League,England
+884,Beijing Guoan,Musa,26.0,Centre-Back,Ulsan Hyundai,?,in,Winter,,Chinese Super League,2005,2005/2006,China,K League 1,South Korea
+897,Dalian Shide,Adilson,29.0,Left-Back,FC Seoul,?,out,Winter,,Chinese Super League,2005,2005/2006,China,K League 1,South Korea
+923,Shenzhen Xiangxue Shangqingyin,Yonghai Zhang,26.0,Centre-Back,Liaoning FC,"End of loanDec 31, 2005",out,Winter,,Chinese Super League,2005,2005/2006,China,Chinese Super League,China
+924,Shenyang Ginde,Ousmane Bangoura,26.0,Attack,RSC Charleroi,free transfer,in,Winter,0.0,Chinese Super League,2005,2005/2006,China,Juliper Pro League,Belgium
+962,Shanghai Shenhua Liansheng,Djima Oyawolé,29.0,Centre-Forward,KAA Gent,free transfer,out,Summer,0.0,Chinese Super League,2006,2006/2007,China,Juliper Pro League,Belgium
+984,Shaanxi Chanba,Saúl Martínez,30.0,Centre-Forward,Omiya Ardija,?,in,Summer,,Chinese Super League,2006,2006/2007,China,J1 League,Japan
+997,Beijing Guoan,Yonghai Zhang,27.0,Centre-Back,Liaoning FC,€450k,in,Winter,0.45,Chinese Super League,2006,2006/2007,China,Chinese Super League,China
+1023,Shanghai Shenhua Liansheng,Xiang Sun,24.0,Left-Back,PSV Eindhoven,Loan fee:€125k,out,Winter,0.125,Chinese Super League,2006,2006/2007,China,Eredivisie,Netherlands
+1026,Shanghai Shenhua Liansheng,Carsten Jancker,32.0,Centre-Forward,SV Mattersburg,free transfer,out,Winter,0.0,Chinese Super League,2006,2006/2007,China,Bundesliga,Austria
+1049,Hubei Wuhan (-2008),Tao Jiang,29.0,Goalkeeper,Liaoning FC,€19k,out,Winter,0.019,Chinese Super League,2006,2006/2007,China,Chinese Super League,China
+1053,Qingdao Jonoon,Damir Ibric,23.0,Centre-Forward,Kocaelispor,?,in,Winter,,Chinese Super League,2006,2006/2007,China,Super Lig,Turkey
+1107,Shanghai Shenhua Liansheng,Xiang Sun,25.0,Left-Back,PSV Eindhoven,"End of loanJun 30, 2007",in,Summer,,Chinese Super League,2007,2007/2008,China,Eredivisie,Netherlands
+1124,Henan Jianye,Olivier Fauconnier,31.0,Centre-Forward,OGC Nice,free transfer,in,Summer,0.0,Chinese Super League,2007,2007/2008,China,Ligue 1,France
+1228,Qingdao Jonoon,Gang Lü,30.0,Midfield,Liaoning FC,"End of loanDec 31, 2007",in,Winter,,Chinese Super League,2007,2007/2008,China,Chinese Super League,China
+1230,Qingdao Jonoon,Gang Lü,30.0,Midfield,Liaoning FC,free transfer,out,Winter,0.0,Chinese Super League,2007,2007/2008,China,Chinese Super League,China
+1281,Shanghai Shenhua Liansheng,Xiang Sun,26.0,Left-Back,Austria Vienna,loan transfer,out,Summer,,Chinese Super League,2008,2008/2009,China,Bundesliga,Austria
+1290,Chengdu Blades,Jun Shi,25.0,Centre-Forward,BSC Young Boys,free transfer,in,Summer,0.0,Chinese Super League,2008,2008/2009,China,Super League,Switzerland
+1295,Chengdu Blades,Tie Li,31.0,Defensive Midfield,Liaoning FC,free transfer,out,Summer,0.0,Chinese Super League,2008,2008/2009,China,Chinese Super League,China
+1328,Beijing Guoan,Ryan Griffiths,27.0,Centre-Forward,Liaoning FC,?,in,Winter,,Chinese Super League,2008,2008/2009,China,Chinese Super League,China
+1346,Henan Jianye,Tae-lim Song,24.0,Defensive Midfield,Busan I'Park,?,in,Winter,,Chinese Super League,2008,2008/2009,China,K League 1,South Korea
+1351,Shanghai Shenhua Liansheng,Hernán Barcos,24.0,Centre-Forward,Racing Club,Loan fee:€654k,in,Winter,0.654,Chinese Super League,2008,2008/2009,China,Superliga,Argentina
+1366,Tianjin Teda,Jean-Philippe Caillet,31.0,Centre-Back,KRC Genk,?,in,Winter,,Chinese Super League,2008,2008/2009,China,Juliper Pro League,Belgium
+1373,Shandong Luneng Taishan,Roda Antar,28.0,Defensive Midfield,1. FC Köln,€700k,in,Winter,0.7,Chinese Super League,2008,2008/2009,China,1 Bundesliga,Germany
+1374,Shandong Luneng Taishan,Haibin Zhou,23.0,Defensive Midfield,PSV Eindhoven,free transfer,out,Winter,0.0,Chinese Super League,2008,2008/2009,China,Eredivisie,Netherlands
+1386,Shenzhen Asia Travel,Marek Zajac,35.0,Defensive Midfield,Liaoning FC,free transfer,out,Winter,0.0,Chinese Super League,2008,2008/2009,China,Chinese Super League,China
+1408,Dalian Shide,Jung-hwan Ahn,33.0,Second Striker,Busan I'Park,free transfer,in,Winter,0.0,Chinese Super League,2008,2008/2009,China,K League 1,South Korea
+1414,Dalian Shide,Xiaoting Feng,23.0,Centre-Back,Daegu FC,free transfer,out,Winter,0.0,Chinese Super League,2008,2008/2009,China,K League 1,South Korea
+1447,Qingdao Jonoon,Tae-young Lee,21.0,Centre-Forward,Pohang Steelers,?,in,Winter,,Chinese Super League,2008,2008/2009,China,K League 1,South Korea
+1451,Qingdao Jonoon,Gang Lü,29.0,Midfield,Liaoning FC,Loan fee:€21k,out,Winter,0.021,Chinese Super League,2008,2008/2009,China,Chinese Super League,China
+1455,Changsha Ginde,Eun-joong Kim,29.0,Centre-Forward,FC Seoul,free transfer,in,Winter,0.0,Chinese Super League,2008,2008/2009,China,K League 1,South Korea
+1456,Changsha Ginde,Jae-won Sim,31.0,Centre-Back,Busan I'Park,?,in,Winter,,Chinese Super League,2008,2008/2009,China,K League 1,South Korea
+1457,Changsha Ginde,Sang-il Lee,29.0,Left Winger,Chunnam Dragons,?,in,Winter,,Chinese Super League,2008,2008/2009,China,K League 1,South Korea
+1463,Changsha Ginde,Sandro,28.0,Centre-Forward,FC Thun,free transfer,out,Winter,0.0,Chinese Super League,2008,2008/2009,China,Super League,Switzerland
+1472,Chongqing Lifan,Edgar Martínez,29.0,Centre-Back,Deportivo Cali,?,in,Winter,,Chinese Super League,2008,2008/2009,China,Liga Dimayor I,Colombia
+1482,Shenzhen Ruby,Hernán Barcos,25.0,Centre-Forward,Racing Club,loan transfer,in,Summer,,Chinese Super League,2009,2009/2010,China,Superliga,Argentina
+1492,Dalian Shide,Woo-keun Jeon,32.0,Central Midfield,Busan I'Park,free transfer,in,Summer,0.0,Chinese Super League,2009,2009/2010,China,K League 1,South Korea
+1514,Shanghai Shenhua Liansheng,Xiang Sun,27.0,Left-Back,Austria Vienna,"End of loanJun 30, 2009",in,Summer,,Chinese Super League,2009,2009/2010,China,Bundesliga,Austria
+1516,Shanghai Shenhua Liansheng,Hernán Barcos,25.0,Centre-Forward,Racing Club,"End of loanJun 30, 2009",out,Summer,,Chinese Super League,2009,2009/2010,China,Superliga,Argentina
+1517,Shandong Luneng Taishan,Sandro,29.0,Centre-Forward,FC Thun,free transfer,in,Summer,0.0,Chinese Super League,2009,2009/2010,China,Super League,Switzerland
+1548,Shenzhen Ruby,Hernán Barcos,25.0,Centre-Forward,Racing Club,"End of loanDec 31, 2009",out,Winter,,Chinese Super League,2009,2009/2010,China,Superliga,Argentina
+1553,Chongqing Lifan,Se-kwon Cho,31.0,Left-Back,Liaoning FC,?,in,Winter,,Chinese Super League,2009,2009/2010,China,Chinese Super League,China
+1565,Beijing Guoan,Mo Ross,28.0,Right-Back,Aberdeen FC,free transfer,in,Winter,0.0,Chinese Super League,2009,2009/2010,China,Scottish Premiership,Scotland
+1587,Henan Jianye,Milos Bajalica,28.0,Centre-Back,Nagoya Grampus,free transfer,in,Winter,0.0,Chinese Super League,2009,2009/2010,China,J1 League,Japan
+1601,Jiangsu Sainty,Jae-hong Park,31.0,Centre-Back,Gyeongnam FC,?,in,Winter,,Chinese Super League,2009,2009/2010,China,K League 1,South Korea
+1604,Jiangsu Sainty,Carlos Ceballos,28.0,Centre-Forward,Cortuluá,?,out,Winter,,Chinese Super League,2009,2009/2010,China,Liga Dimayor I,Colombia
+1630,Changchun Yatai,Se-in Lee,29.0,Centre-Back,Gangwon FC,free transfer,in,Winter,0.0,Chinese Super League,2009,2009/2010,China,K League 1,South Korea
+1656,Changsha Ginde,Eun-joong Kim,30.0,Centre-Forward,Jeju United,?,out,Winter,,Chinese Super League,2009,2009/2010,China,K League 1,South Korea
+1672,Tianjin Teda,Junmin Hao,22.0,Central Midfield,FC Schalke 04,free transfer,out,Winter,0.0,Chinese Super League,2009,2009/2010,China,1 Bundesliga,Germany
+1697,Shanghai Shenhua Liansheng,Andres Oper,32.0,Centre-Forward,ADO Den Haag,?,out,Winter,,Chinese Super League,2009,2009/2010,China,Eredivisie,Netherlands
+1701,Shandong Luneng Taishan,Haibin Zhou,24.0,Defensive Midfield,PSV Eindhoven,free transfer,in,Winter,0.0,Chinese Super League,2009,2009/2010,China,Eredivisie,Netherlands
+1706,Shandong Luneng Taishan,Fred Benson,25.0,Centre-Forward,RKC Waalwijk,loan transfer,in,Winter,,Chinese Super League,2009,2009/2010,China,Eredivisie,Netherlands
+1715,Liaoning FC,Boubacar Diarra,30.0,Centre-Back,FC Luzern,?,in,Winter,,Chinese Super League,2009,2009/2010,China,Super League,Switzerland
+1737,Qingdao Jonoon,Yoon-sub Lee,30.0,Centre-Back,Ulsan Hyundai,?,in,Winter,,Chinese Super League,2009,2009/2010,China,K League 1,South Korea
+1758,Hangzhou Greentown,Song Yan,28.0,Left Winger,Jeju United,?,out,Winter,,Chinese Super League,2009,2009/2010,China,K League 1,South Korea
+1759,Hangzhou Greentown,Ye Zhang,22.0,Left Midfield,Liaoning FC,?,out,Winter,,Chinese Super League,2009,2009/2010,China,Chinese Super League,China
+1784,Beijing Guoan,Valdo,29.0,Centre-Forward,Shonan Bellmare,free transfer,out,Summer,0.0,Chinese Super League,2010,2010/2011,China,J1 League,Japan
+1800,Shandong Luneng Taishan,Fred Benson,26.0,Centre-Forward,RKC Waalwijk,"End of loanJun 30, 2010",out,Summer,,Chinese Super League,2010,2010/2011,China,Eredivisie,Netherlands
+1809,Tianjin Teda,Lucas Basualdo,22.0,Centre-Back,Daegu FC,-,in,Summer,,Chinese Super League,2010,2010/2011,China,K League 1,South Korea
+1863,Liaoning FC,You-jin Kim,27.0,Centre-Back,Yokohama FC,free transfer,in,Winter,0.0,Chinese Super League,2010,2010/2011,China,J1 League,Japan
+1864,Liaoning FC,Valdo,30.0,Centre-Forward,Shonan Bellmare,free transfer,in,Winter,0.0,Chinese Super League,2010,2010/2011,China,J1 League,Japan
+1879,Shenzhen Ruby,Seiichiro Maki,30.0,Centre-Forward,Amkar Perm,free transfer,in,Winter,0.0,Chinese Super League,2010,2010/2011,China,Premier Liga,Russia
+1900,Shenzhen Ruby,Chao Ji,19.0,Left Winger,Liaoning FC,?,out,Winter,,Chinese Super League,2010,2010/2011,China,Chinese Super League,China
+1924,Beijing Guoan,Mo Ross,30.0,Right-Back,Motherwell FC,?,out,Winter,,Chinese Super League,2010,2010/2011,China,Scottish Premiership,Scotland
+1928,Dalian Shide,Jin-kyu Kim,25.0,Centre-Back,FC Seoul,free transfer,in,Winter,0.0,Chinese Super League,2010,2010/2011,China,K League 1,South Korea
+1929,Dalian Shide,Song Yan,29.0,Left Winger,Jeju United,free transfer,in,Winter,0.0,Chinese Super League,2010,2010/2011,China,K League 1,South Korea
+1957,Shanghai Shenhua Liansheng,Duvier Riascos,24.0,Centre-Forward,Once Caldas,loan transfer,in,Winter,,Chinese Super League,2010,2010/2011,China,Liga Dimayor I,Colombia
+1979,Tianjin Teda,Jip Kwon,26.0,Central Midfield,Daejeon Citizen,?,in,Winter,,Chinese Super League,2010,2010/2011,China,K League 1,South Korea
+1991,Changchun Yatai,Qianhua Piao,23.0,Midfield,Liaoning FC,?,in,Winter,,Chinese Super League,2010,2010/2011,China,Chinese Super League,China
+2006,Changchun Yatai,Bo Wang,28.0,Centre-Back,Liaoning FC,?,out,Winter,,Chinese Super League,2010,2010/2011,China,Chinese Super League,China
+2045,Nanchang Bayi Hengyuan,Diego Vera,26.0,Centre-Forward,Liverpool FC,loan transfer,in,Winter,,Chinese Super League,2010,2010/2011,China,Premier League,England
+2064,Shaanxi Chanba,Chunyu Li,24.0,Central Midfield,Gangwon FC,?,in,Winter,,Chinese Super League,2010,2010/2011,China,K League 1,South Korea
+2069,Shaanxi Chanba,Tao Zheng,25.0,Right-Back,Liaoning FC,?,out,Winter,,Chinese Super League,2010,2010/2011,China,Chinese Super League,China
+2081,Hangzhou Greentown,Paulo Pezzolano,27.0,Attacking Midfield,Liverpool FC,?,in,Winter,,Chinese Super League,2010,2010/2011,China,Premier League,England
+2101,Jiangsu Sainty,Sheng Qin,24.0,Defensive Midfield,Liaoning FC,free transfer,out,Winter,0.0,Chinese Super League,2010,2010/2011,China,Chinese Super League,China
+2107,Jiangsu Sainty,Jae-hong Park,32.0,Centre-Back,Gyeongnam FC,?,out,Winter,,Chinese Super League,2010,2010/2011,China,K League 1,South Korea
+2154,Beijing Guoan,Ladji Keita,28.0,Centre-Forward,SC Braga,loan transfer,in,Summer,,Chinese Super League,2011,2011/2012,China,Liga Nos,Portugal
+2172,Shandong Luneng Taishan,Junmin Hao,24.0,Central Midfield,FC Schalke 04,€1.10m,in,Summer,1.1,Chinese Super League,2011,2011/2012,China,1 Bundesliga,Germany
+2185,Guizhou Renhe,Derek Riordan,28.0,Centre-Forward,Hibernian FC,free transfer,in,Summer,0.0,Chinese Super League,2011,2011/2012,China,Scottish Premiership,Scotland
+2189,Tianjin Teda,Chong-gug Song,32.0,Right-Back,Ulsan Hyundai,free transfer,in,Summer,0.0,Chinese Super League,2011,2011/2012,China,K League 1,South Korea
+2198,Shanghai Shenhua Liansheng,Duvier Riascos,25.0,Centre-Forward,Once Caldas,"End of loanJun 30, 2011",out,Summer,,Chinese Super League,2011,2011/2012,China,Liga Dimayor I,Colombia
+2201,Dalian Shide,Jin-kyu Kim,26.0,Centre-Back,Ventforet Kofu,free transfer,out,Summer,0.0,Chinese Super League,2011,2011/2012,China,J1 League,Japan
+2213,Nanchang Bayi Hengyuan,Diego Vera,26.0,Centre-Forward,Liverpool FC,"End of loanJun 30, 2011",out,Summer,,Chinese Super League,2011,2011/2012,China,Premier League,England
+2216,Dalian Aerbin,Modeste M'Bami,28.0,Defensive Midfield,UD Almería,?,in,Summer,,Chinese Super League,2011,2011/2012,China,Primera Division,Spain
+2217,Dalian Aerbin,Luis Cabezas,25.0,Centre-Forward,Deportivo Cali,?,in,Summer,,Chinese Super League,2011,2011/2012,China,Liga Dimayor I,Colombia
+2226,Guangzhou Evergrande,Sheng Qin,25.0,Defensive Midfield,Liaoning FC,€350k,in,Winter,0.35,Chinese Super League,2011,2011/2012,China,Chinese Super League,China
+2240,Beijing Guoan,Reinaldo,27.0,Centre-Forward,Al-Raed,free transfer,in,Winter,0.0,Chinese Super League,2011,2011/2012,China,Saudi Professional League,Saudi Arabia
+2241,Beijing Guoan,Jiayi Shao,31.0,Left Midfield,MSV Duisburg,free transfer,in,Winter,0.0,Chinese Super League,2011,2011/2012,China,1 Bundesliga,Germany
+2257,Beijing Guoan,Ladji Keita,28.0,Centre-Forward,SC Braga,"End of loanDec 1, 2011",out,Winter,,Chinese Super League,2011,2011/2012,China,Liga Nos,Portugal
+2294,Shandong Luneng Taishan,Gilberto Macena,27.0,Right Winger,AC Horsens,€1.70m,in,Winter,1.7,Chinese Super League,2011,2011/2012,China,Superligaen,Denmark
+2302,Shandong Luneng Taishan,Liang Wang,32.0,Left-Back,Liaoning FC,free transfer,out,Winter,0.0,Chinese Super League,2011,2011/2012,China,Chinese Super League,China
+2304,Shandong Luneng Taishan,Hongxu Zhao,20.0,Midfield,Liaoning FC,?,out,Winter,,Chinese Super League,2011,2011/2012,China,Chinese Super League,China
+2338,Hangzhou Greentown,Dong-jin Kim,30.0,Left-Back,FC Seoul,free transfer,in,Winter,0.0,Chinese Super League,2011,2011/2012,China,K League 1,South Korea
+2386,Guizhou Renhe,Milos Bajalica,30.0,Centre-Back,Kyoto Sanga,?,out,Winter,,Chinese Super League,2011,2011/2012,China,J1 League,Japan
+2387,Guizhou Renhe,Wilson,26.0,Centre-Forward,Vegalta Sendai,?,out,Winter,,Chinese Super League,2011,2011/2012,China,J1 League,Japan
+2395,Tianjin Teda,Akpo Sodje,31.0,Centre-Forward,Hibernian FC,free transfer,in,Winter,0.0,Chinese Super League,2011,2011/2012,China,Scottish Premiership,Scotland
+2437,Dalian Shide,Dong-hyuk Park,32.0,Centre-Back,Kashiwa Reysol,free transfer,in,Winter,0.0,Chinese Super League,2011,2011/2012,China,J1 League,Japan
+2463,Henan Jianye,Shouting Wang,26.0,Defensive Midfield,Liaoning FC,free transfer,out,Winter,0.0,Chinese Super League,2011,2011/2012,China,Chinese Super League,China
+2492,Nanchang Bayi Hengyuan,Jae-sung Ko,26.0,Right-Back,Gyeongnam FC,free transfer,out,Winter,0.0,Chinese Super League,2011,2011/2012,China,K League 1,South Korea
+2542,Beijing Guoan,Frédéric Kanouté,34.0,Centre-Forward,Sevilla FC,free transfer,in,Summer,0.0,Chinese Super League,2012,2012/2013,China,Primera Division,Spain
+2555,Tianjin Teda,Vladimir Jovancic,25.0,Centre-Forward,Seongnam FC,loan transfer,in,Summer,,Chinese Super League,2012,2012/2013,China,K League 1,South Korea
+2558,Shanghai Shenhua Liansheng,Giovanni Moreno,26.0,Attacking Midfield,Racing Club,€4.50m,in,Summer,4.5,Chinese Super League,2012,2012/2013,China,Superliga,Argentina
+2561,Shanghai Shenhua Liansheng,Shouting Wang,26.0,Defensive Midfield,Liaoning FC,?,in,Summer,,Chinese Super League,2012,2012/2013,China,Chinese Super League,China
+2585,Changchun Yatai,Edixon Perea,28.0,Centre-Forward,CD Cruz Azul,?,in,Summer,,Chinese Super League,2012,2012/2013,China,Liga Mx Apertura,Mexico
+2611,Guangzhou Evergrande,Young-gwon Kim,22.0,Centre-Back,Omiya Ardija,€2.00m,in,Summer,2.0,Chinese Super League,2012,2012/2013,China,J1 League,Japan
+2615,Guangzhou Evergrande,Renato Cajá,27.0,Attacking Midfield,Kashima Antlers,Loan fee:€250k,out,Summer,0.25,Chinese Super League,2012,2012/2013,China,J1 League,Japan
+2635,Shandong Luneng Taishan,Xu Yang,25.0,Centre-Forward,Liaoning FC,€2.45m,in,Winter,2.45,Chinese Super League,2012,2012/2013,China,Chinese Super League,China
+2645,Shandong Luneng Taishan,José Ortigoza,25.0,Centre-Forward,Ventforet Kofu,free transfer,out,Winter,0.0,Chinese Super League,2012,2012/2013,China,J1 League,Japan
+2651,Tianjin Teda,Vladimir Jovancic,25.0,Centre-Forward,Seongnam FC,€225k,in,Winter,0.225,Chinese Super League,2012,2012/2013,China,K League 1,South Korea
+2685,Tianjin Teda,Vladimir Jovancic,25.0,Centre-Forward,Seongnam FC,"End of loanDec 31, 2012",out,Winter,,Chinese Super League,2012,2012/2013,China,K League 1,South Korea
+2705,Shanghai Shenhua Liansheng,Didier Drogba,34.0,Centre-Forward,Galatasaray,free transfer,out,Winter,0.0,Chinese Super League,2012,2012/2013,China,Super Lig,Turkey
+2750,Dalian Aerbin,Hanchao Yu,25.0,Left Winger,Liaoning FC,€4.30m,in,Winter,4.3,Chinese Super League,2012,2012/2013,China,Chinese Super League,China
+2785,Liaoning FC,Edú,31.0,Centre-Forward,FC Schalke 04,free transfer,in,Winter,0.0,Chinese Super League,2012,2012/2013,China,1 Bundesliga,Germany
+2788,Liaoning FC,Shavkat Mulladzhanov,27.0,Centre-Back,Al-Nassr FC,?,in,Winter,,Chinese Super League,2012,2012/2013,China,Saudi Professional League,Saudi Arabia
+2814,Changchun Yatai,Matt McKay,30.0,Central Midfield,Busan IPark,free transfer,in,Winter,0.0,Chinese Super League,2012,2012/2013,China,K League 1,South Korea
+2829,Changchun Yatai,Xiaohui Qu,25.0,Midfield,Liaoning FC,?,out,Winter,,Chinese Super League,2012,2012/2013,China,Chinese Super League,China
+2832,Changchun Yatai,Edixon Perea,28.0,Centre-Forward,Deportivo Cali,loan transfer,out,Winter,,Chinese Super League,2012,2012/2013,China,Liga Dimayor I,Colombia
+2836,Guizhou Renhe,Zvjezdan Misimovic,30.0,Attacking Midfield,Dinamo Moscow,€3.50m,in,Winter,3.5,Chinese Super League,2012,2012/2013,China,Premier Liga,Russia
+2837,Guizhou Renhe,Xavier Chen,29.0,Right-Back,KV Mechelen,€1.00m,in,Winter,1.0,Chinese Super League,2012,2012/2013,China,Juliper Pro League,Belgium
+2849,Guizhou Renhe,Rubén Suárez,33.0,Second Striker,UD Almería,free transfer,out,Winter,0.0,Chinese Super League,2012,2012/2013,China,Primera Division,Spain
+2866,Jiangsu Sainty,Hamdi Salihi,29.0,Centre-Forward,D.C. United,?,in,Winter,,Chinese Super League,2012,2012/2013,China,Major League Soccer,United States of America
+2893,Qingdao Jonoon,George Mourad,30.0,Centre-Forward,Syrianska FC,free transfer,in,Winter,0.0,Chinese Super League,2012,2012/2013,China,Allsvenskan,Sweden
+2924,Guangzhou Evergrande,Renato Cajá,28.0,Attacking Midfield,Kashima Antlers,"End of loanDec 31, 2012",in,Winter,,Chinese Super League,2012,2012/2013,China,J1 League,Japan
+2935,Guangzhou Evergrande,Cléo,27.0,Centre-Forward,Kashiwa Reysol,loan transfer,out,Winter,,Chinese Super League,2012,2012/2013,China,J1 League,Japan
+2965,Wuhan Zall,Santos,27.0,Second Striker,Jeju United,€750k,in,Winter,0.75,Chinese Super League,2012,2012/2013,China,K League 1,South Korea
+2973,Wuhan Zall,Garra Dembélé,26.0,Centre-Forward,SC Freiburg,loan transfer,in,Winter,,Chinese Super League,2012,2012/2013,China,1 Bundesliga,Germany
+2999,Guangzhou Evergrande,Lucas Barrios,28.0,Centre-Forward,Spartak Moscow,€3.00m,out,Summer,3.0,Chinese Super League,2013,2013/2014,China,Premier Liga,Russia
+3003,Shandong Luneng Taishan,Vágner Love,29.0,Centre-Forward,CSKA Moscow,€12.00m,in,Summer,12.0,Chinese Super League,2013,2013/2014,China,Premier Liga,Russia
+3087,Tianjin Teda,Baré,31.0,Centre-Forward,Shimizu S-Pulse,€750k,in,Summer,0.75,Chinese Super League,2013,2013/2014,China,J1 League,Japan
+3108,Changchun Yatai,Edixon Perea,29.0,Centre-Forward,Deportivo Cali,"End of loanJun 30, 2013",in,Summer,,Chinese Super League,2013,2013/2014,China,Liga Dimayor I,Colombia
+3139,Guangzhou Evergrande,Cléo,28.0,Centre-Forward,Kashiwa Reysol,"End of loanDec 31, 2013",in,Winter,,Chinese Super League,2013,2013/2014,China,J1 League,Japan
+3146,Guangzhou Evergrande,Renato Cajá,29.0,Attacking Midfield,Bursaspor,Loan fee:€185k,out,Winter,0.185,Chinese Super League,2013,2013/2014,China,Super Lig,Turkey
+3160,Guangzhou Evergrande,Teng Yi,23.0,Centre-Back,Liaoning FC,loan transfer,out,Winter,,Chinese Super League,2013,2013/2014,China,Chinese Super League,China
+3165,Shandong Luneng Taishan,Walter Montillo,29.0,Attacking Midfield,Santos FC,€7.50m,in,Winter,7.5,Chinese Super League,2013,2013/2014,China,Campeonato Brasileiro Serie A,Brazil
+3191,Beijing Guoan,Pablo Batalla,30.0,Attacking Midfield,Bursaspor,€3.50m,in,Winter,3.5,Chinese Super League,2013,2013/2014,China,Super Lig,Turkey
+3194,Beijing Guoan,Dae-sung Ha,28.0,Attacking Midfield,FC Seoul,€1.20m,in,Winter,1.2,Chinese Super League,2013,2013/2014,China,K League 1,South Korea
+3211,Beijing Guoan,Yonghai Zhang,34.0,Centre-Back,Liaoning FC,loan transfer,out,Winter,,Chinese Super League,2013,2013/2014,China,Chinese Super League,China
+3266,Dalian Aerbin,Xuegeng Han,24.0,Left-Back,Liaoning FC,?,in,Winter,,Chinese Super League,2013,2013/2014,China,Chinese Super League,China
+3298,Guangzhou R&F,Hyun-soo Jang,22.0,Centre-Back,FC Tokyo,€2.25m,in,Winter,2.25,Chinese Super League,2013,2013/2014,China,J1 League,Japan
+3299,Guangzhou R&F,Jong-woo Park,24.0,Defensive Midfield,Busan IPark,€1.46m,in,Winter,1.46,Chinese Super League,2013,2013/2014,China,K League 1,South Korea
+3301,Guangzhou R&F,Ken Ilsö,27.0,Attacking Midfield,VfL Bochum,free transfer,in,Winter,0.0,Chinese Super League,2013,2013/2014,China,1 Bundesliga,Germany
+3313,Guangzhou R&F,Xiaotian Shi,23.0,Goalkeeper,Liaoning FC,free transfer,out,Winter,0.0,Chinese Super League,2013,2013/2014,China,Chinese Super League,China
+3359,Shanghai Greenland,Byeong-guk Jo,32.0,Centre-Back,Júbilo Iwata,free transfer,in,Winter,0.0,Chinese Super League,2013,2013/2014,China,J1 League,Japan
+3387,Shanghai East Asia,Tobias Hysén,31.0,Centre-Forward,IFK Göteborg,€1.00m,in,Winter,1.0,Chinese Super League,2013,2013/2014,China,Allsvenskan,Sweden
+3423,Liaoning FC,Edú,32.0,Centre-Forward,FC Tokyo,free transfer,out,Winter,0.0,Chinese Super League,2013,2013/2014,China,J1 League,Japan
+3480,Hangzhou Greentown,Masashi Oguro,33.0,Centre-Forward,Kyoto Sanga,loan transfer,out,Winter,,Chinese Super League,2013,2013/2014,China,J1 League,Japan
+3492,Jiangsu Sainty,Dejan Damjanović,32.0,Centre-Forward,FC Seoul,€4.65m,in,Winter,4.65,Chinese Super League,2013,2013/2014,China,K League 1,South Korea
+3493,Jiangsu Sainty,Shin-young Yoon,26.0,Centre-Back,Gyeongnam FC,€1.00m,in,Winter,1.0,Chinese Super League,2013,2013/2014,China,K League 1,South Korea
+3512,Jiangsu Sainty,Aleksandar Jevtic,28.0,Centre-Forward,Liaoning FC,free transfer,out,Winter,0.0,Chinese Super League,2013,2013/2014,China,Chinese Super League,China
+3544,Henan Jianye,Ji-nam Lee,29.0,Centre-Back,Daegu FC,€405k,in,Winter,0.405,Chinese Super League,2013,2013/2014,China,K League 1,South Korea
+3582,Guangzhou Evergrande Taobao,Renato Cajá,29.0,Attacking Midfield,Bursaspor,"End of loanJun 30, 2014",in,Summer,,Chinese Super League,2014,2014/2015,China,Super Lig,Turkey
+3587,Guangzhou Evergrande Taobao,Chaosheng Yang,20.0,Right Winger,Liaoning FC,loan transfer,out,Summer,,Chinese Super League,2014,2014/2015,China,Chinese Super League,China
+3592,Beijing Guoan,Yonghai Zhang,35.0,Centre-Back,Liaoning FC,"End of loanJun 30, 2014",in,Summer,,Chinese Super League,2014,2014/2015,China,Chinese Super League,China
+3593,Beijing Guoan,Andrija Kaludjerovic,27.0,Centre-Forward,FC Thun,free transfer,out,Summer,0.0,Chinese Super League,2014,2014/2015,China,Super League,Switzerland
+3594,Beijing Guoan,Joffre Guerrón,29.0,Centre-Forward,Tigres UANL,free transfer,out,Summer,0.0,Chinese Super League,2014,2014/2015,China,Liga Mx Apertura,Mexico
+3608,Shanghai SIPG,Imad Khalili,27.0,Centre-Forward,Helsingborgs IF,?,in,Summer,,Chinese Super League,2014,2014/2015,China,Allsvenskan,Sweden
+3612,Guizhou Renhe,Mike Hanke,30.0,Centre-Forward,SC Freiburg,free transfer,in,Summer,0.0,Chinese Super League,2014,2014/2015,China,1 Bundesliga,Germany
+3624,Jiangsu Guoxin Sainty,Édison Toloza,30.0,Right Winger,Junior FC,€750k,in,Summer,0.75,Chinese Super League,2014,2014/2015,China,Liga Dimayor I,Colombia
+3631,Shanghai Greenland Shenhua,Paulo Henrique,25.0,Centre-Forward,Trabzonspor,€4.00m,in,Summer,4.0,Chinese Super League,2014,2014/2015,China,Super Lig,Turkey
+3650,Changchun Yatai,Szabolcs Huszti,31.0,Left Midfield,Hannover 96,€1.50m,in,Summer,1.5,Chinese Super League,2014,2014/2015,China,1 Bundesliga,Germany
+3679,Guangzhou Evergrande Taobao,Teng Yi,24.0,Centre-Back,Liaoning FC,"End of loanDec 31, 2014",in,Winter,,Chinese Super League,2014,2014/2015,China,Chinese Super League,China
+3690,Guangzhou Evergrande Taobao,Chaosheng Yang,21.0,Right Winger,Liaoning FC,"End of loanDec 31, 2014",in,Winter,,Chinese Super League,2014,2014/2015,China,Chinese Super League,China
+3695,Guangzhou Evergrande Taobao,Sheng Qin,28.0,Defensive Midfield,Liaoning FC,free transfer,out,Winter,0.0,Chinese Super League,2014,2014/2015,China,Chinese Super League,China
+3710,Guangzhou Evergrande Taobao,Chaosheng Yang,21.0,Right Winger,Liaoning FC,loan transfer,out,Winter,,Chinese Super League,2014,2014/2015,China,Chinese Super League,China
+3724,Beijing Guoan,Xiaotian Shi,24.0,Goalkeeper,Liaoning FC,loan transfer,in,Winter,,Chinese Super League,2014,2014/2015,China,Chinese Super League,China
+3728,Beijing Guoan,Xizhe Zhang,23.0,Attacking Midfield,VfL Wolfsburg,€1.50m,out,Winter,1.5,Chinese Super League,2014,2014/2015,China,1 Bundesliga,Germany
+3733,Beijing Guoan,Peter Utaka,31.0,Centre-Forward,Shimizu S-Pulse,?,out,Winter,,Chinese Super League,2014,2014/2015,China,J1 League,Japan
+3734,Beijing Guoan,Yun Yang,25.0,Defensive Midfield,Liaoning FC,loan transfer,out,Winter,,Chinese Super League,2014,2014/2015,China,Chinese Super League,China
+3788,Shanghai SIPG,Ju-young Kim,26.0,Centre-Back,FC Seoul,€2.00m,in,Winter,2.0,Chinese Super League,2014,2014/2015,China,K League 1,South Korea
+3802,Guizhou Renhe,Magnus Eriksson,24.0,Central Midfield,Malmö FF,€1.70m,in,Winter,1.7,Chinese Super League,2014,2014/2015,China,Allsvenskan,Sweden
+3803,Guizhou Renhe,Ricardo Santos,27.0,Centre-Forward,Åtvidabergs FF,€320k,in,Winter,0.32,Chinese Super League,2014,2014/2015,China,Allsvenskan,Sweden
+3806,Guizhou Renhe,Ju-seong Park,30.0,Left-Back,Gyeongnam FC,free transfer,in,Winter,0.0,Chinese Super League,2014,2014/2015,China,K League 1,South Korea
+3854,Tianjin Teda,Mak Lind,27.0,Centre-Back,Halmstads BK,free transfer,out,Winter,0.0,Chinese Super League,2014,2014/2015,China,Allsvenskan,Sweden
+3873,Jiangsu Guoxin Sainty,Sergio Ariel Escudero,26.0,Centre-Forward,FC Seoul,€2.00m,in,Winter,2.0,Chinese Super League,2014,2014/2015,China,K League 1,South Korea
+3886,Jiangsu Guoxin Sainty,Shin-young Yoon,27.0,Centre-Back,Daejeon Citizen,free transfer,out,Winter,0.0,Chinese Super League,2014,2014/2015,China,K League 1,South Korea
+3893,Jiangsu Guoxin Sainty,Édison Toloza,30.0,Right Winger,Junior FC,loan transfer,out,Winter,,Chinese Super League,2014,2014/2015,China,Liga Dimayor I,Colombia
+3909,Shanghai Greenland Shenhua,Avraam Papadopoulos,30.0,Centre-Back,Trabzonspor,€285k,in,Winter,0.285,Chinese Super League,2014,2014/2015,China,Super Lig,Turkey
+3932,Liaoning FC,Franck Boli,21.0,Centre-Forward,Stabæk Fotball,€700k,in,Winter,0.7,Chinese Super League,2014,2014/2015,China,Eliteserien,Norway
+4039,Hangzhou Greentown,Masashi Oguro,34.0,Centre-Forward,Kyoto Sanga,"End of loanDec 31, 2014",in,Winter,,Chinese Super League,2014,2014/2015,China,J1 League,Japan
+4041,Hangzhou Greentown,Masashi Oguro,34.0,Centre-Forward,Kyoto Sanga,free transfer,out,Winter,0.0,Chinese Super League,2014,2014/2015,China,J1 League,Japan
+4060,Henan Jianye,Eddi Gomes,26.0,Centre-Back,Esbjerg fB,€1.50m,in,Winter,1.5,Chinese Super League,2014,2014/2015,China,Superligaen,Denmark
+4079,Henan Jianye,Ji-nam Lee,30.0,Centre-Back,Jeonnam Dragons,free transfer,out,Winter,0.0,Chinese Super League,2014,2014/2015,China,K League 1,South Korea
+4109,Chongqing Lifan,Elías,31.0,Defensive Midfield,Al-Fateh,free transfer,out,Winter,0.0,Chinese Super League,2014,2014/2015,China,Saudi Professional League,Saudi Arabia
+4120,Shijiazhuang Ever Bright,Jacob Mulenga,30.0,Centre-Forward,Adana Demirspor,free transfer,in,Winter,0.0,Chinese Super League,2014,2014/2015,China,Super Lig,Turkey
+4145,Guangzhou Evergrande Taobao,Robinho,31.0,Left Winger,AC Milan,free transfer,in,Summer,0.0,Chinese Super League,2015,2015/2016,China,Serie A,Italy
+4149,Guangzhou Evergrande Taobao,Alberto Gilardino,33.0,Centre-Forward,US Palermo,free transfer,out,Summer,0.0,Chinese Super League,2015,2015/2016,China,Serie A,Italy
+4156,Shanghai SIPG,Asamoah Gyan,29.0,Centre-Forward,Al-Ain FC,€9.00m,in,Summer,9.0,Chinese Super League,2015,2015/2016,China,Saudi Professional League,Saudi Arabia
+4164,Shandong Luneng Taishan,Zhunyi Gao,19.0,Centre-Back,Avispa Fukuoka,?,in,Summer,,Chinese Super League,2015,2015/2016,China,J1 League,Japan
+4166,Beijing Guoan,Kléber,25.0,Centre-Forward,FC Porto,€4.30m,in,Summer,4.3,Chinese Super League,2015,2015/2016,China,Liga Nos,Portugal
+4167,Beijing Guoan,Xizhe Zhang,24.0,Attacking Midfield,VfL Wolfsburg,€2.00m,in,Summer,2.0,Chinese Super League,2015,2015/2016,China,1 Bundesliga,Germany
+4172,Beijing Guoan,Chengdong Zhang,26.0,Right Winger,Rayo Vallecano,loan transfer,out,Summer,,Chinese Super League,2015,2015/2016,China,Primera Division,Spain
+4191,Shanghai Greenland Shenhua,Avraam Papadopoulos,31.0,Centre-Back,Júbilo Iwata,free transfer,out,Summer,0.0,Chinese Super League,2015,2015/2016,China,J1 League,Japan
+4194,Shanghai Greenland Shenhua,Paulo Henrique,26.0,Centre-Forward,Liaoning FC,loan transfer,out,Summer,,Chinese Super League,2015,2015/2016,China,Chinese Super League,China
+4195,Shanghai Greenland Shenhua,Stoppila Sunzu,26.0,Centre-Back,LOSC Lille,loan transfer,out,Summer,,Chinese Super League,2015,2015/2016,China,Ligue 1,France
+4201,Shijiazhuang Ever Bright,Rúben Micael,28.0,Central Midfield,SC Braga,€2.60m,in,Summer,2.6,Chinese Super League,2015,2015/2016,China,Liga Nos,Portugal
+4232,Hangzhou Greentown,Imed Louati,21.0,Centre-Forward,Gyeongnam FC,loan transfer,out,Summer,,Chinese Super League,2015,2015/2016,China,K League 1,South Korea
+4254,Guangzhou R&F,Jeremy Bokila,26.0,Centre-Forward,Terek Grozny,€2.20m,in,Summer,2.2,Chinese Super League,2015,2015/2016,China,Premier Liga,Russia
+4284,Guangzhou Evergrande Taobao,Chaosheng Yang,22.0,Right Winger,Liaoning FC,"End of loanDec 31, 2015",in,Winter,,Chinese Super League,2015,2015/2016,China,Chinese Super League,China
+4293,Guangzhou Evergrande Taobao,Weiguo Liu,23.0,Goalkeeper,Liaoning FC,loan transfer,out,Winter,,Chinese Super League,2015,2015/2016,China,Chinese Super League,China
+4298,Guangzhou Evergrande Taobao,Alessandro Diamanti,32.0,Attacking Midfield,Atalanta BC,loan transfer,out,Winter,,Chinese Super League,2015,2015/2016,China,Serie A,Italy
+4311,Shanghai SIPG,Tobias Hysén,33.0,Centre-Forward,IFK Göteborg,free transfer,out,Winter,0.0,Chinese Super League,2015,2015/2016,China,Allsvenskan,Sweden
+4332,Beijing Guoan,Burak Yilmaz,30.0,Centre-Forward,Galatasaray,€8.00m,in,Winter,8.0,Chinese Super League,2015,2015/2016,China,Super Lig,Turkey
+4340,Beijing Guoan,Chengdong Zhang,26.0,Right Winger,Rayo Vallecano,"End of loanJan 22, 2016",in,Winter,,Chinese Super League,2015,2015/2016,China,Primera Division,Spain
+4343,Beijing Guoan,Yun Yang,26.0,Defensive Midfield,Liaoning FC,"End of loanDec 31, 2015",in,Winter,,Chinese Super League,2015,2015/2016,China,Chinese Super League,China
+4346,Beijing Guoan,Pablo Batalla,31.0,Attacking Midfield,Bursaspor,€1.50m,out,Winter,1.5,Chinese Super League,2015,2015/2016,China,Super Lig,Turkey
+4347,Beijing Guoan,Dejan Damjanović,34.0,Centre-Forward,FC Seoul,free transfer,out,Winter,0.0,Chinese Super League,2015,2015/2016,China,K League 1,South Korea
+4352,Beijing Guoan,Dae-sung Ha,30.0,Attacking Midfield,FC Tokyo,?,out,Winter,,Chinese Super League,2015,2015/2016,China,J1 League,Japan
+4356,Beijing Guoan,Xiaotian Shi,25.0,Goalkeeper,Liaoning FC,"End of loanDec 31, 2015",out,Winter,,Chinese Super League,2015,2015/2016,China,Chinese Super League,China
+4376,Henan Jianye,Yongchi Lei,27.0,Centre-Forward,Liaoning FC,free transfer,out,Winter,0.0,Chinese Super League,2015,2015/2016,China,Chinese Super League,China
+4377,Henan Jianye,Qiang Lu,27.0,Centre-Back,Liaoning FC,free transfer,out,Winter,0.0,Chinese Super League,2015,2015/2016,China,Chinese Super League,China
+4378,Henan Jianye,In-hwan Jung,29.0,Centre-Back,FC Seoul,free transfer,out,Winter,0.0,Chinese Super League,2015,2015/2016,China,K League 1,South Korea
+4394,Shanghai Greenland Shenhua,Sheng Qin,29.0,Defensive Midfield,Liaoning FC,free transfer,in,Winter,0.0,Chinese Super League,2015,2015/2016,China,Chinese Super League,China
+4396,Shanghai Greenland Shenhua,Paulo Henrique,26.0,Centre-Forward,Liaoning FC,"End of loanDec 31, 2015",in,Winter,,Chinese Super League,2015,2015/2016,China,Chinese Super League,China
+4429,Chongqing Lifan,Woo-young Jung,26.0,Defensive Midfield,Vissel Kobe,€1.15m,in,Winter,1.15,Chinese Super League,2015,2015/2016,China,J1 League,Japan
+4432,Chongqing Lifan,Jie Ding,28.0,Centre-Back,Liaoning FC,free transfer,in,Winter,0.0,Chinese Super League,2015,2015/2016,China,Chinese Super League,China
+4446,Chongqing Lifan,Adrian Leijer,29.0,Centre-Back,Suwon FC,free transfer,out,Winter,0.0,Chinese Super League,2015,2015/2016,China,K League 1,South Korea
+4462,Jiangsu Suning,Trent Sainsbury,24.0,Centre-Back,PEC Zwolle,€1.00m,in,Winter,1.0,Chinese Super League,2015,2015/2016,China,Eredivisie,Netherlands
+4465,Jiangsu Suning,Édison Toloza,31.0,Right Winger,Junior FC,"End of loanDec 31, 2015",in,Winter,,Chinese Super League,2015,2015/2016,China,Liga Dimayor I,Colombia
+4468,Jiangsu Suning,Vidar Örn Kjartansson,25.0,Centre-Forward,Malmö FF,€325k,out,Winter,0.325,Chinese Super League,2015,2015/2016,China,Allsvenskan,Sweden
+4471,Jiangsu Suning,Édison Toloza,31.0,Right Winger,Junior FC,free transfer,out,Winter,0.0,Chinese Super League,2015,2015/2016,China,Liga Dimayor I,Colombia
+4472,Jiangsu Suning,Sergio Ariel Escudero,27.0,Centre-Forward,Kyoto Sanga,free transfer,out,Winter,0.0,Chinese Super League,2015,2015/2016,China,J1 League,Japan
+4481,Changchun Yatai,Julien Gorius,30.0,Central Midfield,KRC Genk,?,in,Winter,,Chinese Super League,2015,2015/2016,China,Juliper Pro League,Belgium
+4494,Changchun Yatai,Moussa Maazou,27.0,Centre-Forward,Randers FC,?,out,Winter,,Chinese Super League,2015,2015/2016,China,Superligaen,Denmark
+4508,Hangzhou Greentown,Yang Liu,35.0,Goalkeeper,Liaoning FC,free transfer,in,Winter,0.0,Chinese Super League,2015,2015/2016,China,Chinese Super League,China
+4519,Hangzhou Greentown,Imed Louati,22.0,Centre-Forward,Gyeongnam FC,"End of loanDec 31, 2015",in,Winter,,Chinese Super League,2015,2015/2016,China,K League 1,South Korea
+4555,Liaoning FC,Derick Ogbu,26.0,Centre-Forward,Ventforet Kofu,free transfer,out,Winter,0.0,Chinese Super League,2015,2015/2016,China,J1 League,Japan
+4566,Tianjin Teda,Fredy Montero,28.0,Centre-Forward,Sporting CP,€5.00m,in,Winter,5.0,Chinese Super League,2015,2015/2016,China,Liga Nos,Portugal
+4569,Tianjin Teda,Aleksandar Jovanovic,26.0,Centre-Back,Jeju United,free transfer,in,Winter,0.0,Chinese Super League,2015,2015/2016,China,K League 1,South Korea
+4580,Tianjin Teda,Hernán Barcos,31.0,Centre-Forward,Sporting CP,free transfer,out,Winter,0.0,Chinese Super League,2015,2015/2016,China,Liga Nos,Portugal
+4581,Tianjin Teda,Cristian Tanase,28.0,Left Midfield,Sivasspor,free transfer,out,Winter,0.0,Chinese Super League,2015,2015/2016,China,Super Lig,Turkey
+4592,Guangzhou R&F,Gustav Svensson,28.0,Defensive Midfield,IFK Göteborg,€550k,in,Winter,0.55,Chinese Super League,2015,2015/2016,China,Allsvenskan,Sweden
+4594,Guangzhou R&F,Ting Yang,22.0,Centre-Back,AFC Tubize,?,in,Winter,,Chinese Super League,2015,2015/2016,China,Juliper Pro League,Belgium
+4605,Guangzhou R&F,Jeremy Bokila,27.0,Centre-Forward,Eskisehirspor,loan transfer,out,Winter,,Chinese Super League,2015,2015/2016,China,Super Lig,Turkey
+4606,Guangzhou R&F,Aaron Olanare,21.0,Centre-Forward,CSKA Moscow,loan transfer,out,Winter,,Chinese Super League,2015,2015/2016,China,Premier Liga,Russia
+4607,Guangzhou R&F,Míchel Herrero,27.0,Central Midfield,Real Oviedo,loan transfer,out,Winter,,Chinese Super League,2015,2015/2016,China,Primera Division,Spain
+4610,Yanbian Funde,Bit-garam Yoon,25.0,Central Midfield,Jeju United,€2.00m,in,Winter,2.0,Chinese Super League,2015,2015/2016,China,K League 1,South Korea
+4612,Yanbian Funde,Seung-dae Kim,24.0,Centre-Forward,Pohang Steelers,€1.50m,in,Winter,1.5,Chinese Super League,2015,2015/2016,China,K League 1,South Korea
+4616,Yanbian Funde,Nikola Petkovic,29.0,Centre-Back,KVC Westerlo,free transfer,in,Winter,0.0,Chinese Super League,2015,2015/2016,China,Juliper Pro League,Belgium
+4627,Hebei China Fortune,Gervinho,28.0,Left Winger,AS Roma,€18.00m,in,Winter,18.0,Chinese Super League,2015,2015/2016,China,Serie A,Italy
+4629,Hebei China Fortune,Haifeng Ding,24.0,Left-Back,Liaoning FC,€7.10m,in,Winter,7.1,Chinese Super League,2015,2015/2016,China,Chinese Super League,China
+4633,Hebei China Fortune,Stéphane Mbia,29.0,Defensive Midfield,Trabzonspor,€6.00m,in,Winter,6.0,Chinese Super League,2015,2015/2016,China,Super Lig,Turkey
+4635,Hebei China Fortune,Gaël Kakuta,24.0,Attacking Midfield,Sevilla FC,€5.00m,in,Winter,5.0,Chinese Super League,2015,2015/2016,China,Primera Division,Spain
+4643,Hebei China Fortune,Ibba Laajab,30.0,Centre-Forward,Yokohama FC,free transfer,out,Winter,0.0,Chinese Super League,2015,2015/2016,China,J1 League,Japan
+4657,Guangzhou Evergrande Taobao,Alessandro Diamanti,33.0,Attacking Midfield,Atalanta BC,"End of loanJun 30, 2016",in,Summer,,Chinese Super League,2016,2016/2017,China,Serie A,Italy
+4659,Guangzhou Evergrande Taobao,Alessandro Diamanti,33.0,Attacking Midfield,US Palermo,free transfer,out,Summer,0.0,Chinese Super League,2016,2016/2017,China,Serie A,Italy
+4664,Jiangsu Suning,Roger Martínez,22.0,Left Winger,Racing Club,€8.90m,in,Summer,8.9,Chinese Super League,2016,2016/2017,China,Superliga,Argentina
+4665,Jiangsu Suning,Jeong-ho Hong,26.0,Centre-Back,FC Augsburg,€6.00m,in,Summer,6.0,Chinese Super League,2016,2016/2017,China,1 Bundesliga,Germany
+4683,Shanghai Greenland Shenhua,Stoppila Sunzu,27.0,Centre-Back,LOSC Lille,?,out,Summer,,Chinese Super League,2016,2016/2017,China,Ligue 1,France
+4696,Guangzhou R&F,Míchel Herrero,27.0,Central Midfield,Real Oviedo,"End of loanJun 30, 2016",in,Summer,,Chinese Super League,2016,2016/2017,China,Primera Division,Spain
+4697,Guangzhou R&F,Aaron Olanare,22.0,Centre-Forward,CSKA Moscow,"End of loanJun 30, 2016",in,Summer,,Chinese Super League,2016,2016/2017,China,Premier Liga,Russia
+4698,Guangzhou R&F,Jeremy Bokila,27.0,Centre-Forward,Eskisehirspor,"End of loanJun 30, 2016",in,Summer,,Chinese Super League,2016,2016/2017,China,Super Lig,Turkey
+4736,Changchun Yatai,Mislav Orsic,23.0,Left Winger,Jeonnam Dragons,€1.30m,in,Summer,1.3,Chinese Super League,2016,2016/2017,China,K League 1,South Korea
+4739,Changchun Yatai,Bruno Meneghel,29.0,Centre-Forward,Cerezo Osaka,?,in,Summer,,Chinese Super League,2016,2016/2017,China,J1 League,Japan
+4782,Guangzhou Evergrande Taobao,Weiguo Liu,24.0,Goalkeeper,Liaoning FC,"End of loanDec 31, 2016",in,Winter,,Chinese Super League,2016,2016/2017,China,Chinese Super League,China
+4853,Shanghai Greenland Shenhua,Óscar Romero,24.0,Attacking Midfield,Racing Club,€8.40m,in,Winter,8.4,Chinese Super League,2016,2016/2017,China,Superliga,Argentina
+4854,Shanghai Greenland Shenhua,Shilin Sun,28.0,Defensive Midfield,Liaoning FC,€8.20m,in,Winter,8.2,Chinese Super League,2016,2016/2017,China,Chinese Super League,China
+4884,Beijing Guoan,Taiyan Jin,27.0,Right-Back,Liaoning FC,€8.28m,in,Winter,8.28,Chinese Super League,2016,2016/2017,China,Chinese Super League,China
+4898,Beijing Guoan,Zheng Lang,30.0,Centre-Back,Liaoning FC,free transfer,out,Winter,0.0,Chinese Super League,2016,2016/2017,China,Chinese Super League,China
+4926,Guangzhou R&F,Aaron Olanare,22.0,Centre-Forward,CSKA Moscow,free transfer,out,Winter,0.0,Chinese Super League,2016,2016/2017,China,Premier Liga,Russia
+4960,Chongqing Dangdai Lifan,Tao Zheng,31.0,Right-Back,Liaoning FC,free transfer,in,Winter,0.0,Chinese Super League,2016,2016/2017,China,Chinese Super League,China
+4995,Tianjin Teda,Seok-ho Hwang,27.0,Centre-Back,Kashima Antlers,free transfer,in,Winter,0.0,Chinese Super League,2016,2016/2017,China,J1 League,Japan
+4996,Tianjin Teda,Yongchi Lei,28.0,Centre-Forward,Liaoning FC,free transfer,in,Winter,0.0,Chinese Super League,2016,2016/2017,China,Chinese Super League,China
+5007,Tianjin Teda,Aleksandar Jovanovic,27.0,Centre-Back,Jeju United,free transfer,out,Winter,0.0,Chinese Super League,2016,2016/2017,China,K League 1,South Korea
+5038,Liaoning FC,Dario Vidosic,29.0,Attacking Midfield,Seongnam FC,free transfer,out,Winter,0.0,Chinese Super League,2016,2016/2017,China,K League 1,South Korea
+5041,Liaoning FC,Franck Boli,23.0,Centre-Forward,Stabæk Fotball,?,out,Winter,,Chinese Super League,2016,2016/2017,China,Eliteserien,Norway
+5059,Changchun Yatai,Mislav Orsic,24.0,Left Winger,Ulsan Hyundai,€935k,out,Winter,0.935,Chinese Super League,2016,2016/2017,China,K League 1,South Korea
+5070,Henan Jianye,Christian Bassogog,21.0,Right Winger,Aalborg BK,€6.00m,in,Winter,6.0,Chinese Super League,2016,2016/2017,China,Superligaen,Denmark
+5116,Shandong Luneng Taishan,Xu Yang,29.0,Centre-Forward,Liaoning FC,loan transfer,out,Winter,,Chinese Super League,2016,2016/2017,China,Chinese Super League,China
+5123,Tianjin Quanjian,Shanping Yang,29.0,Centre-Back,Liaoning FC,€4.10m,in,Winter,4.1,Chinese Super League,2016,2016/2017,China,Chinese Super League,China
+5187,Shanghai SIPG,Asamoah Gyan,31.0,Centre-Forward,Kayserispor,free transfer,out,Summer,0.0,Chinese Super League,2017,2017/2018,China,Super Lig,Turkey
+5189,Tianjin Quanjian,Anthony Modeste,29.0,Centre-Forward,1. FC Köln,Loan fee:€5.70m,in,Summer,5.7,Chinese Super League,2017,2017/2018,China,1 Bundesliga,Germany
+5203,Hebei China Fortune,Gaël Kakuta,26.0,Attacking Midfield,Amiens SC,loan transfer,out,Summer,,Chinese Super League,2017,2017/2018,China,Ligue 1,France
+5215,Guangzhou R&F,Hyun-soo Jang,25.0,Centre-Back,FC Tokyo,€1.00m,out,Summer,1.0,Chinese Super League,2017,2017/2018,China,J1 League,Japan
+5247,Beijing Guoan,Burak Yilmaz,32.0,Centre-Forward,Trabzonspor,€4.00m,out,Summer,4.0,Chinese Super League,2017,2017/2018,China,Super Lig,Turkey
+5251,Chongqing Dangdai Lifan,Adrián Ramos,31.0,Centre-Forward,Granada CF,loan transfer,out,Summer,,Chinese Super League,2017,2017/2018,China,Primera Division,Spain
+5257,Shanghai Greenland Shenhua,Stoppila Sunzu,27.0,Centre-Back,LOSC Lille,"End of loanJun 30, 2016",in,Summer,,Chinese Super League,2017,2017/2018,China,Ligue 1,France
+5259,Shanghai Greenland Shenhua,Paulo Henrique,28.0,Centre-Forward,Akhisarspor,free transfer,out,Summer,0.0,Chinese Super League,2017,2017/2018,China,Super Lig,Turkey
+5261,Jiangsu Suning,Benjamin Moukandjo,28.0,Centre-Forward,FC Lorient,€5.50m,in,Summer,5.5,Chinese Super League,2017,2017/2018,China,Ligue 1,France
+5269,Tianjin Teda,Frank Acheampong,23.0,Left Winger,RSC Anderlecht,Loan fee:€3.00m,in,Summer,3.0,Chinese Super League,2017,2017/2018,China,Juliper Pro League,Belgium
+5272,Henan Jianye,Ricardo Vaz Tê,30.0,Right Winger,Akhisarspor,free transfer,in,Summer,0.0,Chinese Super League,2017,2017/2018,China,Super Lig,Turkey
+5346,Hebei China Fortune,Zheng Lang,31.0,Centre-Back,Liaoning FC,free transfer,in,Winter,0.0,Chinese Super League,2017,2017/2018,China,Chinese Super League,China
+5404,Shandong Luneng Taishan,Xu Yang,29.0,Centre-Forward,Liaoning FC,"End of loanDec 31, 2017",in,Winter,,Chinese Super League,2017,2017/2018,China,Chinese Super League,China
+5432,Changchun Yatai,Bruno Meneghel,30.0,Centre-Forward,Albirex Niigata,?,out,Winter,,Chinese Super League,2017,2017/2018,China,J1 League,Japan
+5467,Beijing Guoan,Jonathan Viera,28.0,Attacking Midfield,UD Las Palmas,€11.00m,in,Winter,11.0,Chinese Super League,2017,2017/2018,China,Primera Division,Spain
+5469,Beijing Guoan,Yanqiang Hu,24.0,Right Winger,Liaoning FC,€6.55m,in,Winter,6.55,Chinese Super League,2017,2017/2018,China,Chinese Super League,China
+5503,Chongqing Dangdai Lifan,Adrián Ramos,32.0,Centre-Forward,Granada CF,"End of loanJan 30, 2018",in,Winter,,Chinese Super League,2017,2017/2018,China,Primera Division,Spain
+5505,Chongqing Dangdai Lifan,Woo-young Jung,28.0,Defensive Midfield,Vissel Kobe,?,out,Winter,,Chinese Super League,2017,2017/2018,China,J1 League,Japan
+5506,Chongqing Dangdai Lifan,Adrián Ramos,32.0,Centre-Forward,Granada CF,?,out,Winter,,Chinese Super League,2017,2017/2018,China,Primera Division,Spain
+5527,Shanghai Greenland Shenhua,Demba Ba,32.0,Centre-Forward,Göztepe,free transfer,out,Winter,0.0,Chinese Super League,2017,2017/2018,China,Super Lig,Turkey
+5531,Shanghai Greenland Shenhua,Fei Xiong,30.0,Right-Back,Liaoning FC,free transfer,out,Winter,0.0,Chinese Super League,2017,2017/2018,China,Chinese Super League,China
+5543,Jiangsu Suning,Gabriel Paletta,32.0,Centre-Back,AC Milan,free transfer,in,Winter,0.0,Chinese Super League,2017,2017/2018,China,Serie A,Italy
+5568,Tianjin Teda,Frank Acheampong,24.0,Left Winger,RSC Anderlecht,€3.50m,in,Winter,3.5,Chinese Super League,2017,2017/2018,China,Juliper Pro League,Belgium
+5569,Tianjin Teda,Felix Bastians,29.0,Left-Back,VfL Bochum,€1.20m,in,Winter,1.2,Chinese Super League,2017,2017/2018,China,1 Bundesliga,Germany
+5586,Tianjin Teda,Fredy Montero,30.0,Centre-Forward,Sporting CP,free transfer,out,Winter,0.0,Chinese Super League,2017,2017/2018,China,Liga Nos,Portugal
+5587,Tianjin Teda,Mbaye Diagne,26.0,Centre-Forward,Kasimpasa,free transfer,out,Winter,0.0,Chinese Super League,2017,2017/2018,China,Super Lig,Turkey
+5589,Tianjin Teda,Seok-ho Hwang,28.0,Centre-Back,Shimizu S-Pulse,free transfer,out,Winter,0.0,Chinese Super League,2017,2017/2018,China,J1 League,Japan
+5596,Tianjin Teda,Yongchi Lei,29.0,Centre-Forward,Liaoning FC,loan transfer,out,Winter,,Chinese Super League,2017,2017/2018,China,Chinese Super League,China
+5599,Tianjin Teda,Frank Acheampong,24.0,Left Winger,RSC Anderlecht,"End of loanDec 31, 2017",out,Winter,,Chinese Super League,2017,2017/2018,China,Juliper Pro League,Belgium
+5602,Henan Jianye,Orlando Sá,29.0,Centre-Forward,Standard Liège,€4.80m,in,Winter,4.8,Chinese Super League,2017,2017/2018,China,Juliper Pro League,Belgium
+5628,Dalian Yifang,Liang Wang,28.0,Right-Back,Liaoning FC,?,in,Winter,,Chinese Super League,2017,2017/2018,China,Chinese Super League,China
+5678,Guangzhou Evergrande Taobao,Nemanja Gudelj,26.0,Defensive Midfield,Sporting CP,Loan fee:€3.00m,out,Summer,3.0,Chinese Super League,2018,2018/2019,China,Liga Nos,Portugal
+5690,Shandong Luneng Taishan,Papiss Cissé,33.0,Centre-Forward,Alanyaspor,?,out,Summer,,Chinese Super League,2018,2018/2019,China,Super Lig,Turkey
+5694,Beijing Guoan,Yiming Zheng,21.0,Centre-Back,Stabæk Fotball,free transfer,in,Summer,0.0,Chinese Super League,2018,2018/2019,China,Eliteserien,Norway
+5708,Jiangsu Suning,Trent Sainsbury,26.0,Centre-Back,PSV Eindhoven,free transfer,out,Summer,0.0,Chinese Super League,2018,2018/2019,China,Eredivisie,Netherlands
+5716,Hebei China Fortune,Gaël Kakuta,27.0,Attacking Midfield,Amiens SC,"End of loanJun 30, 2018",in,Summer,,Chinese Super League,2018,2018/2019,China,Ligue 1,France
+5717,Hebei China Fortune,Gaël Kakuta,27.0,Attacking Midfield,Rayo Vallecano,€2.00m,out,Summer,2.0,Chinese Super League,2018,2018/2019,China,Primera Division,Spain
+5720,Shanghai Greenland Shenhua,Demba Ba,33.0,Centre-Forward,Göztepe,free transfer,in,Summer,0.0,Chinese Super League,2018,2018/2019,China,Super Lig,Turkey
+5737,Tianjin Tianhai (-2019),Anthony Modeste,30.0,Centre-Forward,1. FC Köln,€29.00m,in,Summer,29.0,Chinese Super League,2018,2018/2019,China,1 Bundesliga,Germany
+5742,Tianjin Tianhai (-2019),Anthony Modeste,30.0,Centre-Forward,1. FC Köln,"End of loanJun 30, 2018",out,Summer,,Chinese Super League,2018,2018/2019,China,1 Bundesliga,Germany
+5760,Dalian Yifang,José Fonte,34.0,Centre-Back,LOSC Lille,free transfer,out,Summer,0.0,Chinese Super League,2018,2018/2019,China,Ligue 1,France
+5770,Henan Jianye,Juan Cala,28.0,Centre-Back,UD Las Palmas,free transfer,out,Summer,0.0,Chinese Super League,2018,2018/2019,China,Primera Division,Spain
+5773,Henan Jianye,Orlando Sá,30.0,Centre-Forward,Standard Liège,?,out,Summer,,Chinese Super League,2018,2018/2019,China,Juliper Pro League,Belgium
+5778,Chongqing Dangdai Lifan,Goran Milovic,29.0,Centre-Back,KV Oostende,free transfer,out,Summer,0.0,Chinese Super League,2018,2018/2019,China,Juliper Pro League,Belgium
+5779,Chongqing Dangdai Lifan,Nicolás Aguirre,28.0,Attacking Midfield,Granada CF,free transfer,out,Summer,0.0,Chinese Super League,2018,2018/2019,China,Primera Division,Spain
+5781,Wuhan Zall,Pedro Júnior,31.0,Centre-Forward,Kashima Antlers,loan transfer,in,Summer,,Chinese Super League,2018,2018/2019,China,J1 League,Japan
+5818,Guangzhou Evergrande Taobao,Ji-su Park,24.0,Centre-Back,Gyeongnam FC,€1.76m,in,Winter,1.76,Chinese Super League,2018,2018/2019,China,K League 1,South Korea
+5865,Beijing Guoan,John Hou Saeter,21.0,Attacking Midfield,Stabæk Fotball,€1.00m,in,Winter,1.0,Chinese Super League,2018,2018/2019,China,Eliteserien,Norway
+5883,Jiangsu Suning,Boyuan Feng,24.0,Centre-Forward,Liaoning FC,€2.34m,in,Winter,2.34,Chinese Super League,2018,2018/2019,China,Chinese Super League,China
+5910,Hebei China Fortune,Marcão,24.0,Centre-Forward,Gyeongnam FC,€5.30m,in,Winter,5.3,Chinese Super League,2018,2018/2019,China,K League 1,South Korea
+5911,Hebei China Fortune,Andy Russell,31.0,Centre-Back,Liaoning FC,free transfer,in,Winter,0.0,Chinese Super League,2018,2018/2019,China,Chinese Super League,China
+6021,Dalian Yifang,Marek Hamsik,31.0,Central Midfield,SSC Napoli,€20.00m,in,Winter,20.0,Chinese Super League,2018,2018/2019,China,Serie A,Italy
+6077,Chongqing Dangdai Lifan,Shuai Yang,22.0,Centre-Back,Liaoning FC,€1.98m,in,Winter,1.98,Chinese Super League,2018,2018/2019,China,Chinese Super League,China
+6099,Tianjin Teda,Sandro Wagner,31.0,Centre-Forward,Bayern Munich,€5.00m,in,Winter,5.0,Chinese Super League,2018,2018/2019,China,1 Bundesliga,Germany
+6109,Tianjin Teda,Yongchi Lei,29.0,Centre-Forward,Liaoning FC,"End of loanDec 31, 2018",in,Winter,,Chinese Super League,2018,2018/2019,China,Chinese Super League,China
+6145,Wuhan Zall,Pedro Júnior,31.0,Centre-Forward,Kashima Antlers,"End of loanDec 31, 2018",out,Winter,,Chinese Super League,2018,2018/2019,China,J1 League,Japan
+6155,Shenzhen FC,Xin Zhou,20.0,Right Midfield,Stabæk Fotball,free transfer,in,Winter,0.0,Chinese Super League,2018,2018/2019,China,Eliteserien,Norway
+6176,Shenzhen FC,Dyego Sousa,29.0,Centre-Forward,SC Braga,€5.40m,in,Summer,5.4,Chinese Super League,2019,2019/2020,China,Liga Nos,Portugal
+6184,Shenzhen FC,Ola Kamara,29.0,Centre-Forward,D.C. United,€2.23m,out,Summer,2.23,Chinese Super League,2019,2019/2020,China,Major League Soccer,United States of America
+6203,Shanghai Greenland Shenhua,Stephan El Shaarawy,26.0,Left Winger,AS Roma,€16.00m,in,Summer,16.0,Chinese Super League,2019,2019/2020,China,Serie A,Italy
+6210,Shanghai Greenland Shenhua,Yougang Xu,23.0,Right-Back,Liaoning FC,loan transfer,out,Summer,,Chinese Super League,2019,2019/2020,China,Chinese Super League,China
+6223,Guangzhou Evergrande Taobao,Nemanja Gudelj,27.0,Defensive Midfield,Sporting CP,"End of loanJun 30, 2019",in,Summer,,Chinese Super League,2019,2019/2020,China,Liga Nos,Portugal
+6227,Guangzhou Evergrande Taobao,Nemanja Gudelj,27.0,Defensive Midfield,Sevilla FC,free transfer,out,Summer,0.0,Chinese Super League,2019,2019/2020,China,Primera Division,Spain
+6247,Jiangsu Suning,Ivan Santini,30.0,Centre-Forward,RSC Anderlecht,€5.00m,in,Summer,5.0,Chinese Super League,2019,2019/2020,China,Juliper Pro League,Belgium
+6285,Beijing Guoan,Fernando,27.0,Defensive Midfield,Spartak Moscow,Loan fee:€5.40m,in,Summer,5.4,Chinese Super League,2019,2019/2020,China,Premier Liga,Russia
+6288,Beijing Guoan,Jonathan Viera,29.0,Attacking Midfield,UD Las Palmas,loan transfer,out,Summer,,Chinese Super League,2019,2019/2020,China,Primera Division,Spain
+6324,Qingdao Huanghai,Zhexiang Ruan,23.0,Midfield,Liaoning FC,free transfer,in,Summer,0.0,Chinese Super League,2019,2019/2020,China,Chinese Super League,China
+6338,Shenzhen FC,Pa Dibba,32.0,Centre-Forward,Adana Demirspor,free transfer,out,Winter,0.0,Chinese Super League,2019,2019/2020,China,Super Lig,Turkey
+6363,Shanghai Greenland Shenhua,Yougang Xu,23.0,Right-Back,Liaoning FC,"End of loanDec 31, 2019",in,Winter,,Chinese Super League,2019,2019/2020,China,Chinese Super League,China
+6448,Beijing Guoan,Fernando,27.0,Defensive Midfield,Spartak Moscow,€9.60m,in,Winter,9.6,Chinese Super League,2019,2019/2020,China,Premier Liga,Russia
+6453,Beijing Guoan,Jonathan Viera,30.0,Attacking Midfield,UD Las Palmas,"End of loanDec 31, 2019",in,Winter,,Chinese Super League,2019,2019/2020,China,Primera Division,Spain
+6457,Beijing Guoan,Fernando,27.0,Defensive Midfield,Spartak Moscow,"End of loanDec 31, 2019",out,Winter,,Chinese Super League,2019,2019/2020,China,Premier Liga,Russia
+6470,Wuhan Zall,Daniel Carriço,31.0,Centre-Back,Sevilla FC,€2.00m,in,Winter,2.0,Chinese Super League,2019,2019/2020,China,Primera Division,Spain
+6472,Wuhan Zall,Eddy Gnahoré,26.0,Central Midfield,Amiens SC,loan transfer,in,Winter,,Chinese Super League,2019,2019/2020,China,Ligue 1,France
+6495,Shijiazhuang Ever Bright,Stoppila Sunzu,30.0,Centre-Back,FC Metz,?,in,Winter,,Chinese Super League,2019,2019/2020,China,Ligue 1,France
+6500,Hebei China Fortune,Samir Memisevic,26.0,Centre-Back,FC Groningen,€1.50m,in,Winter,1.5,Chinese Super League,2019,2019/2020,China,Eredivisie,Netherlands
+6516,Qingdao Huanghai,Hao Wang,27.0,Centre-Forward,Liaoning FC,free transfer,in,Winter,0.0,Chinese Super League,2019,2019/2020,China,Chinese Super League,China
+6555,Beijing Guoan,Toni Sunjic,31.0,Centre-Back,Dynamo Moscow,€350k,in,Summer,0.35,Chinese Super League,2020,2020/2021,China,Premier Liga,Russia
+6612,Guangzhou City,Eran Zahavi,33.0,Centre-Forward,PSV Eindhoven,free transfer,out,Summer,0.0,Chinese Super League,2020,2020/2021,China,Eredivisie,Netherlands
+6665,Shanghai Shenhua,Miler Bolaños,30.0,Attacking Midfield,Club Tijuana,€3.00m,in,Summer,3.0,Chinese Super League,2020,2020/2021,China,Liga Mx Apertura,Mexico
+6683,Tianjin Jinmen Tiger,Tiquinho Soares,29.0,Centre-Forward,FC Porto,€5.40m,in,Summer,5.4,Chinese Super League,2020,2020/2021,China,Liga Nos,Portugal
+6701,Wuhan FC,Shangkun Liu,28.0,Right-Back,Liaoning FC,free transfer,in,Summer,0.0,Chinese Super League,2020,2020/2021,China,Chinese Super League,China
+6732,Dalian Professional,Jailson,25.0,Defensive Midfield,Fenerbahce,€4.50m,in,Summer,4.5,Chinese Super League,2020,2020/2021,China,Super Lig,Turkey
+6750,Cangzhou Mighty Lions,Zhenqiang Zhang,27.0,Goalkeeper,Liaoning FC,free transfer,in,Summer,0.0,Chinese Super League,2020,2020/2021,China,Chinese Super League,China
+6805,Shenzhen FC,Ju-hun Song,26.0,Centre-Back,Jeju United,free transfer,out,Winter,0.0,Chinese Super League,2020,2020/2021,China,K League 1,South Korea
+6811,Shenzhen FC,John Mary,27.0,Centre-Forward,Avispa Fukuoka,loan transfer,out,Winter,,Chinese Super League,2020,2020/2021,China,J1 League,Japan
+6868,Changchun Yatai,Jores Okore,28.0,Centre-Back,Aalborg BK,€403k,in,Winter,0.403,Chinese Super League,2020,2020/2021,China,Superligaen,Denmark
+6870,Changchun Yatai,Júnior Negrão,34.0,Centre-Forward,Ulsan Hyundai,free transfer,in,Winter,0.0,Chinese Super League,2020,2020/2021,China,K League 1,South Korea
+6924,Guangzhou FC,Ji-su Park,26.0,Centre-Back,Suwon FC,loan transfer,out,Winter,,Chinese Super League,2020,2020/2021,China,K League 1,South Korea
+6932,Guangzhou City,Jown Cardona,26.0,Left Winger,Once Caldas,free transfer,in,Winter,0.0,Chinese Super League,2020,2020/2021,China,Liga Dimayor I,Colombia
+6943,Guangzhou City,Dusko Tosic,36.0,Centre-Back,Kasimpasa,free transfer,out,Winter,0.0,Chinese Super League,2020,2020/2021,China,Super Lig,Turkey
+7009,Chongqing Liangjiang Athletic,Dostonbek Tursunov,25.0,Centre-Back,Busan IPark,free transfer,in,Winter,0.0,Chinese Super League,2020,2020/2021,China,K League 1,South Korea
+7035,Shanghai Shenhua,Matej Jonjic,29.0,Centre-Back,Cerezo Osaka,free transfer,in,Winter,0.0,Chinese Super League,2020,2020/2021,China,J1 League,Japan
+7066,Shanghai Shenhua,Stephan El Shaarawy,28.0,Left Winger,AS Roma,free transfer,out,Winter,0.0,Chinese Super League,2020,2020/2021,China,Serie A,Italy
+7067,Shanghai Shenhua,Fidel Martínez,30.0,Left Winger,Club Tijuana,free transfer,out,Winter,0.0,Chinese Super League,2020,2020/2021,China,Liga Mx Apertura,Mexico
+7140,Wuhan FC,Eddy Gnahoré,27.0,Central Midfield,Amiens SC,"End of loanDec 31, 2020",out,Winter,,Chinese Super League,2020,2020/2021,China,Ligue 1,France
+7173,Dalian Professional,Salomón Rondón,31.0,Centre-Forward,CSKA Moscow,Loan fee:€500k,out,Winter,0.5,Chinese Super League,2020,2020/2021,China,Premier Liga,Russia
+7174,Dalian Professional,Marek Hamsik,33.0,Central Midfield,IFK Göteborg,free transfer,out,Winter,0.0,Chinese Super League,2020,2020/2021,China,Allsvenskan,Sweden
+7221,Qingdao FC,Xiaoxuan Ji,28.0,Centre-Forward,AJ Auxerre,loan transfer,in,Winter,,Chinese Super League,2020,2020/2021,China,Ligue 1,France
+7298,Guangzhou FC,Talisca,27.0,Attacking Midfield,Al-Nassr FC,€8.00m,out,Summer,8.0,Chinese Super League,2021,2021/2022,China,Saudi Professional League,Saudi Arabia
+7319,Beijing Guoan,Min-jae Kim,24.0,Centre-Back,Fenerbahce,€3.00m,out,Summer,3.0,Chinese Super League,2021,2021/2022,China,Super Lig,Turkey
+7321,Beijing Guoan,Jonathan Viera,31.0,Attacking Midfield,UD Las Palmas,free transfer,out,Summer,0.0,Chinese Super League,2021,2021/2022,China,Primera Division,Spain
+7328,Shenzhen FC,Dyego Sousa,31.0,Centre-Forward,UD Almería,free transfer,out,Summer,0.0,Chinese Super League,2021,2021/2022,China,Primera Division,Spain
+7336,Guangzhou City,Gustav Svensson,34.0,Defensive Midfield,IFK Göteborg,?,out,Summer,,Chinese Super League,2021,2021/2022,China,Allsvenskan,Sweden
+7366,Tianjin Jinmen Tiger,Marko Vejinović,31.0,Central Midfield,ADO Den Haag,?,in,Summer,,Chinese Super League,2021,2021/2022,China,Eredivisie,Netherlands
+7388,Wuhan Yangtze,Daniel Carriço,33.0,Centre-Back,UD Almería,free transfer,out,Summer,0.0,Chinese Super League,2021,2021/2022,China,Primera Division,Spain
+7389,Wuhan Yangtze,Léo Baptistão,28.0,Second Striker,Santos FC,free transfer,out,Summer,0.0,Chinese Super League,2021,2021/2022,China,Campeonato Brasileiro Serie A,Brazil
+7409,Zhejiang FC,Franko Andrijasevic,30.0,Attacking Midfield,KAA Gent,?,in,Summer,,Chinese Super League,2021,2021/2022,China,Juliper Pro League,Belgium
+7428,Chengdu Rongcheng,Felipe Silva,29.0,Centre-Forward,Gwangju FC,?,in,Summer,,Chinese Super League,2021,2021/2022,China,K League 1,South Korea
+7437,Chengdu Rongcheng,Johnathan,31.0,Centre-Forward,Gwangju FC,loan transfer,out,Summer,,Chinese Super League,2021,2021/2022,China,K League 1,South Korea
+7448,Dalian Professional,Salomón Rondón,31.0,Centre-Forward,CSKA Moscow,"End of loanJun 30, 2021",in,Summer,,Chinese Super League,2021,2021/2022,China,Premier Liga,Russia
+7474,Shandong Taishan,Leonardo,24.0,Centre-Forward,Ulsan Hyundai,loan transfer,out,Winter,,Chinese Super League,2021,2021/2022,China,K League 1,South Korea
+7479,Shanghai Port,Cherif Ndiaye,26.0,Centre-Forward,Göztepe,€1.20m,in,Winter,1.2,Chinese Super League,2021,2021/2022,China,Super Lig,Turkey
+7522,Guangzhou FC,Ricardo Goulart,30.0,Attacking Midfield,Santos FC,free transfer,out,Winter,0.0,Chinese Super League,2021,2021/2022,China,Campeonato Brasileiro Serie A,Brazil
+7537,Changchun Yatai,Dino Ndlovu,32.0,Centre-Forward,Kocaelispor,€300k,in,Winter,0.3,Chinese Super League,2021,2021/2022,China,Super Lig,Turkey
+7566,Beijing Guoan,Sang-woo Kang,28.0,Left-Back,Pohang Steelers,€750k,in,Winter,0.75,Chinese Super League,2021,2021/2022,China,K League 1,South Korea
+7582,Shenzhen FC,Chae-min Lim,31.0,Centre-Back,Gangwon FC,€720k,in,Winter,0.72,Chinese Super League,2021,2021/2022,China,K League 1,South Korea
+7597,Shenzhen FC,John Mary,28.0,Centre-Forward,Avispa Fukuoka,"End of loanDec 31, 2021",in,Winter,,Chinese Super League,2021,2021/2022,China,J1 League,Japan
+7601,Shenzhen FC,Thievy Bifouma,29.0,Right Winger,Bursaspor,free transfer,out,Winter,0.0,Chinese Super League,2021,2021/2022,China,Super Lig,Turkey
+7686,Shanghai Shenhua,Matej Jonjic,31.0,Centre-Back,Cerezo Osaka,free transfer,out,Winter,0.0,Chinese Super League,2021,2021/2022,China,J1 League,Japan
+7779,Wuhan Yangtze,Bruno Viana,27.0,Centre-Back,SC Braga,Loan fee:€100k,in,Winter,0.1,Chinese Super League,2021,2021/2022,China,Liga Nos,Portugal
+7806,Wuhan Yangtze,Jean Evrard Kouassi,27.0,Left Winger,Trabzonspor,free transfer,out,Winter,0.0,Chinese Super League,2021,2021/2022,China,Super Lig,Turkey
+7813,Wuhan Yangtze,Bruno Viana,27.0,Centre-Back,SC Braga,"End of loanDec 31, 2022",out,Winter,,Chinese Super League,2021,2021/2022,China,Liga Nos,Portugal
+7820,Wuhan Three Towns,Davidson,31.0,Left Winger,Alanyaspor,€2.00m,in,Winter,2.0,Chinese Super League,2021,2021/2022,China,Super Lig,Turkey
+7855,Wuhan Three Towns,Moses Ogbu,31.0,Centre-Forward,Pohang Steelers,?,out,Winter,,Chinese Super League,2021,2021/2022,China,K League 1,South Korea
+7932,Chengdu Rongcheng,Johnathan,31.0,Centre-Forward,Gwangju FC,"End of loanDec 31, 2021",in,Winter,,Chinese Super League,2021,2021/2022,China,K League 1,South Korea
+8010,Henan Songshan Longmen,Guido Carrillo,31.0,Centre-Forward,Elche CF,free transfer,in,Summer,0.0,Chinese Super League,2022,2022/2023,China,Primera Division,Spain
+8011,Henan Songshan Longmen,Mohamed Buya Turay,27.0,Centre-Forward,Malmö FF,?,out,Summer,,Chinese Super League,2022,2022/2023,China,Allsvenskan,Sweden
+8046,Dalian Professional,Sam Larsson,29.0,Left Winger,Antalyaspor,free transfer,out,Summer,0.0,Chinese Super League,2022,2022/2023,China,Super Lig,Turkey
+8074,Shenzhen FC,Ole Selnaes,27.0,Defensive Midfield,FC Zürich,free transfer,out,Summer,0.0,Chinese Super League,2022,2022/2023,China,Super League,Switzerland
+8075,Shenzhen FC,Mubarak Wakaso,32.0,Central Midfield,KAS Eupen,loan transfer,out,Summer,,Chinese Super League,2022,2022/2023,China,Juliper Pro League,Belgium
+8116,Wuhan Three Towns,Aziz,24.0,Centre-Forward,Rio Ave FC,Loan fee:€1.00m,in,Winter,1.0,Chinese Super League,2022,2022/2023,China,Liga Nos,Portugal
+8126,Shandong Taishan,Leonardo,25.0,Centre-Forward,Ulsan Hyundai,"End of loanDec 31, 2022",in,Winter,,Chinese Super League,2022,2022/2023,China,K League 1,South Korea
+8134,Zhejiang FC,Jean Evrard Kouassi,28.0,Left Winger,Trabzonspor,free transfer,in,Winter,0.0,Chinese Super League,2022,2022/2023,China,Super Lig,Turkey
+8151,Shanghai Port,Cherif Ndiaye,27.0,Centre-Forward,Adana Demirspor,loan transfer,out,Winter,,Chinese Super League,2022,2022/2023,China,Super Lig,Turkey
+8170,Beijing Guoan,John Hou Saeter,25.0,Attacking Midfield,Ranheim IL,free transfer,out,Winter,0.0,Chinese Super League,2022,2022/2023,China,Eliteserien,Norway
+8205,Shenzhen FC,Juan Fernando Quintero,29.0,Attacking Midfield,Junior FC,free transfer,out,Winter,0.0,Chinese Super League,2022,2022/2023,China,Liga Dimayor I,Colombia
+8206,Shenzhen FC,Chae-min Lim,32.0,Centre-Back,Jeju United,free transfer,out,Winter,0.0,Chinese Super League,2022,2022/2023,China,K League 1,South Korea
+8211,Qingdao Hainiu,Evans Kangwa,30.0,Left Winger,Arsenal Tula,free transfer,in,Winter,0.0,Chinese Super League,2022,2022/2023,China,Premier Liga,Russia

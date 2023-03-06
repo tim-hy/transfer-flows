@@ -1,0 +1,976 @@
+,club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_from_name,year,season,country_from_name,league_to_name,country_to_name
+4,Club Atlético Aldosivi,Darío Gandín,30.0,Centre-Forward,CA Colon,free transfer,in,Summer,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+6,Club Atlético Aldosivi,Ismael Quílez,25.0,Right-Back,Racing Club,free transfer,in,Summer,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+56,AA Argentinos Juniors,Raúl Becerra,26.0,Centre-Forward,CA Colon,free transfer,out,Summer,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+64,AA Argentinos Juniors,José Luis Palomino,24.0,Centre-Back,FC Metz,?,out,Summer,,Superliga,2014,2014/2015,Argentina,Ligue 1,France
+85,Arsenal Fútbol Club,Gustavo Cabral,28.0,Centre-Back,Celta de Vigo,"End of loanJun 30, 2014",in,Summer,,Superliga,2014,2014/2015,Argentina,Primera Division,Spain
+96,Arsenal Fútbol Club,Gustavo Cabral,28.0,Centre-Back,Celta de Vigo,free transfer,out,Summer,0.0,Superliga,2014,2014/2015,Argentina,Primera Division,Spain
+98,Arsenal Fútbol Club,José Gabriel Ramírez,23.0,Left Midfield,Nueva Chicago,free transfer,out,Summer,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+117,Atlético de Rafaela,Nicolás Royón,23.0,Centre-Forward,Liverpool FC,loan transfer,in,Summer,,Superliga,2014,2014/2015,Argentina,Premier League,England
+140,Atlético de Rafaela,Diego Vera,29.0,Centre-Forward,Liverpool FC,"End of loanJun 30, 2014",out,Summer,,Superliga,2014,2014/2015,Argentina,Premier League,England
+145,Atlético de Rafaela,Andrés Rodales,26.0,Right-Back,Liverpool FC,"End of loanJun 30, 2014",out,Summer,,Superliga,2014,2014/2015,Argentina,Premier League,England
+157,Club Atlético Belgrano,Lucas Aveldaño,29.0,Centre-Back,Nueva Chicago,"End of loanJun 30, 2015",in,Summer,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+167,Club Atlético Belgrano,Luciano Lollo,27.0,Centre-Back,Racing Club,loan transfer,out,Summer,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+185,CA Boca Juniors,Guillermo Burdisso,25.0,Centre-Back,Galatasaray,"End of loanJun 30, 2014",in,Summer,,Superliga,2014,2014/2015,Argentina,Super Lig,Turkey
+186,CA Boca Juniors,Leandro Paredes,20.0,Defensive Midfield,Chievo Verona,"End of loanJun 30, 2014",in,Summer,,Superliga,2014,2014/2015,Argentina,Serie A,Italy
+192,CA Boca Juniors,Leandro Paredes,20.0,Defensive Midfield,AS Roma,Loan fee:€250k,out,Summer,0.25,Superliga,2014,2014/2015,Argentina,Serie A,Italy
+196,CA Boca Juniors,Cristian Pavón,18.0,Left Winger,CA Colon,loan transfer,out,Summer,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+201,CA Boca Juniors,Sergio Araujo,22.0,Centre-Forward,UD Las Palmas,loan transfer,out,Summer,,Superliga,2014,2014/2015,Argentina,Primera Division,Spain
+206,CA Boca Juniors,Diego Perotti,25.0,Left Winger,Sevilla FC,"End of loanJun 30, 2014",out,Summer,,Superliga,2014,2014/2015,Argentina,Primera Division,Spain
+210,CA Banfield,Nicolás Bertolo,28.0,Left Winger,CD Cruz Azul,?,in,Summer,,Superliga,2014,2014/2015,Argentina,Liga Mx Apertura,Mexico
+211,CA Banfield,Agustín Farías,26.0,Defensive Midfield,Nueva Chicago,loan transfer,in,Summer,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+224,CA Banfield,Lihué Prichoda,25.0,Right Midfield,CA Colon,loan transfer,out,Summer,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+227,CA Banfield,Nicolás Bertolo,28.0,Left Winger,CD Cruz Azul,"End of loanJun 30, 2014",out,Summer,,Superliga,2014,2014/2015,Argentina,Liga Mx Apertura,Mexico
+256,Club Atlético Lanús,Matías Ibáñez,27.0,Goalkeeper,SD Eibar,free transfer,in,Summer,0.0,Superliga,2014,2014/2015,Argentina,Primera Division,Spain
+267,Club Atlético Lanús,Carlos Izquierdoz,25.0,Centre-Back,Santos Laguna,€2.20m,out,Summer,2.2,Superliga,2014,2014/2015,Argentina,Liga Mx Apertura,Mexico
+297,CA San Martín (San Juan),Marcos Galarza,30.0,Right-Back,Nueva Chicago,free transfer,out,Summer,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+312,Club Atlético Temperley,Juan Dinenno,19.0,Centre-Forward,Racing Club,loan transfer,in,Summer,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+329,CD Godoy Cruz Antonio Tomba,Jaime Ayoví,26.0,Centre-Forward,Club Tijuana,loan transfer,in,Summer,,Superliga,2014,2014/2015,Argentina,Liga Mx Apertura,Mexico
+335,CD Godoy Cruz Antonio Tomba,Gonzalo Cabrera,24.0,Left Winger,Once Caldas,"End of loanJun 30, 2013",in,Summer,,Superliga,2014,2014/2015,Argentina,Liga Dimayor I,Colombia
+347,CD Godoy Cruz Antonio Tomba,Leandro Grimi,29.0,Left-Back,Racing Club,free transfer,out,Summer,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+351,CD Godoy Cruz Antonio Tomba,Cristian García,26.0,Centre-Forward,CD Tenerife,free transfer,out,Summer,0.0,Superliga,2014,2014/2015,Argentina,Primera Division,Spain
+354,CD Godoy Cruz Antonio Tomba,Facundo Castillón,28.0,Right Winger,Racing Club,?,out,Summer,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+355,CD Godoy Cruz Antonio Tomba,Nicolás Sánchez,28.0,Centre-Back,Racing Club,?,out,Summer,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+397,Defensa y Justicia,Juan Dobboletta,21.0,Goalkeeper,Racing Club,free transfer,in,Summer,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+417,Defensa y Justicia,Nelson Acevedo,26.0,Defensive Midfield,Racing Club,?,out,Summer,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+430,Club Estudiantes de La Plata,Diego Vera,29.0,Centre-Forward,Liverpool FC,€550k,in,Summer,0.55,Superliga,2014,2014/2015,Argentina,Premier League,England
+447,Club Estudiantes de La Plata,Jonathan Silva,20.0,Left-Back,Sporting CP,€2.50m,out,Summer,2.5,Superliga,2014,2014/2015,Argentina,Liga Nos,Portugal
+448,Club Estudiantes de La Plata,José Leudo,20.0,Defensive Midfield,CA Colon,€110k,out,Summer,0.11,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+455,Club Estudiantes de La Plata,Diego Mendoza,21.0,Centre-Forward,Nueva Chicago,loan transfer,out,Summer,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+463,Club Estudiantes de La Plata,Pato Rodríguez,24.0,Left Winger,Santos FC,"End of loanJun 30, 2014",out,Summer,,Superliga,2014,2014/2015,Argentina,Campeonato Brasileiro Serie A,Brazil
+477,Club de Gimnasia y Esgrima La Plata,Franco Mussis,22.0,Defensive Midfield,FC Copenhagen,€1.90m,out,Summer,1.9,Superliga,2014,2014/2015,Argentina,Superligaen,Denmark
+489,Club de Gimnasia y Esgrima La Plata,Gastón Díaz,26.0,Right-Back,Racing Club,loan transfer,out,Summer,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+500,CA Huracán,Iván Moreno y Fabianesi,35.0,Right Midfield,Liverpool FC,free transfer,in,Summer,0.0,Superliga,2014,2014/2015,Argentina,Premier League,England
+533,CA Independiente,Germán Montoya,31.0,Goalkeeper,CA Colon,free transfer,in,Summer,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+551,CA Independiente,Samuel Cáceres,25.0,Centre-Back,Nueva Chicago,free transfer,out,Summer,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+565,CA Newell's Old Boys,Leandro Fernández,31.0,Centre-Back,Dinamo Moscow,free transfer,in,Summer,0.0,Superliga,2014,2014/2015,Argentina,Premier Liga,Russia
+567,CA Newell's Old Boys,Claudio Corvalán,25.0,Left-Back,Racing Club,loan transfer,in,Summer,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+576,CA Newell's Old Boys,Nahuel Guzmán,28.0,Goalkeeper,Tigres UANL,€2.20m,out,Summer,2.2,Superliga,2014,2014/2015,Argentina,Liga Mx Apertura,Mexico
+580,CA Newell's Old Boys,Franco Lazzaroni,26.0,Centre-Back,CA Colon,free transfer,out,Summer,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+594,Club Olimpo,Miguel Borja,21.0,Centre-Forward,AS Livorno,loan transfer,in,Summer,,Superliga,2014,2014/2015,Argentina,Serie A,Italy
+596,Club Olimpo,Jacobo Mansilla,27.0,Left Midfield,CA Colon,?,in,Summer,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+617,Club Olimpo,Martín Pérez Guedes,22.0,Attacking Midfield,Racing Club,"End of loanJun 30, 2014",out,Summer,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+639,Quilmes Atlético Club,Wilfredo Olivera,27.0,Centre-Back,CA Colon,free transfer,out,Summer,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+642,Quilmes Atlético Club,Fernando Telechea,32.0,Centre-Forward,CA Colon,free transfer,out,Summer,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+647,Quilmes Atlético Club,Leandro Díaz,28.0,Attacking Midfield,Once Caldas,?,out,Summer,,Superliga,2014,2014/2015,Argentina,Liga Dimayor I,Colombia
+648,Quilmes Atlético Club,Miguel Caneo,31.0,Attacking Midfield,Deportivo Cali,?,out,Summer,,Superliga,2014,2014/2015,Argentina,Liga Dimayor I,Colombia
+666,Racing Club,Iván Pillud,28.0,Right-Back,Hellas Verona,"End of loanJun 30, 2014",in,Summer,,Superliga,2014,2014/2015,Argentina,Serie A,Italy
+676,Racing Club,Rodrigo Espíndola,24.0,Centre-Back,Nueva Chicago,free transfer,out,Summer,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+688,Racing Club,Valentín Viola,22.0,Left Winger,Sporting CP,"End of loanJun 30, 2014",out,Summer,,Superliga,2014,2014/2015,Argentina,Liga Nos,Portugal
+696,CA River Plate,Carlos Sánchez,29.0,Attacking Midfield,Puebla FC,"End of loanJun 30, 2014",in,Summer,,Superliga,2014,2014/2015,Argentina,Liga Mx Apertura,Mexico
+700,CA River Plate,Wálter Acevedo,28.0,Central Midfield,Real Zaragoza,"End of loanJun 30, 2014",in,Summer,,Superliga,2014,2014/2015,Argentina,Primera Division,Spain
+704,CA River Plate,Ezequiel Cirigliano,22.0,Defensive Midfield,Hellas Verona,"End of loanJun 30, 2014",in,Summer,,Superliga,2014,2014/2015,Argentina,Serie A,Italy
+709,CA River Plate,Leandro Chichizola,24.0,Goalkeeper,Spezia Calcio,free transfer,out,Summer,0.0,Superliga,2014,2014/2015,Argentina,Serie A,Italy
+715,CA River Plate,Federico Andrada,20.0,Centre-Forward,FC Metz,loan transfer,out,Summer,,Superliga,2014,2014/2015,Argentina,Ligue 1,France
+716,CA River Plate,Gustavo Bou,24.0,Centre-Forward,Racing Club,loan transfer,out,Summer,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+736,CA Rosario Central,Matías Ballini,25.0,Defensive Midfield,CA Colon,free transfer,out,Summer,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+738,CA Rosario Central,Francisco Dutari,26.0,Centre-Back,UNAM Pumas,?,out,Summer,,Superliga,2014,2014/2015,Argentina,Liga Mx Apertura,Mexico
+739,CA Rosario Central,Jorge Broun,28.0,Goalkeeper,CA Colon,loan transfer,out,Summer,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+743,CA San Lorenzo de Almagro,Leo Franco,37.0,Goalkeeper,Real Zaragoza,free transfer,in,Summer,0.0,Superliga,2014,2014/2015,Argentina,Primera Division,Spain
+760,CA San Lorenzo de Almagro,Germán Voboril,27.0,Left-Back,Racing Club,free transfer,out,Summer,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+765,CA San Lorenzo de Almagro,Leo Franco,38.0,Goalkeeper,SD Huesca,free transfer,out,Summer,0.0,Superliga,2014,2014/2015,Argentina,Primera Division,Spain
+770,CA San Lorenzo de Almagro,Nahuel Benítez,24.0,Centre-Forward,Nueva Chicago,loan transfer,out,Summer,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+771,CA San Lorenzo de Almagro,Cristian Álvarez,28.0,Goalkeeper,Rayo Vallecano,loan transfer,out,Summer,,Superliga,2014,2014/2015,Argentina,Primera Division,Spain
+782,CA Sarmiento (Junin),Mauricio Casierra,28.0,Left-Back,Deportivo Cali,free transfer,in,Summer,0.0,Superliga,2014,2014/2015,Argentina,Liga Dimayor I,Colombia
+799,CA Sarmiento (Junin),Yamil Garnier,31.0,Right-Back,CA Colon,free transfer,out,Summer,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+836,Club Atlético Tigre,Ariel Nahuelpán,26.0,Centre-Forward,UNAM Pumas,"End of loanJun 30, 2014",out,Summer,,Superliga,2014,2014/2015,Argentina,Liga Mx Apertura,Mexico
+838,Club Atlético Tigre,Ignacio Fideleff,24.0,Centre-Back,SSC Napoli,"End of loanJun 30, 2014",out,Summer,,Superliga,2014,2014/2015,Argentina,Serie A,Italy
+855,Club Atlético Unión,Alejandro Gagliardi,24.0,Centre-Forward,Nueva Chicago,free transfer,out,Summer,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+886,Nueva Chicago,Rodrigo Espíndola,24.0,Centre-Back,Racing Club,free transfer,in,Summer,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+925,Club Atlético Aldosivi,Diego Lagos,28.0,Left Midfield,UNAM Pumas,loan transfer,in,Winter,,Superliga,2014,2014/2015,Argentina,Liga Mx Apertura,Mexico
+926,Club Atlético Aldosivi,Roger Martínez,20.0,Left Winger,Racing Club,loan transfer,in,Winter,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+933,Club Atlético Aldosivi,Roger Martínez,21.0,Left Winger,Racing Club,"End of loanDec 31, 2015",out,Winter,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+943,AA Argentinos Juniors,Santiago Nagüel,22.0,Right Midfield,Racing Club,€660k,out,Winter,0.66,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+947,AA Argentinos Juniors,Daúd Gazale,30.0,Centre-Forward,Nueva Chicago,free transfer,out,Winter,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+960,Arsenal Fútbol Club,Matías Campos Toro,25.0,Left-Back,Udinese Calcio,loan transfer,in,Winter,,Superliga,2014,2014/2015,Argentina,Serie A,Italy
+988,Atlético de Rafaela,Nicolás Royón,23.0,Centre-Forward,Liverpool FC,"End of loanDec 31, 2014",out,Winter,,Superliga,2014,2014/2015,Argentina,Premier League,England
+989,Club Atlético Belgrano,Esteban Espíndola,22.0,Centre-Back,Nueva Chicago,free transfer,in,Winter,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1003,Club Atlético Belgrano,Lucas Aveldaño,29.0,Centre-Back,Nueva Chicago,loan transfer,out,Winter,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1011,CA Boca Juniors,Pablo Pérez,29.0,Central Midfield,Málaga CF,Loan fee:€285k,in,Winter,0.285,Superliga,2014,2014/2015,Argentina,Primera Division,Spain
+1021,CA Boca Juniors,Cristian Pavón,18.0,Left Winger,CA Colon,"End of loanDec 31, 2014",in,Winter,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1024,CA Boca Juniors,Emanuel Insúa,23.0,Left-Back,Granada CF,€2.50m,out,Winter,2.5,Superliga,2014,2014/2015,Argentina,Primera Division,Spain
+1030,CA Boca Juniors,Pablo Ledesma,30.0,Central Midfield,CA Colon,free transfer,out,Winter,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1048,CA Banfield,Lihué Prichoda,25.0,Right Midfield,CA Colon,"End of loanDec 31, 2014",in,Winter,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1054,CA Banfield,Lihué Prichoda,25.0,Right Midfield,Nueva Chicago,loan transfer,out,Winter,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1056,CA Banfield,Agustín Farías,27.0,Defensive Midfield,Nueva Chicago,"End of loanDec 31, 2014",out,Winter,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1073,CA Colon,José Leudo,21.0,Defensive Midfield,Once Caldas,loan transfer,out,Winter,,Superliga,2014,2014/2015,Argentina,Liga Dimayor I,Colombia
+1080,Club Atlético Lanús,Matías Fritzler,28.0,Defensive Midfield,Kasimpasa,free transfer,in,Winter,0.0,Superliga,2014,2014/2015,Argentina,Super Lig,Turkey
+1090,Club Atlético Lanús,Agustín Marchesín,26.0,Goalkeeper,Santos Laguna,€4.15m,out,Winter,4.15,Superliga,2014,2014/2015,Argentina,Liga Mx Apertura,Mexico
+1092,Club Atlético Lanús,Diego González,26.0,Central Midfield,Santos Laguna,€2.50m,out,Winter,2.5,Superliga,2014,2014/2015,Argentina,Liga Mx Apertura,Mexico
+1108,CA San Martín (San Juan),José Luis Gómez,21.0,Right-Back,Racing Club,loan transfer,in,Winter,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1134,Club Atlético Temperley,Luis López,27.0,Centre-Forward,Junior FC,loan transfer,out,Winter,,Superliga,2014,2014/2015,Argentina,Liga Dimayor I,Colombia
+1136,CD Godoy Cruz Antonio Tomba,Jaime Ayoví,26.0,Centre-Forward,Club Tijuana,€1.50m,in,Winter,1.5,Superliga,2014,2014/2015,Argentina,Liga Mx Apertura,Mexico
+1152,CD Godoy Cruz Antonio Tomba,Armando Cooper,27.0,Central Midfield,FC St. Pauli,free transfer,out,Winter,0.0,Superliga,2014,2014/2015,Argentina,1 Bundesliga,Germany
+1162,CD Godoy Cruz Antonio Tomba,Jaime Ayoví,26.0,Centre-Forward,Club Tijuana,"End of loanDec 31, 2014",out,Winter,,Superliga,2014,2014/2015,Argentina,Liga Mx Apertura,Mexico
+1185,Defensa y Justicia,Diego Villar,33.0,Right Midfield,Racing Club,loan transfer,in,Winter,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1186,Defensa y Justicia,Facundo Curuchet,24.0,Right Winger,CA Colon,loan transfer,in,Winter,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1187,Defensa y Justicia,Esteban Saveljich,23.0,Centre-Back,Racing Club,loan transfer,in,Winter,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1192,Defensa y Justicia,Washington Camacho,28.0,Midfield,Racing Club,€620k,out,Winter,0.62,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1202,Defensa y Justicia,Diego Villar,33.0,Right Midfield,Racing Club,"End of loanDec 31, 2014",out,Winter,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1206,Club Estudiantes de La Plata,David Barbona,19.0,Left Winger,Nueva Chicago,€240k,in,Winter,0.24,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1212,Club Estudiantes de La Plata,Diego Mendoza,22.0,Centre-Forward,Nueva Chicago,"End of loanDec 31, 2014",in,Winter,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1270,CA Independiente,Sebastián Penco,31.0,Centre-Forward,Once Caldas,free transfer,out,Winter,0.0,Superliga,2014,2014/2015,Argentina,Liga Dimayor I,Colombia
+1273,CA Independiente,Julián Velázquez,24.0,Centre-Back,US Palermo,free transfer,out,Winter,0.0,Superliga,2014,2014/2015,Argentina,Serie A,Italy
+1283,CA Newell's Old Boys,Federico Fattori,22.0,Defensive Midfield,Nueva Chicago,€355k,in,Winter,0.355,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1288,CA Newell's Old Boys,Hernán Bernardello,28.0,Defensive Midfield,CD Cruz Azul,loan transfer,in,Winter,,Superliga,2014,2014/2015,Argentina,Liga Mx Apertura,Mexico
+1309,Club Olimpo,Nicolás Royón,23.0,Centre-Forward,Liverpool FC,loan transfer,in,Winter,,Superliga,2014,2014/2015,Argentina,Premier League,England
+1320,Club Olimpo,Miguel Borja,21.0,Centre-Forward,AS Livorno,"End of loanDec 31, 2014",out,Winter,,Superliga,2014,2014/2015,Argentina,Serie A,Italy
+1329,Quilmes Atlético Club,Damián Malrechauffe,30.0,Centre-Back,Racing Club,?,in,Winter,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1330,Quilmes Atlético Club,Diego Buonanotte,26.0,Attacking Midfield,Granada CF,loan transfer,in,Winter,,Superliga,2014,2014/2015,Argentina,Primera Division,Spain
+1354,Racing Club,Carlos Núñez,22.0,Centre-Forward,Liverpool FC,Loan fee:€423k,in,Winter,0.423,Superliga,2014,2014/2015,Argentina,Premier League,England
+1359,Racing Club,Gabriel Hauche,28.0,Centre-Forward,Club Tijuana,€1.65m,out,Winter,1.65,Superliga,2014,2014/2015,Argentina,Liga Mx Apertura,Mexico
+1392,CA San Lorenzo de Almagro,Franco Mussis,22.0,Defensive Midfield,FC Copenhagen,€1.00m,in,Winter,1.0,Superliga,2014,2014/2015,Argentina,Superligaen,Denmark
+1397,CA San Lorenzo de Almagro,Nahuel Benítez,24.0,Centre-Forward,Nueva Chicago,"End of loanDec 31, 2014",in,Winter,,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1416,CA Sarmiento (Junin),Francisco Dutari,26.0,Centre-Back,UNAM Pumas,loan transfer,in,Winter,,Superliga,2014,2014/2015,Argentina,Liga Mx Apertura,Mexico
+1450,Club Atlético Unión,Diego Villar,33.0,Right Midfield,Racing Club,free transfer,in,Winter,0.0,Superliga,2014,2014/2015,Argentina,Superliga,Argentina
+1464,CA Vélez Sarsfield,Hernán Pellerano,30.0,Centre-Back,Club Tijuana,free transfer,in,Winter,0.0,Superliga,2014,2014/2015,Argentina,Liga Mx Apertura,Mexico
+1466,CA Vélez Sarsfield,Mariano Pavone,32.0,Centre-Forward,CD Cruz Azul,free transfer,in,Winter,0.0,Superliga,2014,2014/2015,Argentina,Liga Mx Apertura,Mexico
+1507,Arsenal Fútbol Club,Santiago Tréllez,25.0,Centre-Forward,Monarcas Morelia,free transfer,in,Summer,0.0,Superliga,2015,2015/2016,Argentina,Liga Mx Apertura,Mexico
+1510,Arsenal Fútbol Club,Miguel Caneo,32.0,Attacking Midfield,Deportivo Cali,free transfer,in,Summer,0.0,Superliga,2015,2015/2016,Argentina,Liga Dimayor I,Colombia
+1511,Arsenal Fútbol Club,Claudio Corvalán,26.0,Left-Back,Racing Club,loan transfer,in,Summer,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+1529,Club Atlético Belgrano,Lucas Aveldaño,30.0,Centre-Back,RCD Mallorca,loan transfer,out,Summer,,Superliga,2015,2015/2016,Argentina,Primera Division,Spain
+1539,Quilmes Atlético Club,Diego Buonanotte,27.0,Attacking Midfield,Granada CF,"End of loanJun 30, 2015",out,Summer,,Superliga,2015,2015/2016,Argentina,Primera Division,Spain
+1545,CA San Lorenzo de Almagro,Cristian Álvarez,29.0,Goalkeeper,Rayo Vallecano,"End of loanJun 30, 2015",in,Summer,,Superliga,2015,2015/2016,Argentina,Primera Division,Spain
+1548,CA San Lorenzo de Almagro,Alan Ruiz,22.0,Attacking Midfield,CA Colon,"End of loanJun 30, 2016",in,Summer,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+1553,CA San Lorenzo de Almagro,Alan Ruiz,21.0,Attacking Midfield,CA Colon,loan transfer,out,Summer,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+1557,CA Rosario Central,Javier Pinola,32.0,Centre-Back,1.FC Nuremberg,free transfer,in,Summer,0.0,Superliga,2015,2015/2016,Argentina,1 Bundesliga,Germany
+1587,Club de Gimnasia y Esgrima La Plata,Gastón Díaz,27.0,Right-Back,Racing Club,"End of loanJun 30, 2015",in,Summer,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+1588,Club de Gimnasia y Esgrima La Plata,Gastón Díaz,27.0,Right-Back,Racing Club,€275k,out,Summer,0.275,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+1590,Club de Gimnasia y Esgrima La Plata,Pablo Vegetti,26.0,Centre-Forward,CA Colon,loan transfer,out,Summer,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+1597,CA Colon,José Leudo,21.0,Defensive Midfield,Once Caldas,"End of loanJun 30, 2015",in,Summer,,Superliga,2015,2015/2016,Argentina,Liga Dimayor I,Colombia
+1610,CA River Plate,Lucas Alario,22.0,Centre-Forward,CA Colon,€2.00m,in,Summer,2.0,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+1612,CA River Plate,Javier Saviola,33.0,Second Striker,Hellas Verona,free transfer,in,Summer,0.0,Superliga,2015,2015/2016,Argentina,Serie A,Italy
+1617,CA River Plate,Federico Andrada,21.0,Centre-Forward,FC Metz,"End of loanJun 30, 2015",in,Summer,,Superliga,2015,2015/2016,Argentina,Ligue 1,France
+1621,CA River Plate,Teófilo Gutiérrez,30.0,Centre-Forward,Sporting CP,€3.40m,out,Summer,3.4,Superliga,2015,2015/2016,Argentina,Liga Nos,Portugal
+1623,CA River Plate,Ariel Rojas,29.0,Central Midfield,CD Cruz Azul,free transfer,out,Summer,0.0,Superliga,2015,2015/2016,Argentina,Liga Mx Apertura,Mexico
+1628,CA River Plate,Tomás Martínez,20.0,Attacking Midfield,CD Tenerife,loan transfer,out,Summer,,Superliga,2015,2015/2016,Argentina,Primera Division,Spain
+1645,Club Olimpo,Nicolás Royón,24.0,Centre-Forward,Liverpool FC,"End of loanJun 30, 2015",out,Summer,,Superliga,2015,2015/2016,Argentina,Premier League,England
+1647,CA Banfield,Facundo Castillón,29.0,Right Winger,Racing Club,loan transfer,in,Summer,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+1650,CA Banfield,Ricardo Noir,28.0,Attacking Midfield,Racing Club,€1.50m,out,Summer,1.5,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+1659,CA Vélez Sarsfield,Mariano Pavone,33.0,Centre-Forward,Racing Club,free transfer,out,Summer,0.0,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+1685,Club Atlético Temperley,Luis López,28.0,Centre-Forward,Junior FC,"End of loanJun 30, 2015",in,Summer,,Superliga,2015,2015/2016,Argentina,Liga Dimayor I,Colombia
+1741,Defensa y Justicia,Facundo Curuchet,25.0,Right Winger,CA Colon,"End of loanJun 30, 2015",out,Summer,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+1765,CA Newell's Old Boys,Mauro Formica,27.0,Attacking Midfield,CD Cruz Azul,loan transfer,in,Summer,,Superliga,2015,2015/2016,Argentina,Liga Mx Apertura,Mexico
+1769,CA Newell's Old Boys,Ezequiel Ponce,18.0,Centre-Forward,AS Roma,€4.20m,out,Summer,4.2,Superliga,2015,2015/2016,Argentina,Serie A,Italy
+1778,CA Newell's Old Boys,Claudio Corvalán,26.0,Left-Back,Racing Club,"End of loanJul 10, 2015",out,Summer,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+1784,AA Argentinos Juniors,Gaspar Iñíguez,21.0,Central Midfield,Granada CF,€1.20m,out,Summer,1.2,Superliga,2015,2015/2016,Argentina,Primera Division,Spain
+1807,Club Estudiantes de La Plata,Mariano Andújar,32.0,Goalkeeper,SSC Napoli,loan transfer,in,Summer,,Superliga,2015,2015/2016,Argentina,Serie A,Italy
+1827,CA Boca Juniors,Pablo Pérez,30.0,Central Midfield,Málaga CF,€1.20m,in,Summer,1.2,Superliga,2015,2015/2016,Argentina,Primera Division,Spain
+1832,CA Boca Juniors,Sergio Araujo,23.0,Centre-Forward,UD Las Palmas,"End of loanJun 30, 2015",in,Summer,,Superliga,2015,2015/2016,Argentina,Primera Division,Spain
+1833,CA Boca Juniors,Leandro Paredes,21.0,Defensive Midfield,AS Roma,"End of loanJun 30, 2015",in,Summer,,Superliga,2015,2015/2016,Argentina,Serie A,Italy
+1835,CA Boca Juniors,Leandro Paredes,21.0,Defensive Midfield,AS Roma,€6.00m,out,Summer,6.0,Superliga,2015,2015/2016,Argentina,Serie A,Italy
+1838,CA Boca Juniors,Sergio Araujo,23.0,Centre-Forward,UD Las Palmas,€2.50m,out,Summer,2.5,Superliga,2015,2015/2016,Argentina,Primera Division,Spain
+1839,CA Boca Juniors,Federico Carrizo,24.0,Left Winger,CD Cruz Azul,Loan fee:€89k,out,Summer,0.089,Superliga,2015,2015/2016,Argentina,Liga Mx Apertura,Mexico
+1841,CA Boca Juniors,Marco Torsiglieri,27.0,Centre-Back,Monarcas Morelia,free transfer,out,Summer,0.0,Superliga,2015,2015/2016,Argentina,Liga Mx Apertura,Mexico
+1849,CA Boca Juniors,Pablo Pérez,30.0,Central Midfield,Málaga CF,"End of loanAug 31, 2015",out,Summer,,Superliga,2015,2015/2016,Argentina,Primera Division,Spain
+1857,CA River Plate,Tomás Martínez,20.0,Attacking Midfield,CD Tenerife,"End of loanFeb 2, 2016",in,Winter,,Superliga,2015,2015/2016,Argentina,Primera Division,Spain
+1858,CA River Plate,Gustavo Bou,24.0,Centre-Forward,Racing Club,"End of loanDec 31, 2014",in,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+1860,CA River Plate,Gustavo Bou,24.0,Centre-Forward,Racing Club,€990k,out,Winter,0.99,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+1869,Club Atlético Patronato,Damián Lemos,26.0,Defensive Midfield,Nueva Chicago,free transfer,in,Winter,0.0,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+1872,Club Atlético Patronato,Fernando de la Fuente,29.0,Defensive Midfield,Nueva Chicago,free transfer,in,Winter,0.0,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+1875,Club Atlético Patronato,Abel Masuero,27.0,Centre-Back,Nueva Chicago,?,in,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+1877,Club Atlético Patronato,Mauricio Carrasco,28.0,Left Winger,Nueva Chicago,?,in,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+1899,CD Godoy Cruz Antonio Tomba,Gonzalo Díaz,25.0,Left Winger,Club Tijuana,free transfer,out,Winter,0.0,Superliga,2015,2015/2016,Argentina,Liga Mx Apertura,Mexico
+1946,Club Olimpo,Jean Barrientos,25.0,Attacking Midfield,Racing Club,free transfer,in,Winter,0.0,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2000,Arsenal Fútbol Club,Matías Campos Toro,26.0,Left-Back,Udinese Calcio,"End of loanDec 31, 2015",out,Winter,,Superliga,2015,2015/2016,Argentina,Serie A,Italy
+2011,Club Atlético Belgrano,Luciano Lollo,28.0,Centre-Back,Racing Club,"End of loanDec 31, 2015",in,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2016,Club Atlético Belgrano,Lucas Zelarayán,23.0,Attacking Midfield,Tigres UANL,€5.00m,out,Winter,5.0,Superliga,2015,2015/2016,Argentina,Liga Mx Apertura,Mexico
+2018,Club Atlético Belgrano,Luciano Lollo,28.0,Centre-Back,Racing Club,€450k,out,Winter,0.45,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2035,Quilmes Atlético Club,Ezequiel Rescaldani,23.0,Centre-Forward,Málaga CF,loan transfer,in,Winter,,Superliga,2015,2015/2016,Argentina,Primera Division,Spain
+2061,CA San Lorenzo de Almagro,Marcos Angeleri,32.0,Centre-Back,Málaga CF,€100k,in,Winter,0.1,Superliga,2015,2015/2016,Argentina,Primera Division,Spain
+2062,CA San Lorenzo de Almagro,Fernando Belluschi,32.0,Central Midfield,CD Cruz Azul,free transfer,in,Winter,0.0,Superliga,2015,2015/2016,Argentina,Liga Mx Apertura,Mexico
+2066,CA San Lorenzo de Almagro,Pablo Alvarado,29.0,Centre-Back,Racing Club,"End of loanDec 31, 2015",in,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2073,CA San Lorenzo de Almagro,Alejandro Melo,20.0,Right Winger,Nueva Chicago,loan transfer,out,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2088,CA Rosario Central,Rodrigo Battaglia,24.0,Defensive Midfield,SC Braga,loan transfer,in,Winter,,Superliga,2015,2015/2016,Argentina,Liga Nos,Portugal
+2089,CA Rosario Central,Jorge Broun,29.0,Goalkeeper,CA Colon,"End of loanDec 31, 2015",in,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2090,CA Rosario Central,Nery Domínguez,25.0,Centre-Back,Querétaro FC,€1.00m,out,Winter,1.0,Superliga,2015,2015/2016,Argentina,Liga Mx Apertura,Mexico
+2094,CA Rosario Central,Jorge Broun,29.0,Goalkeeper,CA Colon,?,out,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2102,CA Independiente,Germán Denis,34.0,Centre-Forward,Atalanta BC,free transfer,in,Winter,0.0,Superliga,2015,2015/2016,Argentina,Serie A,Italy
+2137,CA Banfield,Lihué Prichoda,26.0,Right Midfield,Nueva Chicago,"End of loanDec 31, 2015",in,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2138,CA Banfield,Sergio Vittor,26.0,Centre-Back,Racing Club,€1.39m,out,Winter,1.39,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2147,CA Banfield,Nicolás Bianchi Arce,29.0,Centre-Back,Deportivo Cali,loan transfer,out,Winter,,Superliga,2015,2015/2016,Argentina,Liga Dimayor I,Colombia
+2152,CA Banfield,Facundo Castillón,30.0,Right Winger,Racing Club,"End of loanDec 31, 2015",out,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2156,CA Vélez Sarsfield,Cristian Nasuti,33.0,Centre-Back,Deportivo Cali,free transfer,in,Winter,0.0,Superliga,2015,2015/2016,Argentina,Liga Dimayor I,Colombia
+2158,CA Vélez Sarsfield,Mariano Pavone,33.0,Centre-Forward,Racing Club,free transfer,in,Winter,0.0,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2160,CA Vélez Sarsfield,Diego Zabala,24.0,Right Winger,Racing Club,loan transfer,in,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2186,CA Colon,Diego Lagos,29.0,Left Midfield,UNAM Pumas,?,in,Winter,,Superliga,2015,2015/2016,Argentina,Liga Mx Apertura,Mexico
+2209,Club de Gimnasia y Esgrima La Plata,Mauricio Romero,32.0,Centre-Back,Puebla FC,?,in,Winter,,Superliga,2015,2015/2016,Argentina,Liga Mx Apertura,Mexico
+2210,Club de Gimnasia y Esgrima La Plata,Facundo Castillón,30.0,Right Winger,Racing Club,loan transfer,in,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2221,Club de Gimnasia y Esgrima La Plata,Osvaldo Barsottini,34.0,Centre-Back,CA Colon,free transfer,out,Winter,0.0,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2234,CA Huracán,Federico Vismara,32.0,Defensive Midfield,Racing Club,free transfer,out,Winter,0.0,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2278,Defensa y Justicia,Áxel Juárez,25.0,Central Midfield,Nueva Chicago,free transfer,out,Winter,0.0,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2295,Defensa y Justicia,Esteban Saveljich,24.0,Centre-Back,Racing Club,"End of loanDec 31, 2015",out,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2296,AA Argentinos Juniors,Federico Lanzillotta,23.0,Goalkeeper,Nueva Chicago,free transfer,in,Winter,0.0,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2303,AA Argentinos Juniors,Braian Romero,24.0,Centre-Forward,CA Colon,?,in,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2347,Racing Club,Esteban Saveljich,24.0,Centre-Back,UD Almería,loan transfer,out,Winter,,Superliga,2015,2015/2016,Argentina,Primera Division,Spain
+2355,Club Atlético Unión,Nelson Acevedo,27.0,Defensive Midfield,Racing Club,loan transfer,in,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2356,Club Atlético Unión,Santiago Nagüel,22.0,Right Midfield,Racing Club,loan transfer,in,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2362,Club Atlético Unión,Leonardo Sánchez,29.0,Centre-Back,FC Zürich,free transfer,out,Winter,0.0,Superliga,2015,2015/2016,Argentina,Super League,Switzerland
+2377,CA Newell's Old Boys,Luis Advíncula,25.0,Right-Back,Bursaspor,loan transfer,in,Winter,,Superliga,2015,2015/2016,Argentina,Super Lig,Turkey
+2378,CA Newell's Old Boys,Emanuel Insúa,24.0,Left-Back,Udinese Calcio,loan transfer,in,Winter,,Superliga,2015,2015/2016,Argentina,Serie A,Italy
+2386,CA Newell's Old Boys,Federico Fattori,23.0,Defensive Midfield,Nueva Chicago,loan transfer,out,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2387,CA Newell's Old Boys,Víctor Figueroa,32.0,Right Winger,CA Colon,loan transfer,out,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2389,CA Newell's Old Boys,Hernán Bernardello,29.0,Defensive Midfield,CD Cruz Azul,"End of loanDec 31, 2015",out,Winter,,Superliga,2015,2015/2016,Argentina,Liga Mx Apertura,Mexico
+2407,Atlético de Rafaela,Martín Díaz,27.0,Centre-Back,Liverpool FC,free transfer,out,Winter,0.0,Superliga,2015,2015/2016,Argentina,Premier League,England
+2408,Atlético de Rafaela,Adrián Bastía,37.0,Defensive Midfield,CA Colon,free transfer,out,Winter,0.0,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2426,CA San Martín (San Juan),Franco Lazzaroni,27.0,Centre-Back,CA Colon,free transfer,in,Winter,0.0,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2438,CA San Martín (San Juan),Gustavo Villarruel,23.0,Right Winger,CA Colon,loan transfer,in,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2454,CA San Martín (San Juan),Raúl Iberbia,26.0,Left-Back,CA Colon,?,out,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2461,CA San Martín (San Juan),José Luis Gómez,22.0,Right-Back,Racing Club,"End of loanDec 31, 2015",out,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2478,Club Atlético Tigre,Ernesto Goñi,30.0,Left-Back,UD Almería,free transfer,out,Winter,0.0,Superliga,2015,2015/2016,Argentina,Primera Division,Spain
+2483,Club Atlético Aldosivi,Cristian Llama,29.0,Attacking Midfield,CA Colon,free transfer,in,Winter,0.0,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2484,Club Atlético Aldosivi,Sebastián Penco,32.0,Centre-Forward,Once Caldas,free transfer,in,Winter,0.0,Superliga,2015,2015/2016,Argentina,Liga Dimayor I,Colombia
+2490,Club Atlético Aldosivi,Juan Dinenno,21.0,Centre-Forward,Racing Club,loan transfer,in,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2503,Club Atlético Aldosivi,Diego Lagos,29.0,Left Midfield,UNAM Pumas,"End of loanDec 31, 2015",out,Winter,,Superliga,2015,2015/2016,Argentina,Liga Mx Apertura,Mexico
+2506,Club Atlético Lanús,José Luis Gómez,22.0,Right-Back,Racing Club,loan transfer,in,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2576,Club Atlético Temperley,Gustavo Aprile,27.0,Left Midfield,Liverpool FC,free transfer,out,Winter,0.0,Superliga,2015,2015/2016,Argentina,Premier League,England
+2578,Club Atlético Temperley,Fabián Sambueza,27.0,Attacking Midfield,Deportivo Cali,?,out,Winter,,Superliga,2015,2015/2016,Argentina,Liga Dimayor I,Colombia
+2585,Club Atlético Temperley,Juan Dinenno,21.0,Centre-Forward,Racing Club,"End of loanDec 31, 2015",out,Winter,,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2587,Club Atlético Tucumán,Matías Ballini,27.0,Defensive Midfield,CA Colon,free transfer,in,Winter,0.0,Superliga,2015,2015/2016,Argentina,Superliga,Argentina
+2609,CA Boca Juniors,Jonathan Silva,21.0,Left-Back,Sporting CP,Loan fee:€100k,in,Winter,0.1,Superliga,2015,2015/2016,Argentina,Liga Nos,Portugal
+2610,CA Boca Juniors,Daniel Osvaldo,29.0,Centre-Forward,FC Porto,free transfer,in,Winter,0.0,Superliga,2015,2015/2016,Argentina,Liga Nos,Portugal
+2614,CA Boca Juniors,Federico Carrizo,24.0,Left Winger,CD Cruz Azul,"End of loanDec 31, 2015",in,Winter,,Superliga,2015,2015/2016,Argentina,Liga Mx Apertura,Mexico
+2630,CA Boca Juniors,Luciano Acosta,21.0,Attacking Midfield,D.C. United,loan transfer,out,Winter,,Superliga,2015,2015/2016,Argentina,Major League Soccer,United States of America
+2641,Club Atlético Aldosivi,Santiago Rosales,21.0,Left Winger,Racing Club,€2.35m,out,Summer,2.35,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+2651,Arsenal Fútbol Club,Claudio Corvalán,27.0,Left-Back,Racing Club,free transfer,in,Summer,0.0,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+2674,Arsenal Fútbol Club,Claudio Corvalán,27.0,Left-Back,Racing Club,"End of loanJun 30, 2016",out,Summer,,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+2692,Atlético de Rafaela,Gastón Campi,25.0,Centre-Back,Racing Club,loan transfer,in,Summer,,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+2723,Club Atlético Tucumán,Jairo Palomino,28.0,Defensive Midfield,Once Caldas,?,in,Summer,,Superliga,2016,2016/2017,Argentina,Liga Dimayor I,Colombia
+2732,CA Banfield,Mauricio Sperduti,30.0,Right Winger,CA Colon,?,in,Summer,,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+2742,CA Banfield,Fabián Noguera,23.0,Centre-Back,Santos FC,free transfer,out,Summer,0.0,Superliga,2016,2016/2017,Argentina,Campeonato Brasileiro Serie A,Brazil
+2747,Club Atlético Belgrano,Matías Suárez,28.0,Centre-Forward,RSC Anderlecht,€1.20m,in,Summer,1.2,Superliga,2016,2016/2017,Argentina,Juliper Pro League,Belgium
+2753,Club Atlético Belgrano,Lucas Aveldaño,30.0,Centre-Back,RCD Mallorca,"End of loanJun 30, 2016",in,Summer,,Superliga,2016,2016/2017,Argentina,Primera Division,Spain
+2769,CA Boca Juniors,Wilmar Barrios,22.0,Defensive Midfield,Deportes Tolima,€2.60m,in,Summer,2.6,Superliga,2016,2016/2017,Argentina,Liga Dimayor I,Colombia
+2789,CA Boca Juniors,Marcelo Meli,24.0,Central Midfield,Sporting CP,Loan fee:€270k,out,Summer,0.27,Superliga,2016,2016/2017,Argentina,Liga Nos,Portugal
+2790,CA Boca Juniors,Agustín Orión,35.0,Goalkeeper,Racing Club,free transfer,out,Summer,0.0,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+2837,Defensa y Justicia,Rubén Bentancourt,23.0,Centre-Forward,Atalanta BC,free transfer,in,Summer,0.0,Superliga,2016,2016/2017,Argentina,Serie A,Italy
+2844,Defensa y Justicia,Mariano Bareiro,21.0,Defensive Midfield,Racing Club,loan transfer,in,Summer,,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+2850,Defensa y Justicia,Santiago Nagüel,23.0,Right Midfield,Racing Club,loan transfer,in,Summer,,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+2874,Club Estudiantes de La Plata,Mariano Andújar,32.0,Goalkeeper,SSC Napoli,€455k,in,Summer,0.455,Superliga,2016,2016/2017,Argentina,Serie A,Italy
+2896,Club Estudiantes de La Plata,Mariano Andújar,32.0,Goalkeeper,SSC Napoli,"End of loanJun 30, 2016",out,Summer,,Superliga,2016,2016/2017,Argentina,Serie A,Italy
+2908,Club de Gimnasia y Esgrima La Plata,Pablo Vegetti,27.0,Centre-Forward,CA Colon,"End of loanJun 30, 2016",in,Summer,,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+2925,Club de Gimnasia y Esgrima La Plata,Facundo Castillón,30.0,Right Winger,Racing Club,"End of loanJun 30, 2016",out,Summer,,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+2944,CD Godoy Cruz Antonio Tomba,Lucas Ceballos,29.0,Right-Back,CA Colon,free transfer,out,Summer,0.0,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+2962,CA Huracán,Jerónimo Barrales,29.0,Centre-Forward,Sivasspor,loan transfer,in,Summer,,Superliga,2016,2016/2017,Argentina,Super Lig,Turkey
+2969,CA Huracán,José San Román,27.0,Right-Back,ADO Den Haag,free transfer,out,Summer,0.0,Superliga,2016,2016/2017,Argentina,Eredivisie,Netherlands
+2984,CA Independiente,Emanuel Aguilera,27.0,Centre-Back,Club Tijuana,€900k,out,Summer,0.9,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3006,Club Atlético Lanús,Gustavo Gómez,23.0,Centre-Back,AC Milan,€9.56m,out,Summer,9.56,Superliga,2016,2016/2017,Argentina,Serie A,Italy
+3011,Club Atlético Lanús,Víctor Ayala,28.0,Central Midfield,Al-Nassr FC,?,out,Summer,,Superliga,2016,2016/2017,Argentina,Saudi Professional League,Saudi Arabia
+3019,CA Newell's Old Boys,Germán Voboril,29.0,Left-Back,Racing Club,Loan fee:€45k,in,Summer,0.045,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+3020,CA Newell's Old Boys,Mauro Formica,28.0,Attacking Midfield,CD Cruz Azul,free transfer,in,Summer,0.0,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3021,CA Newell's Old Boys,Víctor Figueroa,32.0,Right Winger,CA Colon,"End of loanJun 30, 2016",in,Summer,,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+3040,CA Newell's Old Boys,Guillermo Ortiz,23.0,Centre-Back,CA Colon,loan transfer,out,Summer,,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+3041,CA Newell's Old Boys,Emanuel Insúa,25.0,Left-Back,Udinese Calcio,"End of loanJun 30, 2016",out,Summer,,Superliga,2016,2016/2017,Argentina,Serie A,Italy
+3043,CA Newell's Old Boys,Mauro Formica,28.0,Attacking Midfield,CD Cruz Azul,"End of loanJun 30, 2016",out,Summer,,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3060,Club Olimpo,Yonathan Cabral,24.0,Centre-Back,Racing Club,loan transfer,in,Summer,,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+3076,Club Olimpo,Pablo Míguez,29.0,Centre-Back,Puebla FC,?,out,Summer,,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3089,Club Atlético Patronato,Alejandro Gagliardi,27.0,Centre-Forward,Monarcas Morelia,loan transfer,in,Summer,,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3128,Quilmes Atlético Club,Walter Benítez,23.0,Goalkeeper,OGC Nice,free transfer,out,Summer,0.0,Superliga,2016,2016/2017,Argentina,Ligue 1,France
+3152,Quilmes Atlético Club,Ezequiel Rescaldani,24.0,Centre-Forward,Málaga CF,"End of loanJun 30, 2016",out,Summer,,Superliga,2016,2016/2017,Argentina,Primera Division,Spain
+3154,CA River Plate,Luciano Lollo,29.0,Centre-Back,Racing Club,€3.15m,in,Summer,3.15,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+3167,CA River Plate,Emanuel Mammana,20.0,Centre-Back,Olympique Lyon,€8.50m,out,Summer,8.5,Superliga,2016,2016/2017,Argentina,Ligue 1,France
+3170,CA River Plate,Gabriel Mercado,29.0,Centre-Back,Sevilla FC,€2.50m,out,Summer,2.5,Superliga,2016,2016/2017,Argentina,Primera Division,Spain
+3171,CA River Plate,Guido Rodríguez,22.0,Defensive Midfield,Club Tijuana,€1.75m,out,Summer,1.75,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3172,CA River Plate,Tomás Martínez,21.0,Attacking Midfield,SC Braga,€1.30m,out,Summer,1.3,Superliga,2016,2016/2017,Argentina,Liga Nos,Portugal
+3174,CA River Plate,Leonel Vangioni,29.0,Left-Back,AC Milan,free transfer,out,Summer,0.0,Superliga,2016,2016/2017,Argentina,Serie A,Italy
+3184,CA Rosario Central,Marco Torsiglieri,28.0,Centre-Back,Monarcas Morelia,€1.30m,in,Summer,1.3,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3186,CA Rosario Central,Teófilo Gutiérrez,31.0,Centre-Forward,Sporting CP,Loan fee:€500k,in,Summer,0.5,Superliga,2016,2016/2017,Argentina,Liga Nos,Portugal
+3187,CA Rosario Central,Washington Camacho,30.0,Midfield,Racing Club,Loan fee:€90k,in,Summer,0.09,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+3191,CA Rosario Central,Hernán Menosse,29.0,Centre-Back,Once Caldas,loan transfer,in,Summer,,Superliga,2016,2016/2017,Argentina,Liga Dimayor I,Colombia
+3204,CA Rosario Central,Pablo Álvarez,32.0,Right-Back,Racing Club,?,out,Summer,,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+3206,CA Rosario Central,Walter Acuña,24.0,Centre-Forward,CA Colon,loan transfer,out,Summer,,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+3207,CA Rosario Central,Rodrigo Battaglia,24.0,Defensive Midfield,SC Braga,"End of loanJun 30, 2016",out,Summer,,Superliga,2016,2016/2017,Argentina,Liga Nos,Portugal
+3209,CA San Lorenzo de Almagro,Tino Costa,31.0,Central Midfield,Spartak Moscow,free transfer,in,Summer,0.0,Superliga,2016,2016/2017,Argentina,Premier Liga,Russia
+3220,CA San Lorenzo de Almagro,Alan Ruiz,22.0,Attacking Midfield,Sporting CP,€4.84m,out,Summer,4.84,Superliga,2016,2016/2017,Argentina,Liga Nos,Portugal
+3258,CA Sarmiento (Junin),Adrián Balboa,22.0,Centre-Forward,Liverpool FC,free transfer,in,Summer,0.0,Superliga,2016,2016/2017,Argentina,Premier League,England
+3262,CA Sarmiento (Junin),Nicolás Bianchi Arce,29.0,Centre-Back,Deportivo Cali,?,in,Summer,,Superliga,2016,2016/2017,Argentina,Liga Dimayor I,Colombia
+3264,CA Sarmiento (Junin),Brian Fernández,22.0,Centre-Forward,Racing Club,loan transfer,in,Summer,,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+3287,Club Atlético Talleres,Nicolás Giménez,20.0,Midfield,Nueva Chicago,€1.44m,in,Summer,1.44,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+3293,Club Atlético Talleres,Matías Vuoso,34.0,Centre-Forward,CD Cruz Azul,free transfer,in,Summer,0.0,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3294,Club Atlético Talleres,Daniel Ludueña,33.0,Attacking Midfield,UNAM Pumas,free transfer,in,Summer,0.0,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3296,Club Atlético Talleres,Javier Gandolfi,35.0,Centre-Back,Club Tijuana,free transfer,in,Summer,0.0,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3298,Club Atlético Talleres,Guillermo Cotugno,21.0,Right-Back,Rubin Kazan,loan transfer,in,Summer,,Superliga,2016,2016/2017,Argentina,Premier Liga,Russia
+3345,Club Atlético Tigre,Nelson Ibáñez,34.0,Goalkeeper,Racing Club,free transfer,in,Summer,0.0,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+3349,Club Atlético Tigre,Gaspar Iñíguez,22.0,Central Midfield,Udinese Calcio,loan transfer,in,Summer,,Superliga,2016,2016/2017,Argentina,Serie A,Italy
+3365,Club Atlético Unión,Leonardo Sánchez,29.0,Centre-Back,FC Zürich,free transfer,in,Summer,0.0,Superliga,2016,2016/2017,Argentina,Super League,Switzerland
+3375,Club Atlético Unión,Ignacio Malcorra,28.0,Left Winger,Club Tijuana,€750k,out,Summer,0.75,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3384,Club Atlético Unión,Santiago Nagüel,23.0,Right Midfield,Racing Club,"End of loanJun 30, 2016",out,Summer,,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+3389,CA Vélez Sarsfield,Gonzalo Díaz,26.0,Left Winger,Club Tijuana,free transfer,in,Summer,0.0,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3392,CA Vélez Sarsfield,Hernán Barcos,32.0,Centre-Forward,Sporting CP,loan transfer,in,Summer,,Superliga,2016,2016/2017,Argentina,Liga Nos,Portugal
+3398,CA Vélez Sarsfield,Damián Pérez,27.0,Left-Back,Club Tijuana,free transfer,out,Summer,0.0,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3404,Racing Club,Diego González,28.0,Central Midfield,Santos Laguna,€2.15m,in,Summer,2.15,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3407,Racing Club,Emanuel Insúa,25.0,Left-Back,Udinese Calcio,loan transfer,in,Summer,,Superliga,2016,2016/2017,Argentina,Serie A,Italy
+3414,Racing Club,Esteban Saveljich,25.0,Centre-Back,UD Almería,"End of loanJun 30, 2016",in,Summer,,Superliga,2016,2016/2017,Argentina,Primera Division,Spain
+3435,Racing Club,Carlos Núñez,24.0,Centre-Forward,Liverpool FC,"End of loanJun 30, 2016",out,Summer,,Superliga,2016,2016/2017,Argentina,Premier League,England
+3439,Club Atlético Aldosivi,Juan Dinenno,22.0,Centre-Forward,Racing Club,"End of loanDec 21, 2016",out,Winter,,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+3461,Club Atlético Tucumán,Pablo Cáceres,31.0,Left-Back,Puebla FC,free transfer,out,Winter,0.0,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3462,Club Atlético Tucumán,Franco Sbuttoni,27.0,Centre-Back,Sagan Tosu,?,out,Winter,,Superliga,2016,2016/2017,Argentina,J1 League,Japan
+3468,CA Banfield,Renato Civelli,33.0,Centre-Back,LOSC Lille,free transfer,in,Winter,0.0,Superliga,2016,2016/2017,Argentina,Ligue 1,France
+3471,CA Banfield,Claudio Pérez,31.0,Centre-Back,Puebla FC,free transfer,out,Winter,0.0,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3489,CA Boca Juniors,Luciano Acosta,22.0,Attacking Midfield,D.C. United,"End of loanDec 31, 2016",in,Winter,,Superliga,2016,2016/2017,Argentina,Major League Soccer,United States of America
+3491,CA Boca Juniors,Marcelo Meli,24.0,Central Midfield,Racing Club,€1.50m,out,Winter,1.5,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+3492,CA Boca Juniors,Luciano Acosta,22.0,Attacking Midfield,D.C. United,€1.30m,out,Winter,1.3,Superliga,2016,2016/2017,Argentina,Major League Soccer,United States of America
+3503,CA Colon,Cristian Guanca,23.0,Attacking Midfield,Kasimpasa,loan transfer,out,Winter,,Superliga,2016,2016/2017,Argentina,Super Lig,Turkey
+3513,Defensa y Justicia,Santiago Nagüel,23.0,Right Midfield,Racing Club,"End of loanDec 31, 2016",out,Winter,,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+3515,Club Estudiantes de La Plata,Sebastián Dubarbier,30.0,Left-Back,UD Almería,free transfer,in,Winter,0.0,Superliga,2016,2016/2017,Argentina,Primera Division,Spain
+3517,Club Estudiantes de La Plata,Juan Otero,21.0,Right Winger,Fortaleza CEIF,loan transfer,in,Winter,,Superliga,2016,2016/2017,Argentina,Liga Dimayor I,Colombia
+3535,Club de Gimnasia y Esgrima La Plata,Federico Rasic,24.0,Centre-Forward,Arsenal Tula,free transfer,out,Winter,0.0,Superliga,2016,2016/2017,Argentina,Premier Liga,Russia
+3548,CA Huracán,Jerónimo Barrales,29.0,Centre-Forward,Sivasspor,"End of loanDec 31, 2016",out,Winter,,Superliga,2016,2016/2017,Argentina,Super Lig,Turkey
+3553,CA Independiente,Nery Domínguez,26.0,Centre-Back,Querétaro FC,loan transfer,in,Winter,,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3558,CA Independiente,Diego Vera,32.0,Centre-Forward,CA Colon,€850k,out,Winter,0.85,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+3562,CA Independiente,Jorge Ortiz,32.0,Central Midfield,Club Tijuana,loan transfer,out,Winter,,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3577,CA Newell's Old Boys,José San Román,28.0,Right-Back,ADO Den Haag,free transfer,in,Winter,0.0,Superliga,2016,2016/2017,Argentina,Eredivisie,Netherlands
+3582,CA Newell's Old Boys,Luis Advíncula,26.0,Right-Back,Bursaspor,"End of loanDec 31, 2016",out,Winter,,Superliga,2016,2016/2017,Argentina,Super Lig,Turkey
+3588,Club Olimpo,Nereo Champagne,31.0,Goalkeeper,CD Leganés,Loan fee:€150k,out,Winter,0.15,Superliga,2016,2016/2017,Argentina,Primera Division,Spain
+3611,CA River Plate,Ariel Rojas,31.0,Central Midfield,CD Cruz Azul,free transfer,in,Winter,0.0,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3617,CA Rosario Central,Walter Acuña,24.0,Centre-Forward,CA Colon,"End of loanDec 31, 2016",in,Winter,,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+3618,CA Rosario Central,Walter Montoya,23.0,Right Winger,Sevilla FC,€5.50m,out,Winter,5.5,Superliga,2016,2016/2017,Argentina,Primera Division,Spain
+3619,CA Rosario Central,Marco Torsiglieri,29.0,Centre-Back,Racing Club,Loan fee:€350k,out,Winter,0.35,Superliga,2016,2016/2017,Argentina,Superliga,Argentina
+3630,CA San Lorenzo de Almagro,Martín Cauteruccio,29.0,Centre-Forward,CD Cruz Azul,€4.70m,out,Winter,4.7,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3632,CA San Lorenzo de Almagro,Emmanuel Más,27.0,Left-Back,Trabzonspor,€1.50m,out,Winter,1.5,Superliga,2016,2016/2017,Argentina,Super Lig,Turkey
+3633,CA San Lorenzo de Almagro,Gabriel Esparza,23.0,Left Winger,Puebla FC,Loan fee:€150k,out,Winter,0.15,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3683,Club Atlético Tigre,Federico González,29.0,Centre-Forward,Puebla FC,loan transfer,out,Winter,,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3685,Club Atlético Unión,Mauro Cejas,31.0,Attacking Midfield,Santos Laguna,free transfer,in,Winter,0.0,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3690,Club Atlético Unión,Franco Faría,24.0,Attacking Midfield,UNAM Pumas,?,out,Winter,,Superliga,2016,2016/2017,Argentina,Liga Mx Apertura,Mexico
+3728,AA Argentinos Juniors,Esteban Rolón,22.0,Defensive Midfield,Málaga CF,€3.20m,out,Summer,3.2,Superliga,2017,2017/2018,Argentina,Primera Division,Spain
+3778,Club Atlético Tucumán,Ismael Blanco,34.0,Centre-Forward,CA Colon,loan transfer,in,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+3780,Club Atlético Tucumán,Franco Sbuttoni,28.0,Centre-Back,Sagan Tosu,?,in,Summer,,Superliga,2017,2017/2018,Argentina,J1 League,Japan
+3781,Club Atlético Tucumán,Alejandro Sánchez,30.0,Goalkeeper,Nueva Chicago,?,in,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+3784,Club Atlético Tucumán,Gonzalo Freitas,25.0,Defensive Midfield,Liverpool FC,loan transfer,in,Summer,,Superliga,2017,2017/2018,Argentina,Premier League,England
+3786,Club Atlético Tucumán,Yonathan Cabral,25.0,Centre-Back,Racing Club,loan transfer,in,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+3792,Club Atlético Tucumán,Franco Quiroga,30.0,Central Midfield,Nueva Chicago,free transfer,out,Summer,0.0,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+3820,CA Banfield,Emanuel Cecchini,20.0,Central Midfield,Málaga CF,€4.60m,out,Summer,4.6,Superliga,2017,2017/2018,Argentina,Primera Division,Spain
+3821,CA Banfield,Alexis Soto,23.0,Left-Back,Racing Club,€1.35m,out,Summer,1.35,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+3855,Club Atlético Belgrano,Renzo Saravia,24.0,Right-Back,Racing Club,Loan fee:€125k,out,Summer,0.125,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+3862,Club Atlético Belgrano,Lucas Aveldaño,31.0,Centre-Back,CD Tenerife,free transfer,out,Summer,0.0,Superliga,2017,2017/2018,Argentina,Primera Division,Spain
+3885,CA Boca Juniors,Marcelo Meli,24.0,Central Midfield,Sporting CP,"End of loanJan 26, 2017",in,Summer,,Superliga,2017,2017/2018,Argentina,Liga Nos,Portugal
+3901,CA Boca Juniors,Jonathan Silva,23.0,Left-Back,Sporting CP,"End of loanJun 30, 2017",out,Summer,,Superliga,2017,2017/2018,Argentina,Liga Nos,Portugal
+3905,CA Chacarita Juniors,Cristian Campestrini,37.0,Goalkeeper,Puebla FC,free transfer,in,Summer,0.0,Superliga,2017,2017/2018,Argentina,Liga Mx Apertura,Mexico
+3913,CA Chacarita Juniors,Mateo Cardona,21.0,Attacking Midfield,Once Caldas,loan transfer,in,Summer,,Superliga,2017,2017/2018,Argentina,Liga Dimayor I,Colombia
+3919,CA Chacarita Juniors,Rodrigo Salinas,31.0,Centre-Forward,Ettifaq FC,free transfer,out,Summer,0.0,Superliga,2017,2017/2018,Argentina,Saudi Professional League,Saudi Arabia
+3932,CA Chacarita Juniors,Nicolás Oroz,23.0,Attacking Midfield,Racing Club,"End of loanJul 31, 2017",out,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+3944,CA Colon,Cristian Guanca,24.0,Attacking Midfield,Kasimpasa,"End of loanJun 30, 2017",in,Summer,,Superliga,2017,2017/2018,Argentina,Super Lig,Turkey
+3949,CA Colon,Gerónimo Poblete,24.0,Defensive Midfield,FC Metz,free transfer,out,Summer,0.0,Superliga,2017,2017/2018,Argentina,Ligue 1,France
+3960,CA Colon,Cristian Guanca,25.0,Attacking Midfield,Ettifaq FC,loan transfer,out,Summer,,Superliga,2017,2017/2018,Argentina,Saudi Professional League,Saudi Arabia
+4003,Club Estudiantes de La Plata,Gastón Campi,26.0,Centre-Back,Racing Club,€525k,in,Summer,0.525,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4022,Club Estudiantes de La Plata,Santiago Ascacíbar,20.0,Defensive Midfield,VfB Stuttgart,€6.00m,out,Summer,6.0,Superliga,2017,2017/2018,Argentina,1 Bundesliga,Germany
+4027,Club Estudiantes de La Plata,Matías Aguirregaray,28.0,Right-Back,Club Tijuana,free transfer,out,Summer,0.0,Superliga,2017,2017/2018,Argentina,Liga Mx Apertura,Mexico
+4087,CD Godoy Cruz Antonio Tomba,Facundo Silva,26.0,Left Midfield,CA Colon,loan transfer,out,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4091,CA Huracán,Nicolás Silva,27.0,Left Winger,CA Colon,free transfer,in,Summer,0.0,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4096,CA Huracán,Pablo Álvarez,33.0,Right-Back,Racing Club,?,in,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4109,CA Huracán,Matías Fritzler,30.0,Defensive Midfield,CA Colon,free transfer,out,Summer,0.0,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4110,CA Huracán,Gonzalo Marinelli,28.0,Goalkeeper,CA Colon,free transfer,out,Summer,0.0,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4118,CA Independiente,Fernando Amorebieta,32.0,Centre-Back,Sporting Gijón,free transfer,in,Summer,0.0,Superliga,2017,2017/2018,Argentina,Primera Division,Spain
+4128,CA Independiente,Jorge Ortiz,33.0,Central Midfield,Club Tijuana,"End of loanJul 16, 2017",in,Summer,,Superliga,2017,2017/2018,Argentina,Liga Mx Apertura,Mexico
+4137,CA Independiente,Gustavo Toledo,27.0,Right-Back,CA Colon,loan transfer,out,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4143,Club Atlético Lanús,José Luis Gómez,23.0,Right-Back,Racing Club,€2.20m,in,Summer,2.2,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4146,Club Atlético Lanús,Facundo Castillón,31.0,Right Winger,Racing Club,loan transfer,in,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4156,Club Atlético Lanús,José Luis Gómez,23.0,Right-Back,Racing Club,"End of loanJun 30, 2017",out,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4168,CA Newell's Old Boys,Guillermo Ortiz,24.0,Centre-Back,CA Colon,"End of loanJun 30, 2017",in,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4173,CA Newell's Old Boys,Federico Fattori,24.0,Defensive Midfield,Nueva Chicago,"End of loanJun 30, 2017",in,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4175,CA Newell's Old Boys,Mauro Formica,29.0,Attacking Midfield,UNAM Pumas,€1.75m,out,Summer,1.75,Superliga,2017,2017/2018,Argentina,Liga Mx Apertura,Mexico
+4176,CA Newell's Old Boys,Guillermo Ortiz,24.0,Centre-Back,CA Colon,€450k,out,Summer,0.45,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4181,CA Newell's Old Boys,Federico Fattori,24.0,Defensive Midfield,Nueva Chicago,?,out,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4189,CA Newell's Old Boys,Germán Voboril,30.0,Left-Back,Racing Club,"End of loanJun 30, 2017",out,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4210,Club Olimpo,Nereo Champagne,32.0,Goalkeeper,CD Leganés,"End of loanJun 30, 2017",in,Summer,,Superliga,2017,2017/2018,Argentina,Primera Division,Spain
+4214,Club Olimpo,Néstor Moiraghi,32.0,Centre-Back,Deportivo Cali,€350k,out,Summer,0.35,Superliga,2017,2017/2018,Argentina,Liga Dimayor I,Colombia
+4220,Club Olimpo,José Correa,24.0,Centre-Forward,Deportes Tolima,free transfer,out,Summer,0.0,Superliga,2017,2017/2018,Argentina,Liga Dimayor I,Colombia
+4223,Club Olimpo,Nereo Champagne,32.0,Goalkeeper,CD Leganés,loan transfer,out,Summer,,Superliga,2017,2017/2018,Argentina,Primera Division,Spain
+4228,Club Olimpo,Yonathan Cabral,25.0,Centre-Back,Racing Club,"End of loanJun 30, 2017",out,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4285,Racing Club,Marcos Acuña,25.0,Left-Back,Sporting CP,€9.59m,out,Summer,9.59,Superliga,2017,2017/2018,Argentina,Liga Nos,Portugal
+4286,Racing Club,Gustavo Bou,27.0,Centre-Forward,Club Tijuana,€8.00m,out,Summer,8.0,Superliga,2017,2017/2018,Argentina,Liga Mx Apertura,Mexico
+4290,Racing Club,Francisco Cerro,29.0,Defensive Midfield,Rayo Vallecano,free transfer,out,Summer,0.0,Superliga,2017,2017/2018,Argentina,Primera Division,Spain
+4299,Racing Club,Brian Fernández,22.0,Centre-Forward,FC Metz,loan transfer,out,Summer,,Superliga,2017,2017/2018,Argentina,Ligue 1,France
+4301,Racing Club,Emanuel Insúa,26.0,Left-Back,Udinese Calcio,"End of loanJun 30, 2017",out,Summer,,Superliga,2017,2017/2018,Argentina,Serie A,Italy
+4303,CA River Plate,Nicolás de la Cruz,20.0,Central Midfield,Liverpool FC,€6.16m,in,Summer,6.16,Superliga,2017,2017/2018,Argentina,Premier League,England
+4312,CA River Plate,Joaquín Arzura,25.0,Midfield,CA Osasuna,"End of loanJun 30, 2018",in,Summer,,Superliga,2017,2017/2018,Argentina,Primera Division,Spain
+4317,CA River Plate,Augusto Solari,25.0,Right Winger,Racing Club,€2.00m,out,Summer,2.0,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4321,CA River Plate,Joaquín Arzura,24.0,Midfield,CA Osasuna,loan transfer,out,Summer,,Superliga,2017,2017/2018,Argentina,Primera Division,Spain
+4328,CA Rosario Central,Washington Camacho,31.0,Midfield,Racing Club,€810k,in,Summer,0.81,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4337,CA Rosario Central,Damián Musto,30.0,Defensive Midfield,Club Tijuana,€1.75m,out,Summer,1.75,Superliga,2017,2017/2018,Argentina,Liga Mx Apertura,Mexico
+4345,CA Rosario Central,Jonás Aguirre,25.0,Left Midfield,Puebla FC,loan transfer,out,Summer,,Superliga,2017,2017/2018,Argentina,Liga Mx Apertura,Mexico
+4349,CA Rosario Central,Teófilo Gutiérrez,32.0,Centre-Forward,Sporting CP,"End of loanJun 30, 2017",out,Summer,,Superliga,2017,2017/2018,Argentina,Liga Nos,Portugal
+4350,CA Rosario Central,Washington Camacho,31.0,Midfield,Racing Club,"End of loanJun 30, 2017",out,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4351,CA Rosario Central,Hernán Menosse,30.0,Centre-Back,Once Caldas,"End of loanJun 30, 2017",out,Summer,,Superliga,2017,2017/2018,Argentina,Liga Dimayor I,Colombia
+4368,CA San Lorenzo de Almagro,Alejandro Melo,21.0,Right Winger,Nueva Chicago,"End of loanJun 30, 2017",in,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4374,CA San Lorenzo de Almagro,Tino Costa,32.0,Central Midfield,UD Almería,free transfer,out,Summer,0.0,Superliga,2017,2017/2018,Argentina,Primera Division,Spain
+4377,CA San Lorenzo de Almagro,Chimy Ávila,23.0,Centre-Forward,SD Huesca,loan transfer,out,Summer,,Superliga,2017,2017/2018,Argentina,Primera Division,Spain
+4390,CA San Martín (San Juan),Gustavo Villarruel,25.0,Right Winger,CA Colon,?,in,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4409,CA San Martín (San Juan),Gustavo Villarruel,25.0,Right Winger,CA Colon,"End of loanJun 30, 2017",out,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4417,Club Atlético Talleres,Joao Rojas,28.0,Right Winger,CD Cruz Azul,loan transfer,in,Summer,,Superliga,2017,2017/2018,Argentina,Liga Mx Apertura,Mexico
+4437,Club Atlético Talleres,Guillermo Cotugno,22.0,Right-Back,Rubin Kazan,"End of loanJun 30, 2017",out,Summer,,Superliga,2017,2017/2018,Argentina,Premier Liga,Russia
+4467,Club Atlético Temperley,David Achucarro,26.0,Centre-Back,Nueva Chicago,free transfer,out,Summer,0.0,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4515,Club Atlético Tigre,Javier García,30.0,Goalkeeper,Racing Club,free transfer,out,Summer,0.0,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4517,Club Atlético Tigre,Diego Morales,30.0,Attacking Midfield,CA Colon,?,out,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4526,Club Atlético Tigre,Gaspar Iñíguez,23.0,Central Midfield,Udinese Calcio,"End of loanJun 30, 2017",out,Summer,,Superliga,2017,2017/2018,Argentina,Serie A,Italy
+4535,Club Atlético Unión,Diego Zabala,25.0,Right Winger,Racing Club,?,in,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4558,CA Vélez Sarsfield,Gastón Díaz,29.0,Right-Back,Racing Club,free transfer,in,Summer,0.0,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4559,CA Vélez Sarsfield,Jonathan Cristaldo,28.0,Centre-Forward,CD Cruz Azul,free transfer,in,Summer,0.0,Superliga,2017,2017/2018,Argentina,Liga Mx Apertura,Mexico
+4576,CA Vélez Sarsfield,Hernán Barcos,32.0,Centre-Forward,Sporting CP,"End of loanDec 31, 2016",out,Summer,,Superliga,2017,2017/2018,Argentina,Liga Nos,Portugal
+4577,CA Vélez Sarsfield,Diego Zabala,25.0,Right Winger,Racing Club,"End of loanJun 30, 2017",out,Summer,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4585,AA Argentinos Juniors,Gonzalo Piovi,23.0,Left-Back,Racing Club,€800k,out,Winter,0.8,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4614,CA Banfield,Enzo Kalinski,30.0,Central Midfield,Club Tijuana,free transfer,in,Winter,0.0,Superliga,2017,2017/2018,Argentina,Liga Mx Apertura,Mexico
+4631,CA Boca Juniors,Emmanuel Más,28.0,Left-Back,Trabzonspor,€2.30m,in,Winter,2.3,Superliga,2017,2017/2018,Argentina,Super Lig,Turkey
+4657,CA Chacarita Juniors,Mateo Cardona,21.0,Attacking Midfield,Once Caldas,"End of loanDec 31, 2017",out,Winter,,Superliga,2017,2017/2018,Argentina,Liga Dimayor I,Colombia
+4660,CA Colon,Alan Ruiz,24.0,Attacking Midfield,Sporting CP,Loan fee:€200k,in,Winter,0.2,Superliga,2017,2017/2018,Argentina,Liga Nos,Portugal
+4668,Defensa y Justicia,Christian Almeida,28.0,Left-Back,Liverpool FC,free transfer,in,Winter,0.0,Superliga,2017,2017/2018,Argentina,Premier League,England
+4677,Defensa y Justicia,Ignacio Rivero,25.0,Left Midfield,Club Tijuana,loan transfer,out,Winter,,Superliga,2017,2017/2018,Argentina,Liga Mx Apertura,Mexico
+4684,Club Estudiantes de La Plata,Juan Otero,22.0,Right Winger,Fortaleza CEIF,€420k,in,Winter,0.42,Superliga,2017,2017/2018,Argentina,Liga Dimayor I,Colombia
+4688,Club Estudiantes de La Plata,Fabián Noguera,24.0,Centre-Back,Santos FC,loan transfer,in,Winter,,Superliga,2017,2017/2018,Argentina,Campeonato Brasileiro Serie A,Brazil
+4694,Club Estudiantes de La Plata,Juan Otero,22.0,Right Winger,Fortaleza CEIF,"End of loanDec 31, 2017",out,Winter,,Superliga,2017,2017/2018,Argentina,Liga Dimayor I,Colombia
+4696,Club de Gimnasia y Esgrima La Plata,Jerónimo Barrales,30.0,Centre-Forward,Sivasspor,free transfer,in,Winter,0.0,Superliga,2017,2017/2018,Argentina,Super Lig,Turkey
+4710,CD Godoy Cruz Antonio Tomba,Javier Correa,25.0,Centre-Forward,CA Colon,€1.20m,out,Winter,1.2,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4716,CA Huracán,Ricardo Noir,30.0,Attacking Midfield,Racing Club,loan transfer,in,Winter,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4722,CA Huracán,Mariano González,36.0,Right Midfield,CA Colon,free transfer,out,Winter,0.0,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4723,CA Huracán,Julio Angulo,27.0,Right Winger,Club Tijuana,loan transfer,out,Winter,,Superliga,2017,2017/2018,Argentina,Liga Mx Apertura,Mexico
+4731,CA Independiente,Gonzalo Verón,28.0,Left Winger,D.C. United,free transfer,in,Winter,0.0,Superliga,2017,2017/2018,Argentina,Major League Soccer,United States of America
+4741,CA Independiente,Nery Domínguez,27.0,Centre-Back,Querétaro FC,"End of loanDec 31, 2017",out,Winter,,Superliga,2017,2017/2018,Argentina,Liga Mx Apertura,Mexico
+4752,Club Atlético Lanús,José Sand,37.0,Centre-Forward,Deportivo Cali,free transfer,out,Winter,0.0,Superliga,2017,2017/2018,Argentina,Liga Dimayor I,Colombia
+4766,CA Newell's Old Boys,Milton Valenzuela,19.0,Left-Back,Columbus Crew,Loan fee:€360k,out,Winter,0.36,Superliga,2017,2017/2018,Argentina,Major League Soccer,United States of America
+4799,Racing Club,Alejandro Donatti,31.0,Centre-Back,Club Tijuana,€1.60m,in,Winter,1.6,Superliga,2017,2017/2018,Argentina,Liga Mx Apertura,Mexico
+4801,Racing Club,Nery Domínguez,27.0,Centre-Back,Querétaro FC,Loan fee:€170k,in,Winter,0.17,Superliga,2017,2017/2018,Argentina,Liga Mx Apertura,Mexico
+4804,Racing Club,Brian Fernández,23.0,Centre-Forward,FC Metz,"End of loanDec 31, 2017",in,Winter,,Superliga,2017,2017/2018,Argentina,Ligue 1,France
+4816,CA River Plate,Bruno Zuculini,24.0,Defensive Midfield,Hellas Verona,€3.25m,in,Winter,3.25,Superliga,2017,2017/2018,Argentina,Serie A,Italy
+4818,CA River Plate,Juan Fernando Quintero,25.0,Attacking Midfield,FC Porto,Loan fee:€500k,in,Winter,0.5,Superliga,2017,2017/2018,Argentina,Liga Nos,Portugal
+4831,CA Rosario Central,Marco Torsiglieri,29.0,Centre-Back,Racing Club,"End of loanDec 31, 2017",in,Winter,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4832,CA Rosario Central,Jonás Aguirre,25.0,Left Midfield,Puebla FC,"End of loanDec 31, 2017",in,Winter,,Superliga,2017,2017/2018,Argentina,Liga Mx Apertura,Mexico
+4839,CA San Lorenzo de Almagro,Matías Vera,22.0,Defensive Midfield,Nueva Chicago,€350k,in,Winter,0.35,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4844,CA San Lorenzo de Almagro,Gabriel Esparza,24.0,Left Winger,Puebla FC,"End of loanDec 31, 2017",in,Winter,,Superliga,2017,2017/2018,Argentina,Liga Mx Apertura,Mexico
+4860,Club Atlético Talleres,Matías Pisano,26.0,Right Winger,Club Tijuana,loan transfer,in,Winter,,Superliga,2017,2017/2018,Argentina,Liga Mx Apertura,Mexico
+4867,Club Atlético Temperley,Federico Fattori,25.0,Defensive Midfield,Nueva Chicago,free transfer,in,Winter,0.0,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4872,Club Atlético Temperley,Gonzalo Escobar,20.0,Left-Back,CA Colon,€400k,out,Winter,0.4,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4874,Club Atlético Temperley,Juan Sánchez Sotelo,30.0,Centre-Forward,Nueva Chicago,?,out,Winter,,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4883,Club Atlético Tigre,Diego Morales,31.0,Attacking Midfield,CA Colon,free transfer,in,Winter,0.0,Superliga,2017,2017/2018,Argentina,Superliga,Argentina
+4917,CA Vélez Sarsfield,Rodrigo Salinas,31.0,Centre-Forward,Ettifaq FC,€400k,in,Winter,0.4,Superliga,2017,2017/2018,Argentina,Saudi Professional League,Saudi Arabia
+4923,CA Vélez Sarsfield,Maximiliano Romero,18.0,Centre-Forward,PSV Eindhoven,€10.00m,out,Winter,10.0,Superliga,2017,2017/2018,Argentina,Eredivisie,Netherlands
+4929,CA Vélez Sarsfield,Yamil Asad,23.0,Left Winger,D.C. United,loan transfer,out,Winter,,Superliga,2017,2017/2018,Argentina,Major League Soccer,United States of America
+4937,Club Atlético Aldosivi,Matías Pisano,26.0,Right Winger,Club Tijuana,free transfer,in,Summer,0.0,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+4946,Club Atlético Aldosivi,Facundo Castillón,32.0,Right Winger,Racing Club,loan transfer,in,Summer,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+4959,Club Atlético Aldosivi,Arnaldo González,29.0,Attacking Midfield,Nueva Chicago,free transfer,out,Summer,0.0,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+4963,Club Atlético Aldosivi,Esteban Orfano,26.0,Right Midfield,Nueva Chicago,free transfer,out,Summer,0.0,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+4980,AA Argentinos Juniors,Nicolás González,20.0,Left Winger,VfB Stuttgart,€11.26m,out,Summer,11.26,Superliga,2018,2018/2019,Argentina,1 Bundesliga,Germany
+4995,Club Atlético Tucumán,Ricardo Noir,31.0,Attacking Midfield,Racing Club,loan transfer,in,Summer,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5011,Club Atlético Tucumán,Gonzalo Freitas,26.0,Defensive Midfield,Liverpool FC,"End of loanJun 30, 2018",out,Summer,,Superliga,2018,2018/2019,Argentina,Premier League,England
+5021,CA Banfield,Emanuel Cecchini,21.0,Central Midfield,Málaga CF,loan transfer,in,Summer,,Superliga,2018,2018/2019,Argentina,Primera Division,Spain
+5041,Club Atlético Belgrano,Hernán Menosse,31.0,Centre-Back,Granada CF,free transfer,in,Summer,0.0,Superliga,2018,2018/2019,Argentina,Primera Division,Spain
+5044,Club Atlético Belgrano,Miguel Martínez,34.0,Centre-Back,Querétaro FC,free transfer,in,Summer,0.0,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5048,Club Atlético Belgrano,Matías Nani,20.0,Centre-Back,AS Roma,loan transfer,in,Summer,,Superliga,2018,2018/2019,Argentina,Serie A,Italy
+5060,Club Atlético Belgrano,Renzo Saravia,25.0,Right-Back,Racing Club,"End of loanJun 30, 2018",in,Summer,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5063,Club Atlético Belgrano,Renzo Saravia,25.0,Right-Back,Racing Club,€1.15m,out,Summer,1.15,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5084,CA Boca Juniors,Carlos Izquierdoz,29.0,Centre-Back,Santos Laguna,€5.15m,in,Summer,5.15,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5087,CA Boca Juniors,Sebastián Villa,22.0,Left Winger,Deportes Tolima,€1.82m,in,Summer,1.82,Superliga,2018,2018/2019,Argentina,Liga Dimayor I,Colombia
+5099,CA Boca Juniors,Santiago Vergini,30.0,Centre-Back,Bursaspor,free transfer,out,Summer,0.0,Superliga,2018,2018/2019,Argentina,Super Lig,Turkey
+5110,CA Colon,Franco Zuculini,27.0,Central Midfield,Hellas Verona,free transfer,in,Summer,0.0,Superliga,2018,2018/2019,Argentina,Serie A,Italy
+5129,Defensa y Justicia,Francisco Cerro,30.0,Defensive Midfield,Rayo Vallecano,free transfer,in,Summer,0.0,Superliga,2018,2018/2019,Argentina,Primera Division,Spain
+5145,Defensa y Justicia,Ignacio Rivero,26.0,Left Midfield,Club Tijuana,"End of loanJun 30, 2018",in,Summer,,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5148,Defensa y Justicia,Gabriel Arias,30.0,Goalkeeper,Racing Club,€1.05m,out,Summer,1.05,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5149,Defensa y Justicia,Ignacio Rivero,26.0,Left Midfield,Club Tijuana,€685k,out,Summer,0.685,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5175,Club Estudiantes de La Plata,Juan Otero,23.0,Right Winger,Amiens SC,€2.14m,out,Summer,2.14,Superliga,2018,2018/2019,Argentina,Ligue 1,France
+5181,Club Estudiantes de La Plata,Julián Marchioni,25.0,Central Midfield,FC Den Bosch,loan transfer,out,Summer,,Superliga,2018,2018/2019,Argentina,Eredivisie,Netherlands
+5183,Club Estudiantes de La Plata,Andrés Escobar,27.0,Left Winger,Deportes Tolima,-,out,Summer,,Superliga,2018,2018/2019,Argentina,Liga Dimayor I,Colombia
+5192,Club de Gimnasia y Esgrima La Plata,Santiago Rosales,23.0,Left Winger,Racing Club,loan transfer,in,Summer,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5193,Club de Gimnasia y Esgrima La Plata,Kevin Gutiérrez,21.0,Defensive Midfield,Racing Club,loan transfer,in,Summer,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5194,Club de Gimnasia y Esgrima La Plata,Gonzalo Piovi,23.0,Left-Back,Racing Club,loan transfer,in,Summer,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5207,Club de Gimnasia y Esgrima La Plata,Brahian Alemán,28.0,Attacking Midfield,Ettifaq FC,€1.30m,out,Summer,1.3,Superliga,2018,2018/2019,Argentina,Saudi Professional League,Saudi Arabia
+5218,CD Godoy Cruz Antonio Tomba,Gabriel Ávalos,27.0,Centre-Forward,Nueva Chicago,free transfer,in,Summer,0.0,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5231,CD Godoy Cruz Antonio Tomba,Facundo Silva,27.0,Left Midfield,CA Colon,"End of loanJun 30, 2018",in,Summer,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5235,CD Godoy Cruz Antonio Tomba,Pol Fernández,26.0,Central Midfield,Racing Club,€1.30m,out,Summer,1.3,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5237,CD Godoy Cruz Antonio Tomba,Leonardo Burián,34.0,Goalkeeper,CA Colon,free transfer,out,Summer,0.0,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5254,CA Huracán,Andrés Roa,25.0,Attacking Midfield,Deportivo Cali,loan transfer,in,Summer,,Superliga,2018,2018/2019,Argentina,Liga Dimayor I,Colombia
+5260,CA Huracán,Julio Angulo,28.0,Right Winger,Club Tijuana,"End of loanJun 30, 2018",in,Summer,,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5264,CA Huracán,Ignacio Pussetto,22.0,Right Winger,Udinese Calcio,€8.00m,out,Summer,8.0,Superliga,2018,2018/2019,Argentina,Serie A,Italy
+5265,CA Huracán,Hugo Nervo,27.0,Centre-Back,Santos Laguna,€1.37m,out,Summer,1.37,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5275,CA Huracán,Nicolás Romat,30.0,Right-Back,FC Den Bosch,loan transfer,out,Summer,,Superliga,2018,2018/2019,Argentina,Eredivisie,Netherlands
+5278,CA Huracán,Ricardo Noir,31.0,Attacking Midfield,Racing Club,"End of loanJul 26, 2018",out,Summer,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5283,CA Independiente,Pablo Hernández,31.0,Central Midfield,Celta de Vigo,€1.30m,in,Summer,1.3,Superliga,2018,2018/2019,Argentina,Primera Division,Spain
+5286,CA Independiente,Francisco Silva,32.0,Defensive Midfield,CD Cruz Azul,free transfer,in,Summer,0.0,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5290,CA Independiente,Gustavo Toledo,28.0,Right-Back,CA Colon,"End of loanJun 30, 2018",in,Summer,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5292,CA Independiente,Diego Rodríguez,28.0,Defensive Midfield,Club Tijuana,€859k,out,Summer,0.859,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5293,CA Independiente,Gustavo Toledo,28.0,Right-Back,CA Colon,€640k,out,Summer,0.64,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5320,Club Atlético Lanús,Iván Marcone,28.0,Defensive Midfield,CD Cruz Azul,€4.25m,out,Summer,4.25,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5325,Club Atlético Lanús,Facundo Castillón,32.0,Right Winger,Racing Club,"End of loanJun 30, 2018",out,Summer,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5330,CA Newell's Old Boys,Mauro Formica,30.0,Attacking Midfield,UNAM Pumas,free transfer,in,Summer,0.0,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5332,CA Newell's Old Boys,Leandro Grimi,33.0,Left-Back,Racing Club,free transfer,in,Summer,0.0,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5342,CA Newell's Old Boys,Franco Pérez,22.0,Centre-Forward,Monarcas Morelia,"End of loanJun 30, 2018",in,Summer,,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5358,Club Atlético Patronato,Pablo Ledesma,34.0,Central Midfield,CA Colon,free transfer,in,Summer,0.0,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5359,Club Atlético Patronato,Lucas Ceballos,31.0,Right-Back,CA Colon,free transfer,in,Summer,0.0,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5395,Racing Club,Marcelo Díaz,31.0,Defensive Midfield,UNAM Pumas,€2.20m,in,Summer,2.2,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5396,Racing Club,Gustavo Bou,28.0,Centre-Forward,Club Tijuana,Loan fee:€2.00m,in,Summer,2.0,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5411,Racing Club,Juan Musso,24.0,Goalkeeper,Udinese Calcio,€4.00m,out,Summer,4.0,Superliga,2018,2018/2019,Argentina,Serie A,Italy
+5422,Racing Club,Diego González,30.0,Central Midfield,Club Tijuana,loan transfer,out,Summer,,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5429,CA River Plate,Marcelo Saracchi,20.0,Left-Back,RB Leipzig,€12.00m,out,Summer,12.0,Superliga,2018,2018/2019,Argentina,1 Bundesliga,Germany
+5434,CA River Plate,Joaquín Arzura,25.0,Midfield,UD Almería,loan transfer,out,Summer,,Superliga,2018,2018/2019,Argentina,Primera Division,Spain
+5443,CA Rosario Central,Miguel Barbieri,24.0,Centre-Back,Racing Club,loan transfer,in,Summer,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5451,CA Rosario Central,Mauricio Martínez,25.0,Defensive Midfield,Racing Club,€2.20m,out,Summer,2.2,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5459,CA San Lorenzo de Almagro,Gerónimo Poblete,25.0,Defensive Midfield,FC Metz,Loan fee:€190k,in,Summer,0.19,Superliga,2018,2018/2019,Argentina,Ligue 1,France
+5516,Club Atlético San Martín (Tucumán),Tino Costa,33.0,Central Midfield,UD Almería,free transfer,in,Summer,0.0,Superliga,2018,2018/2019,Argentina,Primera Division,Spain
+5538,Club Atlético San Martín (Tucumán),Diego Martínez,25.0,Left-Back,Nueva Chicago,free transfer,out,Summer,0.0,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5568,Club Atlético Talleres,Matías Pisano,26.0,Right Winger,Club Tijuana,"End of loanJun 30, 2018",out,Summer,,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5572,Club Atlético Talleres,Joao Rojas,29.0,Right Winger,CD Cruz Azul,"End of loanJun 30, 2018",out,Summer,,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5575,Club Atlético Tigre,Diego Vera,33.0,Centre-Forward,CA Colon,free transfer,in,Summer,0.0,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5576,Club Atlético Tigre,Gonzalo Marinelli,29.0,Goalkeeper,CA Colon,free transfer,in,Summer,0.0,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5579,Club Atlético Tigre,Néstor Moiraghi,33.0,Centre-Back,Deportivo Cali,free transfer,in,Summer,0.0,Superliga,2018,2018/2019,Argentina,Liga Dimayor I,Colombia
+5600,Club Atlético Tigre,Érik Godoy,24.0,Centre-Back,CA Colon,?,out,Summer,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5612,Club Atlético Unión,Nelson Acevedo,30.0,Defensive Midfield,Racing Club,?,in,Summer,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5628,Club Atlético Unión,Nelson Acevedo,29.0,Defensive Midfield,Racing Club,"End of loanJun 30, 2018",out,Summer,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5640,CA Vélez Sarsfield,Fausto Grillo,25.0,Centre-Back,Göztepe,free transfer,out,Summer,0.0,Superliga,2018,2018/2019,Argentina,Super Lig,Turkey
+5649,Club Atlético Aldosivi,Alan Ruiz,25.0,Attacking Midfield,Sporting CP,loan transfer,in,Winter,,Superliga,2018,2018/2019,Argentina,Liga Nos,Portugal
+5655,Club Atlético Aldosivi,Alan Ruiz,25.0,Attacking Midfield,Sporting CP,"End of loanJun 30, 2019",out,Winter,,Superliga,2018,2018/2019,Argentina,Liga Nos,Portugal
+5658,AA Argentinos Juniors,Jonathan Galván,26.0,Centre-Back,CA Colon,€1.00m,in,Winter,1.0,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5684,Club Atlético Tucumán,Luis Miguel Rodríguez,34.0,Second Striker,CA Colon,€350k,out,Winter,0.35,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5698,CA Banfield,Darío Cvitanich,34.0,Centre-Forward,Racing Club,free transfer,out,Winter,0.0,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5702,Club Atlético Belgrano,Mauricio Cuero,25.0,Right Winger,Santos Laguna,loan transfer,in,Winter,,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5704,Club Atlético Belgrano,Marcelo Meli,26.0,Central Midfield,Racing Club,loan transfer,in,Winter,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5705,Club Atlético Belgrano,Juan Patiño,29.0,Centre-Back,Racing Club,loan transfer,in,Winter,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5721,Club Atlético Belgrano,Mauricio Cuero,26.0,Right Winger,Santos Laguna,"End of loanJun 30, 2019",out,Winter,,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5726,CA Boca Juniors,Iván Marcone,28.0,Defensive Midfield,CD Cruz Azul,€7.50m,in,Winter,7.5,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5733,CA Boca Juniors,Júnior Alonso,25.0,Centre-Back,LOSC Lille,loan transfer,in,Winter,,Superliga,2018,2018/2019,Argentina,Ligue 1,France
+5742,CA Boca Juniors,Lucas Olaza,24.0,Left-Back,Celta de Vigo,Loan fee:€500k,out,Winter,0.5,Superliga,2018,2018/2019,Argentina,Primera Division,Spain
+5747,CA Boca Juniors,Leonardo Jara,27.0,Right-Back,D.C. United,loan transfer,out,Winter,,Superliga,2018,2018/2019,Argentina,Major League Soccer,United States of America
+5763,CA Colon,Javier Correa,26.0,Centre-Forward,Santos Laguna,€3.50m,out,Winter,3.5,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5770,CA Colon,Alan Ruiz,25.0,Attacking Midfield,Sporting CP,"End of loanDec 31, 2018",out,Winter,,Superliga,2018,2018/2019,Argentina,Liga Nos,Portugal
+5802,Club Estudiantes de La Plata,Fernando Zuqui,27.0,Central Midfield,CA Colon,loan transfer,out,Winter,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5804,Club Estudiantes de La Plata,Lucas Rodríguez,21.0,Left Winger,D.C. United,loan transfer,out,Winter,,Superliga,2018,2018/2019,Argentina,Major League Soccer,United States of America
+5805,Club Estudiantes de La Plata,Fabián Noguera,25.0,Centre-Back,Santos FC,"End of loanDec 31, 2018",out,Winter,,Superliga,2018,2018/2019,Argentina,Campeonato Brasileiro Serie A,Brazil
+5810,Club de Gimnasia y Esgrima La Plata,Brian Mansilla,21.0,Left Winger,Racing Club,loan transfer,in,Winter,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5824,Club de Gimnasia y Esgrima La Plata,Kevin Gutiérrez,21.0,Defensive Midfield,Racing Club,"End of loanJan 29, 2019",out,Winter,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5831,CD Godoy Cruz Antonio Tomba,Juan Martín Lucero,27.0,Centre-Forward,Club Tijuana,loan transfer,in,Winter,,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5832,CD Godoy Cruz Antonio Tomba,Kevin Gutiérrez,21.0,Defensive Midfield,Racing Club,loan transfer,in,Winter,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5858,CA Huracán,Fernando Coniglio,27.0,Centre-Forward,CD Tenerife,loan transfer,out,Winter,,Superliga,2018,2018/2019,Argentina,Primera Division,Spain
+5870,Club Atlético Lanús,José Sand,38.0,Centre-Forward,Deportivo Cali,free transfer,in,Winter,0.0,Superliga,2018,2018/2019,Argentina,Liga Dimayor I,Colombia
+5882,CA Newell's Old Boys,Ángelo Gabrielli,26.0,Right-Back,Liverpool FC,free transfer,in,Winter,0.0,Superliga,2018,2018/2019,Argentina,Premier League,England
+5888,CA Newell's Old Boys,Milton Valenzuela,20.0,Left-Back,Columbus Crew,"End of loanDec 31, 2018",in,Winter,,Superliga,2018,2018/2019,Argentina,Major League Soccer,United States of America
+5895,CA Newell's Old Boys,Milton Valenzuela,20.0,Left-Back,Columbus Crew,?,out,Winter,,Superliga,2018,2018/2019,Argentina,Major League Soccer,United States of America
+5918,Racing Club,Nery Domínguez,28.0,Centre-Back,Querétaro FC,€880k,in,Winter,0.88,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5931,Racing Club,Juan Dinenno,24.0,Centre-Forward,Deportivo Cali,Loan fee:€105k,out,Winter,0.105,Superliga,2018,2018/2019,Argentina,Liga Dimayor I,Colombia
+5936,Racing Club,Gustavo Bou,28.0,Centre-Forward,Club Tijuana,"End of loanJan 7, 2019",out,Winter,,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5937,Racing Club,Nery Domínguez,28.0,Centre-Back,Querétaro FC,"End of loanDec 31, 2018",out,Winter,,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5938,CA River Plate,Juan Fernando Quintero,25.0,Attacking Midfield,FC Porto,€3.75m,in,Winter,3.75,Superliga,2018,2018/2019,Argentina,Liga Nos,Portugal
+5947,CA River Plate,Joaquín Arzura,25.0,Midfield,UD Almería,"End of loanJan 22, 2019",in,Winter,,Superliga,2018,2018/2019,Argentina,Primera Division,Spain
+5957,CA River Plate,Juan Fernando Quintero,25.0,Attacking Midfield,FC Porto,"End of loanDec 31, 2018",out,Winter,,Superliga,2018,2018/2019,Argentina,Liga Nos,Portugal
+5962,CA Rosario Central,Jarlan Barrera,23.0,Attacking Midfield,Tigres UANL,loan transfer,in,Winter,,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5974,CA Rosario Central,Diego Arismendi,31.0,Defensive Midfield,Racing Club,free transfer,out,Winter,0.0,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+5990,CA San Lorenzo de Almagro,Andrés Rentería,25.0,Centre-Forward,CD Cruz Azul,loan transfer,in,Winter,,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+5999,CA San Lorenzo de Almagro,Gabriel Esparza,26.0,Left Winger,CA Colon,free transfer,out,Winter,0.0,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+6005,CA San Lorenzo de Almagro,Alejandro Melo,22.0,Right Winger,Nueva Chicago,loan transfer,out,Winter,,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+6006,CA San Lorenzo de Almagro,Nicolás Navarro,33.0,Goalkeeper,Querétaro FC,loan transfer,out,Winter,,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+6027,Club Atlético San Martín (Tucumán),Matías Cahais,31.0,Centre-Back,Syrianska FC,free transfer,out,Winter,0.0,Superliga,2018,2018/2019,Argentina,Allsvenskan,Sweden
+6054,Club Atlético Tigre,Gerardo Alcoba,34.0,Centre-Back,Santos Laguna,free transfer,in,Winter,0.0,Superliga,2018,2018/2019,Argentina,Liga Mx Apertura,Mexico
+6064,Club Atlético Unión,Maximiliano Cuadra,23.0,Attack,Racing Club,Loan fee:€220k,in,Winter,0.22,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+6066,Club Atlético Unión,Javier Méndez,24.0,Defensive Midfield,Racing Club,free transfer,in,Winter,0.0,Superliga,2018,2018/2019,Argentina,Superliga,Argentina
+6077,CA Vélez Sarsfield,Yamil Asad,24.0,Left Winger,D.C. United,"End of loanDec 31, 2018",in,Winter,,Superliga,2018,2018/2019,Argentina,Major League Soccer,United States of America
+6086,Racing Club,Walter Montoya,25.0,Right Winger,CD Cruz Azul,loan transfer,in,Summer,,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6096,Racing Club,Diego González,31.0,Central Midfield,Club Tijuana,"End of loanJun 30, 2019",in,Summer,,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6098,Racing Club,Renzo Saravia,26.0,Right-Back,FC Porto,€5.50m,out,Summer,5.5,Superliga,2019,2019/2020,Argentina,Liga Nos,Portugal
+6099,Racing Club,Pol Fernández,27.0,Central Midfield,CD Cruz Azul,€4.43m,out,Summer,4.43,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6121,Defensa y Justicia,Neri Cardozo,32.0,Attacking Midfield,Racing Club,free transfer,in,Summer,0.0,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6124,Defensa y Justicia,Juan Martín Lucero,27.0,Centre-Forward,Club Tijuana,loan transfer,in,Summer,,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6125,Defensa y Justicia,Gonzalo Piovi,24.0,Left-Back,Racing Club,loan transfer,in,Summer,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6126,Defensa y Justicia,Diego Rodríguez,29.0,Defensive Midfield,Club Tijuana,loan transfer,in,Summer,,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6143,Defensa y Justicia,Leonel Miranda,25.0,Central Midfield,Club Tijuana,loan transfer,out,Summer,,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6145,Defensa y Justicia,Mariano Bareiro,24.0,Defensive Midfield,Racing Club,"End of loanJun 30, 2019",out,Summer,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6159,CA Boca Juniors,Daniele De Rossi,36.0,Defensive Midfield,AS Roma,free transfer,in,Summer,0.0,Superliga,2019,2019/2020,Argentina,Serie A,Italy
+6170,CA Boca Juniors,Nahitan Nández,23.0,Central Midfield,Cagliari Calcio,€16.20m,out,Summer,16.2,Superliga,2019,2019/2020,Argentina,Serie A,Italy
+6178,CA Boca Juniors,Guido Vadalá,22.0,Second Striker,Deportes Tolima,loan transfer,out,Summer,,Superliga,2019,2019/2020,Argentina,Liga Dimayor I,Colombia
+6201,Club Atlético Tucumán,Gustavo Toledo,29.0,Right-Back,CA Colon,free transfer,in,Summer,0.0,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6202,Club Atlético Tucumán,Leonardo Heredia,23.0,Attacking Midfield,CA Colon,free transfer,in,Summer,0.0,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6203,Club Atlético Tucumán,Yonathan Cabral,27.0,Centre-Back,Racing Club,free transfer,in,Summer,0.0,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6215,Club Atlético Tucumán,Rodrigo Aliendro,28.0,Central Midfield,CA Colon,€800k,out,Summer,0.8,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6216,Club Atlético Tucumán,David Barbona,24.0,Left Winger,Racing Club,€650k,out,Summer,0.65,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6232,Club Atlético Tucumán,Ricardo Noir,32.0,Attacking Midfield,Racing Club,"End of loanJun 30, 2019",out,Summer,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6233,Club Atlético Tucumán,Yonathan Cabral,27.0,Centre-Back,Racing Club,"End of loanJun 30, 2019",out,Summer,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6238,CA Vélez Sarsfield,Maximiliano Romero,20.0,Centre-Forward,PSV Eindhoven,loan transfer,in,Summer,,Superliga,2019,2019/2020,Argentina,Eredivisie,Netherlands
+6248,CA Vélez Sarsfield,Gastón Díaz,31.0,Right-Back,CA Colon,free transfer,out,Summer,0.0,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6260,CA Independiente,Andrés Roa,26.0,Attacking Midfield,Deportivo Cali,Loan fee:€800k,in,Summer,0.8,Superliga,2019,2019/2020,Argentina,Liga Dimayor I,Colombia
+6315,CA Huracán,Martín Ojeda,20.0,Left Winger,Racing Club,Loan fee:€45k,in,Summer,0.045,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6322,CA Huracán,Mariano Bareiro,24.0,Defensive Midfield,Racing Club,loan transfer,in,Summer,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6325,CA Huracán,Nicolás Romat,31.0,Right-Back,FC Den Bosch,"End of loanJun 30, 2019",in,Summer,,Superliga,2019,2019/2020,Argentina,Eredivisie,Netherlands
+6327,CA Huracán,Fernando Coniglio,27.0,Centre-Forward,CD Tenerife,"End of loanJun 30, 2019",in,Summer,,Superliga,2019,2019/2020,Argentina,Primera Division,Spain
+6347,CA Huracán,Andrés Roa,26.0,Attacking Midfield,Deportivo Cali,"End of loanJun 30, 2019",out,Summer,,Superliga,2019,2019/2020,Argentina,Liga Dimayor I,Colombia
+6351,Club Atlético Lanús,Ezequiel Muñoz,28.0,Centre-Back,CD Leganés,free transfer,in,Summer,0.0,Superliga,2019,2019/2020,Argentina,Primera Division,Spain
+6407,Club Atlético Aldosivi,Alan Ruiz,25.0,Attacking Midfield,Sporting CP,loan transfer,in,Summer,,Superliga,2019,2019/2020,Argentina,Liga Nos,Portugal
+6432,Club Atlético Aldosivi,Facundo Castillón,33.0,Right Winger,Racing Club,"End of loanJun 30, 2019",out,Summer,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6439,CD Godoy Cruz Antonio Tomba,Néstor Breitenbruch,23.0,Right-Back,Tigres UANL,loan transfer,in,Summer,,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6461,CD Godoy Cruz Antonio Tomba,Danilo Ortíz,27.0,Centre-Back,Elche CF,loan transfer,out,Summer,,Superliga,2019,2019/2020,Argentina,Primera Division,Spain
+6462,CD Godoy Cruz Antonio Tomba,Juan Martín Lucero,27.0,Centre-Forward,Club Tijuana,"End of loanJun 30, 2019",out,Summer,,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6484,CA Newell's Old Boys,Zé Turbo,22.0,Centre-Forward,FC Schaffhausen,free transfer,out,Summer,0.0,Superliga,2019,2019/2020,Argentina,Super League,Switzerland
+6492,CA Banfield,Sergio Vittor,29.0,Centre-Back,Racing Club,Loan fee:€50k,in,Summer,0.05,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6507,CA Banfield,Mauricio Asenjo,25.0,Centre-Forward,Nueva Chicago,loan transfer,out,Summer,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6512,CA Banfield,Emanuel Cecchini,22.0,Central Midfield,Málaga CF,"End of loanJun 30, 2019",out,Summer,,Superliga,2019,2019/2020,Argentina,Primera Division,Spain
+6522,Club Estudiantes de La Plata,Julián Marchioni,26.0,Central Midfield,FC Den Bosch,"End of loanJun 30, 2019",in,Summer,,Superliga,2019,2019/2020,Argentina,Eredivisie,Netherlands
+6528,Club Estudiantes de La Plata,Gastón Campi,28.0,Centre-Back,Trabzonspor,€800k,out,Summer,0.8,Superliga,2019,2019/2020,Argentina,Super Lig,Turkey
+6545,Club de Gimnasia y Esgrima La Plata,Brahian Alemán,29.0,Attacking Midfield,Ettifaq FC,free transfer,in,Summer,0.0,Superliga,2019,2019/2020,Argentina,Saudi Professional League,Saudi Arabia
+6564,Club de Gimnasia y Esgrima La Plata,Gonzalo Piovi,24.0,Left-Back,Racing Club,"End of loanJun 30, 2019",out,Summer,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6565,Club de Gimnasia y Esgrima La Plata,Brian Mansilla,22.0,Left Winger,Racing Club,"End of loanJun 30, 2019",out,Summer,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6567,Club de Gimnasia y Esgrima La Plata,Santiago Rosales,24.0,Left Winger,Racing Club,"End of loanJun 30, 2019",out,Summer,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6581,Club Atlético Patronato,Santiago Rosales,24.0,Left Winger,Racing Club,loan transfer,in,Summer,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6612,CA Rosario Central,Diego Novaretti,34.0,Centre-Back,Querétaro FC,free transfer,in,Summer,0.0,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6623,CA Rosario Central,Washington Camacho,33.0,Midfield,Club Tijuana,free transfer,out,Summer,0.0,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6637,CA Rosario Central,Jarlan Barrera,23.0,Attacking Midfield,Tigres UANL,"End of loanJun 30, 2019",out,Summer,,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6651,CA Colon,Cristian Guanca,26.0,Attacking Midfield,Ettifaq FC,"End of loanJun 30, 2019",in,Summer,,Superliga,2019,2019/2020,Argentina,Saudi Professional League,Saudi Arabia
+6685,CA San Lorenzo de Almagro,Ramón Arias,27.0,Centre-Back,Ettifaq FC,€544k,in,Summer,0.544,Superliga,2019,2019/2020,Argentina,Saudi Professional League,Saudi Arabia
+6689,CA San Lorenzo de Almagro,Santiago Vergini,30.0,Centre-Back,Bursaspor,free transfer,in,Summer,0.0,Superliga,2019,2019/2020,Argentina,Super Lig,Turkey
+6692,CA San Lorenzo de Almagro,Nicolás Navarro,34.0,Goalkeeper,Querétaro FC,"End of loanJun 30, 2019",in,Summer,,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6693,CA San Lorenzo de Almagro,Alejandro Melo,23.0,Right Winger,Nueva Chicago,"End of loanJun 30, 2019",in,Summer,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6695,CA San Lorenzo de Almagro,Chimy Ávila,25.0,Centre-Forward,SD Huesca,"End of loanJun 30, 2019",in,Summer,,Superliga,2019,2019/2020,Argentina,Primera Division,Spain
+6697,CA San Lorenzo de Almagro,Nicolás Reniero,24.0,Centre-Forward,Racing Club,€3.25m,out,Summer,3.25,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6698,CA San Lorenzo de Almagro,Chimy Ávila,25.0,Centre-Forward,CA Osasuna,€2.70m,out,Summer,2.7,Superliga,2019,2019/2020,Argentina,Primera Division,Spain
+6704,CA San Lorenzo de Almagro,Damián Pérez,30.0,Left-Back,Sporting Gijón,free transfer,out,Summer,0.0,Superliga,2019,2019/2020,Argentina,Primera Division,Spain
+6708,CA San Lorenzo de Almagro,Andrés Rentería,26.0,Centre-Forward,CD Cruz Azul,"End of loanJun 30, 2019",out,Summer,,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6751,CA Central Córdoba (SdE),Marcelo Meli,27.0,Central Midfield,Racing Club,loan transfer,in,Summer,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6752,CA Central Córdoba (SdE),Matías Nani,21.0,Centre-Back,AS Roma,loan transfer,in,Summer,,Superliga,2019,2019/2020,Argentina,Serie A,Italy
+6780,Racing Club,Juan Dinenno,25.0,Centre-Forward,Deportivo Cali,"End of loanDec 31, 2019",in,Winter,,Superliga,2019,2019/2020,Argentina,Liga Dimayor I,Colombia
+6783,Racing Club,Miguel Barbieri,26.0,Centre-Back,Club Tijuana,€1.80m,out,Winter,1.8,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6784,Racing Club,Juan Dinenno,25.0,Centre-Forward,Deportivo Cali,€700k,out,Winter,0.7,Superliga,2019,2019/2020,Argentina,Liga Dimayor I,Colombia
+6786,Racing Club,Sergio Vittor,30.0,Centre-Back,Damac FC,free transfer,out,Winter,0.0,Superliga,2019,2019/2020,Argentina,Saudi Professional League,Saudi Arabia
+6792,Defensa y Justicia,Nicolás Leguizamón,25.0,Centre-Forward,CA Colon,Loan fee:€91k,in,Winter,0.091,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6796,Defensa y Justicia,Washington Camacho,33.0,Midfield,Club Tijuana,free transfer,in,Winter,0.0,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6797,Defensa y Justicia,Néstor Breitenbruch,24.0,Right-Back,Tigres UANL,free transfer,in,Winter,0.0,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6803,Defensa y Justicia,Leonel Miranda,25.0,Central Midfield,Club Tijuana,"End of loanDec 31, 2019",in,Winter,,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6812,Defensa y Justicia,Rafael Delgado,30.0,Left-Back,CA Colon,?,out,Winter,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6813,Defensa y Justicia,Leonel Miranda,25.0,Central Midfield,Racing Club,loan transfer,out,Winter,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6816,Defensa y Justicia,Diego Rodríguez,30.0,Defensive Midfield,Club Tijuana,"End of loanDec 31, 2019",out,Winter,,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6820,CA Boca Juniors,Pol Fernández,28.0,Central Midfield,CD Cruz Azul,loan transfer,in,Winter,,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6822,CA Boca Juniors,Leonardo Jara,28.0,Right-Back,D.C. United,"End of loanDec 31, 2019",in,Winter,,Superliga,2019,2019/2020,Argentina,Major League Soccer,United States of America
+6824,CA Boca Juniors,Guido Vadalá,22.0,Second Striker,Deportes Tolima,"End of loanDec 31, 2019",in,Winter,,Superliga,2019,2019/2020,Argentina,Liga Dimayor I,Colombia
+6847,Club Atlético Tucumán,Matías Alustiza,35.0,Centre-Forward,Puebla FC,free transfer,in,Winter,0.0,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6848,Club Atlético Tucumán,Guillermo Ortiz,27.0,Centre-Back,CA Colon,free transfer,in,Winter,0.0,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6855,Club Atlético Tucumán,Bruno Bianchi,30.0,Centre-Back,CA Colon,free transfer,out,Winter,0.0,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6856,Club Atlético Tucumán,Favio Álvarez,26.0,Attacking Midfield,UNAM Pumas,loan transfer,out,Winter,,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6860,CA Vélez Sarsfield,Ricardo Centurión,26.0,Left Winger,Racing Club,loan transfer,in,Winter,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6881,CA Independiente,Gonzalo Rehak,26.0,Goalkeeper,Nueva Chicago,loan transfer,out,Winter,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6890,Club Atlético Unión,Emanuel Cecchini,23.0,Central Midfield,Málaga CF,loan transfer,in,Winter,,Superliga,2019,2019/2020,Argentina,Primera Division,Spain
+6896,Club Atlético Unión,Maximiliano Cuadra,24.0,Attack,Racing Club,"End of loanDec 31, 2019",out,Winter,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6925,Club Atlético Talleres,Rafael Pérez,30.0,Centre-Back,Junior FC,loan transfer,in,Winter,,Superliga,2019,2019/2020,Argentina,Liga Dimayor I,Colombia
+6946,CD Godoy Cruz Antonio Tomba,Danilo Ortíz,27.0,Centre-Back,Elche CF,"End of loanDec 31, 2019",in,Winter,,Superliga,2019,2019/2020,Argentina,Primera Division,Spain
+6947,CD Godoy Cruz Antonio Tomba,Andrés Mehring,25.0,Goalkeeper,Liverpool FC,free transfer,out,Winter,0.0,Superliga,2019,2019/2020,Argentina,Premier League,England
+6950,CD Godoy Cruz Antonio Tomba,Néstor Breitenbruch,24.0,Right-Back,Tigres UANL,"End of loanJan 30, 2020",out,Winter,,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6952,CD Godoy Cruz Antonio Tomba,Kevin Gutiérrez,22.0,Defensive Midfield,Racing Club,"End of loanDec 31, 2019",out,Winter,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6976,CA Banfield,Sergio Vittor,30.0,Centre-Back,Racing Club,"End of loanDec 31, 2019",out,Winter,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+6978,Club Estudiantes de La Plata,Martín Cauteruccio,32.0,Centre-Forward,CD Cruz Azul,free transfer,in,Winter,0.0,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6982,Club Estudiantes de La Plata,Lucas Rodríguez,22.0,Left Winger,D.C. United,"End of loanDec 31, 2019",in,Winter,,Superliga,2019,2019/2020,Argentina,Major League Soccer,United States of America
+6984,Club Estudiantes de La Plata,Gonzalo Jara,34.0,Centre-Back,Monarcas Morelia,free transfer,out,Winter,0.0,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+6993,Club de Gimnasia y Esgrima La Plata,Maximiliano Cuadra,24.0,Attack,Racing Club,loan transfer,in,Winter,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+7008,CA Rosario Central,Federico Martínez,23.0,Left Winger,Liverpool FC,Loan fee:€680k,in,Winter,0.68,Superliga,2019,2019/2020,Argentina,Premier League,England
+7011,CA Rosario Central,Kevin Gutiérrez,22.0,Defensive Midfield,Racing Club,loan transfer,in,Winter,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+7029,CA Rosario Central,Miguel Barbieri,26.0,Centre-Back,Racing Club,"End of loanDec 31, 2019",out,Winter,,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+7064,CA San Lorenzo de Almagro,Alejandro Donatti,33.0,Centre-Back,Racing Club,€350k,in,Winter,0.35,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+7066,CA San Lorenzo de Almagro,Diego Rodríguez,30.0,Defensive Midfield,Club Tijuana,loan transfer,in,Winter,,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+7076,CA San Lorenzo de Almagro,Héctor Fertoli,25.0,Left Winger,Racing Club,€1.24m,out,Winter,1.24,Superliga,2019,2019/2020,Argentina,Superliga,Argentina
+7088,CA San Lorenzo de Almagro,Alexis Castro,25.0,Central Midfield,Club Tijuana,loan transfer,out,Winter,,Superliga,2019,2019/2020,Argentina,Liga Mx Apertura,Mexico
+7136,Club Atlético Aldosivi,Alan Ruiz,26.0,Attacking Midfield,Sporting CP,"End of loanJun 30, 2020",out,Summer,,Superliga,2020,2020/2021,Argentina,Liga Nos,Portugal
+7138,AA Argentinos Juniors,Facundo Mater,22.0,Attacking Midfield,Nueva Chicago,€170k,in,Summer,0.17,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7158,Arsenal Fútbol Club,Alan Ruiz,27.0,Attacking Midfield,Sporting CP,free transfer,in,Summer,0.0,Superliga,2020,2020/2021,Argentina,Liga Nos,Portugal
+7204,CA Banfield,Mauricio Cuero,27.0,Right Winger,Santos Laguna,free transfer,in,Summer,0.0,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+7207,CA Banfield,Mauricio Asenjo,25.0,Centre-Forward,Nueva Chicago,"End of loanJun 30, 2020",in,Summer,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7218,CA Boca Juniors,Diego González,32.0,Central Midfield,Racing Club,free transfer,in,Summer,0.0,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7219,CA Boca Juniors,Javier García,33.0,Goalkeeper,Racing Club,free transfer,in,Summer,0.0,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7220,CA Boca Juniors,Edwin Cardona,27.0,Attacking Midfield,Club Tijuana,loan transfer,in,Summer,,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+7231,CA Boca Juniors,Iván Marcone,30.0,Defensive Midfield,Elche CF,Loan fee:€500k,out,Summer,0.5,Superliga,2020,2020/2021,Argentina,Primera Division,Spain
+7240,CA Boca Juniors,Júnior Alonso,27.0,Centre-Back,LOSC Lille,"End of loanJun 30, 2020",out,Summer,,Superliga,2020,2020/2021,Argentina,Ligue 1,France
+7251,CA Central Córdoba (SdE),Santiago Rosales,25.0,Left Winger,Racing Club,free transfer,in,Summer,0.0,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7277,CA Central Córdoba (SdE),Matías Nani,22.0,Centre-Back,AS Roma,"End of loanJun 30, 2020",out,Summer,,Superliga,2020,2020/2021,Argentina,Serie A,Italy
+7278,CA Central Córdoba (SdE),Marcelo Meli,28.0,Central Midfield,Racing Club,"End of loanJun 30, 2020",out,Summer,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7279,CA Colon,Gonzalo Piovi,26.0,Left-Back,Racing Club,loan transfer,in,Summer,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7296,Defensa y Justicia,Gabriel Hachen,29.0,Central Midfield,FC Juárez,free transfer,in,Summer,0.0,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+7304,Defensa y Justicia,Leonel Miranda,26.0,Central Midfield,Racing Club,"End of loanJun 30, 2020",in,Summer,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7307,Defensa y Justicia,Leonel Miranda,26.0,Central Midfield,Racing Club,€2.70m,out,Summer,2.7,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7313,Defensa y Justicia,Diego Rodríguez,31.0,Goalkeeper,Elche CF,loan transfer,out,Summer,,Superliga,2020,2020/2021,Argentina,Primera Division,Spain
+7317,Defensa y Justicia,Juan Martín Lucero,28.0,Centre-Forward,Club Tijuana,"End of loanJun 30, 2020",out,Summer,,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+7318,Defensa y Justicia,Gonzalo Piovi,25.0,Left-Back,Racing Club,"End of loanJun 30, 2020",out,Summer,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7331,Club Estudiantes de La Plata,Fernando Zuqui,28.0,Central Midfield,CA Colon,"End of loanJun 30, 2020",in,Summer,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7332,Club Estudiantes de La Plata,Nahuel Estévez,24.0,Central Midfield,Spezia Calcio,Loan fee:€250k,out,Summer,0.25,Superliga,2020,2020/2021,Argentina,Serie A,Italy
+7344,Club de Gimnasia y Esgrima La Plata,Johan Carbonero,21.0,Left Winger,Once Caldas,loan transfer,in,Summer,,Superliga,2020,2020/2021,Argentina,Liga Dimayor I,Colombia
+7361,Club de Gimnasia y Esgrima La Plata,Maximiliano Cuadra,25.0,Attack,Racing Club,"End of loanJun 30, 2020",out,Summer,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7364,CD Godoy Cruz Antonio Tomba,Damián Pérez,31.0,Left-Back,Sporting Gijón,free transfer,in,Summer,0.0,Superliga,2020,2020/2021,Argentina,Primera Division,Spain
+7368,CD Godoy Cruz Antonio Tomba,Martín Ojeda,21.0,Left Winger,Racing Club,loan transfer,in,Summer,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7379,CD Godoy Cruz Antonio Tomba,Tomás Cardona,24.0,Centre-Back,UD Las Palmas,Loan fee:€150k,out,Summer,0.15,Superliga,2020,2020/2021,Argentina,Primera Division,Spain
+7382,CD Godoy Cruz Antonio Tomba,Agustín Verdugo,22.0,Right-Back,Nueva Chicago,free transfer,out,Summer,0.0,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7390,CD Godoy Cruz Antonio Tomba,Christian Almeida,30.0,Left-Back,Liverpool FC,?,out,Summer,,Superliga,2020,2020/2021,Argentina,Premier League,England
+7422,CA Huracán,Martín Ojeda,21.0,Left Winger,Racing Club,"End of loanJun 30, 2020",out,Summer,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7423,CA Huracán,Mariano Bareiro,25.0,Defensive Midfield,Racing Club,"End of loanJun 30, 2020",out,Summer,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7425,CA Independiente,Federico Martínez,24.0,Left Winger,Liverpool FC,€1.10m,in,Summer,1.1,Superliga,2020,2020/2021,Argentina,Premier League,England
+7426,CA Independiente,Sebastián Sosa,34.0,Goalkeeper,Mazatlán FC,Loan fee:€86k,in,Summer,0.086,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+7434,CA Independiente,Gonzalo Rehak,26.0,Goalkeeper,Nueva Chicago,"End of loanAug 10, 2020",in,Summer,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7446,CA Independiente,Juan Sánchez Miño,30.0,Left-Back,Elche CF,free transfer,out,Summer,0.0,Superliga,2020,2020/2021,Argentina,Primera Division,Spain
+7448,CA Independiente,Gastón Silva,26.0,Left-Back,SD Huesca,free transfer,out,Summer,0.0,Superliga,2020,2020/2021,Argentina,Primera Division,Spain
+7451,CA Independiente,Martín Campaña,31.0,Goalkeeper,Al-Batin FC,free transfer,out,Summer,0.0,Superliga,2020,2020/2021,Argentina,Saudi Professional League,Saudi Arabia
+7457,Club Atlético Lanús,Alexis Pérez,26.0,Centre-Back,Querétaro FC,free transfer,in,Summer,0.0,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+7474,Club Atlético Lanús,Matías Ibáñez,33.0,Goalkeeper,Racing Club,loan transfer,out,Summer,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7489,CA Newell's Old Boys,Luís Leal,33.0,Centre-Forward,Club Tijuana,€300k,out,Summer,0.3,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+7510,Club Atlético Patronato,Matías Escudero,31.0,Centre-Back,Nueva Chicago,free transfer,out,Summer,0.0,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7516,Club Atlético Patronato,Hugo Silveira,27.0,Centre-Forward,Querétaro FC,free transfer,out,Summer,0.0,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+7524,Club Atlético Patronato,Santiago Rosales,25.0,Left Winger,Racing Club,"End of loanJun 30, 2020",out,Summer,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7541,Racing Club,Lorenzo Melgarejo,30.0,Left Winger,Spartak Moscow,free transfer,in,Summer,0.0,Superliga,2020,2020/2021,Argentina,Premier Liga,Russia
+7556,Racing Club,David Barbona,25.0,Left Winger,Club Tijuana,€1.70m,out,Summer,1.7,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+7562,Racing Club,Gonzalo Piovi,26.0,Left-Back,CA Colon,loan transfer,out,Summer,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7588,CA Rosario Central,Conan Ledesma,27.0,Goalkeeper,Cádiz CF,Loan fee:€500k,out,Summer,0.5,Superliga,2020,2020/2021,Argentina,Primera Division,Spain
+7597,CA Rosario Central,Federico Martínez,24.0,Left Winger,Liverpool FC,"End of loanOct 4, 2020",out,Summer,,Superliga,2020,2020/2021,Argentina,Premier League,England
+7599,CA Rosario Central,Kevin Gutiérrez,23.0,Defensive Midfield,Racing Club,"End of loanJun 30, 2020",out,Summer,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7608,CA San Lorenzo de Almagro,Alexis Castro,25.0,Central Midfield,Club Tijuana,"End of loanJun 30, 2020",in,Summer,,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+7612,CA San Lorenzo de Almagro,Adolfo Gaich,21.0,Centre-Forward,CSKA Moscow,€8.50m,out,Summer,8.5,Superliga,2020,2020/2021,Argentina,Premier Liga,Russia
+7619,CA San Lorenzo de Almagro,Gerónimo Poblete,27.0,Defensive Midfield,FC Metz,"End of loanJun 30, 2020",out,Summer,,Superliga,2020,2020/2021,Argentina,Ligue 1,France
+7652,Club Atlético Talleres,Andrés Cubas,24.0,Defensive Midfield,Nîmes Olympique,€2.90m,out,Summer,2.9,Superliga,2020,2020/2021,Argentina,Ligue 1,France
+7656,Club Atlético Talleres,Dayro Moreno,34.0,Centre-Forward,Once Caldas,free transfer,out,Summer,0.0,Superliga,2020,2020/2021,Argentina,Liga Dimayor I,Colombia
+7691,CA Vélez Sarsfield,Ricardo Centurión,27.0,Left Winger,Racing Club,€1.40m,in,Summer,1.4,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7692,CA Vélez Sarsfield,Juan Martín Lucero,28.0,Centre-Forward,Club Tijuana,Loan fee:€205k,in,Summer,0.205,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+7701,CA Vélez Sarsfield,Lucas Robertone,23.0,Central Midfield,UD Almería,€6.40m,out,Summer,6.4,Superliga,2020,2020/2021,Argentina,Primera Division,Spain
+7702,CA Vélez Sarsfield,Braian Cufré,23.0,Left-Back,RCD Mallorca,€1.95m,out,Summer,1.95,Superliga,2020,2020/2021,Argentina,Primera Division,Spain
+7704,CA Vélez Sarsfield,Maximiliano Romero,21.0,Centre-Forward,PSV Eindhoven,"End of loanJun 30, 2020",out,Summer,,Superliga,2020,2020/2021,Argentina,Eredivisie,Netherlands
+7706,CA Vélez Sarsfield,Ricardo Centurión,27.0,Left Winger,Racing Club,"End of loanJun 30, 2020",out,Summer,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7749,Arsenal Fútbol Club,Brian Farioli,22.0,Attacking Midfield,CA Colon,loan transfer,in,Winter,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7758,Club Atlético Tucumán,Favio Álvarez,27.0,Attacking Midfield,UNAM Pumas,"End of loanDec 31, 2020",in,Winter,,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+7759,Club Atlético Tucumán,Favio Álvarez,27.0,Attacking Midfield,UNAM Pumas,€1.50m,out,Winter,1.5,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+7772,CA Banfield,Cristián Medina,20.0,Attacking Midfield,Tigres FC,?,out,Winter,,Superliga,2020,2020/2021,Argentina,Liga Dimayor I,Colombia
+7776,CA Boca Juniors,Lucas Olaza,26.0,Left-Back,Celta de Vigo,"End of loanJan 31, 2021",in,Winter,,Superliga,2020,2020/2021,Argentina,Primera Division,Spain
+7783,CA Boca Juniors,Pol Fernández,29.0,Central Midfield,CD Cruz Azul,"End of loanDec 31, 2020",out,Winter,,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+7786,CA Central Córdoba (SdE),Andrés Mehring,26.0,Goalkeeper,Liverpool FC,free transfer,in,Winter,0.0,Superliga,2020,2020/2021,Argentina,Premier League,England
+7793,CA Central Córdoba (SdE),José Luis Fernández,33.0,Central Midfield,Nueva Chicago,free transfer,out,Winter,0.0,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7812,CA Colon,Tomás Chancalay,22.0,Left Winger,Racing Club,Loan fee:€82k,out,Winter,0.082,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7821,Defensa y Justicia,Rafael Delgado,30.0,Left-Back,CA Colon,loan transfer,in,Winter,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7829,Defensa y Justicia,Diego Rodríguez,31.0,Goalkeeper,Elche CF,"End of loanFeb 1, 2021",in,Winter,,Superliga,2020,2020/2021,Argentina,Primera Division,Spain
+7840,Defensa y Justicia,Rafael Delgado,31.0,Left-Back,CA Colon,"End of loanJan 24, 2021",out,Winter,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7843,Club Estudiantes de La Plata,Fabián Noguera,27.0,Centre-Back,Santos FC,free transfer,in,Winter,0.0,Superliga,2020,2020/2021,Argentina,Campeonato Brasileiro Serie A,Brazil
+7844,Club Estudiantes de La Plata,Juan Sánchez Miño,31.0,Left-Back,Elche CF,free transfer,in,Winter,0.0,Superliga,2020,2020/2021,Argentina,Primera Division,Spain
+7854,Club Estudiantes de La Plata,Facundo Mura,21.0,Right-Back,CA Colon,loan transfer,out,Winter,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7862,Club de Gimnasia y Esgrima La Plata,Matías García,29.0,Left Winger,FC Juárez,€314k,out,Winter,0.314,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+7863,Club de Gimnasia y Esgrima La Plata,Paolo Goltz,35.0,Centre-Back,CA Colon,€165k,out,Winter,0.165,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7873,CD Godoy Cruz Antonio Tomba,Mauro dos Santos,31.0,Centre-Back,CD Tenerife,free transfer,in,Winter,0.0,Superliga,2020,2020/2021,Argentina,Primera Division,Spain
+7894,CA Huracán,Esteban Rolón,25.0,Defensive Midfield,Málaga CF,free transfer,in,Winter,0.0,Superliga,2020,2020/2021,Argentina,Primera Division,Spain
+7905,CA Independiente,Andrés Roa,27.0,Attacking Midfield,Deportivo Cali,€800k,in,Winter,0.8,Superliga,2020,2020/2021,Argentina,Liga Dimayor I,Colombia
+7918,CA Independiente,Federico Martínez,24.0,Left Winger,Liverpool FC,free transfer,out,Winter,0.0,Superliga,2020,2020/2021,Argentina,Premier League,England
+7920,CA Independiente,Andrés Roa,27.0,Attacking Midfield,Deportivo Cali,"End of loanDec 31, 2020",out,Winter,,Superliga,2020,2020/2021,Argentina,Liga Dimayor I,Colombia
+7936,CA Newell's Old Boys,Cristian Lema,30.0,Centre-Back,Damac FC,free transfer,in,Winter,0.0,Superliga,2020,2020/2021,Argentina,Saudi Professional League,Saudi Arabia
+7938,CA Newell's Old Boys,Jonathan Cristaldo,31.0,Centre-Forward,Racing Club,free transfer,in,Winter,0.0,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7946,CA Newell's Old Boys,Aníbal Moreno,21.0,Defensive Midfield,Racing Club,Loan fee:€900k,out,Winter,0.9,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+7959,Club Atlético Patronato,Sebastián Sosa Sánchez,26.0,Centre-Forward,Querétaro FC,free transfer,in,Winter,0.0,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+7963,Club Atlético Patronato,Matías Ibáñez,34.0,Goalkeeper,Racing Club,"End of loanJan 29, 2021",in,Winter,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+8002,Racing Club,Tomás Chancalay,22.0,Left Winger,CA Colon,Loan fee:€82k,in,Winter,0.082,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+8012,Racing Club,Augusto Solari,29.0,Right Winger,Celta de Vigo,€500k,out,Winter,0.5,Superliga,2020,2020/2021,Argentina,Primera Division,Spain
+8018,Racing Club,Walter Montoya,27.0,Right Winger,CD Cruz Azul,"End of loanDec 31, 2020",out,Winter,,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+8020,CA River Plate,Alex Vigo,21.0,Right-Back,CA Colon,€1.75m,in,Winter,1.75,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+8021,CA River Plate,Agustín Palavecino,24.0,Attacking Midfield,Deportivo Cali,€1.44m,in,Winter,1.44,Superliga,2020,2020/2021,Argentina,Liga Dimayor I,Colombia
+8034,CA River Plate,Cristian Ferreira,21.0,Attacking Midfield,CA Colon,loan transfer,out,Winter,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+8051,CA San Lorenzo de Almagro,Yeison Gordillo,28.0,Defensive Midfield,Deportes Tolima,€1.00m,in,Winter,1.0,Superliga,2020,2020/2021,Argentina,Liga Dimayor I,Colombia
+8052,CA San Lorenzo de Almagro,Diego Rodríguez,31.0,Defensive Midfield,Club Tijuana,€400k,in,Winter,0.4,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+8068,CA San Lorenzo de Almagro,Ignacio Piatti,36.0,Left Winger,Racing Club,free transfer,out,Winter,0.0,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+8071,CA San Lorenzo de Almagro,Alexis Castro,26.0,Central Midfield,CA Colon,loan transfer,out,Winter,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+8074,CA San Lorenzo de Almagro,Diego Rodríguez,31.0,Defensive Midfield,Club Tijuana,"End of loanDec 31, 2020",out,Winter,,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+8096,Club Atlético Talleres,Rafael Pérez,31.0,Centre-Back,Junior FC,€408k,in,Winter,0.408,Superliga,2020,2020/2021,Argentina,Liga Dimayor I,Colombia
+8098,Club Atlético Talleres,Michael Santos,27.0,Centre-Forward,FC Copenhagen,free transfer,in,Winter,0.0,Superliga,2020,2020/2021,Argentina,Superligaen,Denmark
+8102,Club Atlético Talleres,Julián Velázquez,30.0,Centre-Back,Club Tijuana,loan transfer,in,Winter,,Superliga,2020,2020/2021,Argentina,Liga Mx Apertura,Mexico
+8117,Club Atlético Talleres,Rafael Pérez,30.0,Centre-Back,Junior FC,"End of loanDec 31, 2020",out,Winter,,Superliga,2020,2020/2021,Argentina,Liga Dimayor I,Colombia
+8135,Club Atlético Unión,Jonatan Fleita,26.0,Centre-Back,Nueva Chicago,loan transfer,out,Winter,,Superliga,2020,2020/2021,Argentina,Superliga,Argentina
+8141,Club Atlético Unión,Emanuel Cecchini,24.0,Central Midfield,Málaga CF,"End of loanDec 31, 2020",out,Winter,,Superliga,2020,2020/2021,Argentina,Primera Division,Spain
+8156,Club Atlético Aldosivi,Gustavo Aranda,26.0,Centre-Forward,Nueva Chicago,free transfer,in,Summer,0.0,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8171,AA Argentinos Juniors,Nicolás Reniero,26.0,Centre-Forward,Racing Club,Loan fee:€150k,in,Summer,0.15,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8226,Club Atlético Tucumán,Alexis Doldán,25.0,Centre-Back,Querétaro FC,"End of loanMay 18, 2022",out,Summer,,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+8231,CA Banfield,Gonzalo Miceli,23.0,Defensive Midfield,Nueva Chicago,free transfer,in,Summer,0.0,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8250,CA Boca Juniors,Luis Advíncula,31.0,Right-Back,Rayo Vallecano,€2.20m,in,Summer,2.2,Superliga,2021,2021/2022,Argentina,Primera Division,Spain
+8260,CA Boca Juniors,Iván Marcone,31.0,Defensive Midfield,Elche CF,"End of loanJun 30, 2021",in,Summer,,Superliga,2021,2021/2022,Argentina,Primera Division,Spain
+8265,CA Boca Juniors,Iván Marcone,31.0,Defensive Midfield,Elche CF,€4.00m,out,Summer,4.0,Superliga,2021,2021/2022,Argentina,Primera Division,Spain
+8272,CA Boca Juniors,Julio Buffarini,32.0,Right-Back,SD Huesca,free transfer,out,Summer,0.0,Superliga,2021,2021/2022,Argentina,Primera Division,Spain
+8275,CA Boca Juniors,Ramón Ábila,31.0,Centre-Forward,D.C. United,loan transfer,out,Summer,,Superliga,2021,2021/2022,Argentina,Major League Soccer,United States of America
+8314,Defensa y Justicia,Kevin Gutiérrez,24.0,Defensive Midfield,Racing Club,loan transfer,in,Summer,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8316,Defensa y Justicia,Alexis Soto,27.0,Left-Back,Racing Club,loan transfer,in,Summer,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8347,Club Estudiantes de La Plata,Nahuel Estévez,25.0,Central Midfield,Spezia Calcio,"End of loanJun 30, 2021",in,Summer,,Superliga,2021,2021/2022,Argentina,Serie A,Italy
+8349,Club Estudiantes de La Plata,Lucas Rodríguez,24.0,Left Winger,Club Tijuana,free transfer,out,Summer,0.0,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+8362,Club de Gimnasia y Esgrima La Plata,Luis Miguel Rodríguez,36.0,Second Striker,CA Colon,free transfer,in,Summer,0.0,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8369,Club de Gimnasia y Esgrima La Plata,Johan Carbonero,22.0,Left Winger,Racing Club,€3.59m,out,Summer,3.59,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8385,CD Godoy Cruz Antonio Tomba,Tomás Cardona,25.0,Centre-Back,UD Las Palmas,"End of loanJun 30, 2021",in,Summer,,Superliga,2021,2021/2022,Argentina,Primera Division,Spain
+8427,CA Independiente,Iván Marcone,32.0,Defensive Midfield,Elche CF,€1.90m,in,Summer,1.9,Superliga,2021,2021/2022,Argentina,Primera Division,Spain
+8440,CA Independiente,Nicolás Messiniti,25.0,Centre-Forward,Once Caldas,loan transfer,out,Summer,,Superliga,2021,2021/2022,Argentina,Liga Dimayor I,Colombia
+8454,Club Atlético Lanús,Alexis Pérez,27.0,Centre-Back,Giresunspor,free transfer,out,Summer,0.0,Superliga,2021,2021/2022,Argentina,Super Lig,Turkey
+8467,CA Newell's Old Boys,Mauro Formica,33.0,Attacking Midfield,CA Colon,free transfer,out,Summer,0.0,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8481,Club Atlético Patronato,Tiago Banega,22.0,Defensive Midfield,Racing Club,loan transfer,in,Summer,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8484,Club Atlético Patronato,Hugo Magallanes,23.0,Centre-Back,Querétaro FC,loan transfer,in,Summer,,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+8503,Club Atlético Platense,Brian Mansilla,24.0,Left Winger,Racing Club,loan transfer,in,Summer,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8506,Club Atlético Platense,Lucas Acevedo,29.0,Centre-Back,CA Colon,loan transfer,in,Summer,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8508,Club Atlético Platense,Jean Colorado,20.0,Central Midfield,Cortuluá,loan transfer,in,Summer,,Superliga,2021,2021/2022,Argentina,Liga Dimayor I,Colombia
+8512,Club Atlético Platense,Tomás Sandoval,22.0,Centre-Forward,CA Colon,loan transfer,in,Summer,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8515,Club Atlético Platense,Nicolas Zalazar,24.0,Centre-Back,Bursaspor,€100k,out,Summer,0.1,Superliga,2021,2021/2022,Argentina,Super Lig,Turkey
+8526,Club Atlético Platense,Tomás Sandoval,23.0,Centre-Forward,CA Colon,"End of loanMay 31, 2022",out,Summer,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8533,Racing Club,Javier Correa,28.0,Centre-Forward,Santos Laguna,loan transfer,in,Summer,,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+8553,CA River Plate,Rodrigo Aliendro,31.0,Central Midfield,CA Colon,free transfer,in,Summer,0.0,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8562,CA River Plate,Gonzalo Montiel,24.0,Right-Back,Sevilla FC,€11.00m,out,Summer,11.0,Superliga,2021,2021/2022,Argentina,Primera Division,Spain
+8565,CA River Plate,Nahuel Gallardo,23.0,Left-Back,CA Colon,loan transfer,out,Summer,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8566,CA River Plate,Lucas Beltrán,20.0,Centre-Forward,CA Colon,loan transfer,out,Summer,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8578,CA Rosario Central,Conan Ledesma,28.0,Goalkeeper,Cádiz CF,"End of loanJun 30, 2021",in,Summer,,Superliga,2021,2021/2022,Argentina,Primera Division,Spain
+8579,CA Rosario Central,Conan Ledesma,28.0,Goalkeeper,Cádiz CF,€1.80m,out,Summer,1.8,Superliga,2021,2021/2022,Argentina,Primera Division,Spain
+8586,CA Rosario Central,Emiliano Vecchio,33.0,Attacking Midfield,Racing Club,free transfer,out,Summer,0.0,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8611,CA Sarmiento (Junin),Lucas Castro,33.0,Attacking Midfield,Adana Demirspor,free transfer,in,Summer,0.0,Superliga,2021,2021/2022,Argentina,Super Lig,Turkey
+8638,Club Atlético Talleres,Héctor Fertoli,26.0,Left Winger,Racing Club,Loan fee:€150k,in,Summer,0.15,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8639,Club Atlético Talleres,Julio Buffarini,33.0,Right-Back,SD Huesca,free transfer,in,Summer,0.0,Superliga,2021,2021/2022,Argentina,Primera Division,Spain
+8657,Club Atlético Talleres,Julián Velázquez,31.0,Centre-Back,Club Tijuana,"End of loanDec 31, 2021",out,Summer,,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+8690,CA Vélez Sarsfield,Leonardo Burián,38.0,Goalkeeper,CA Colon,free transfer,in,Summer,0.0,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8696,CA Vélez Sarsfield,Luis Abram,25.0,Centre-Back,Granada CF,free transfer,out,Summer,0.0,Superliga,2021,2021/2022,Argentina,Primera Division,Spain
+8713,Club Atlético Aldosivi,Emiliano Insúa,33.0,Centre-Back,Racing Club,free transfer,out,Winter,0.0,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8719,Club Atlético Aldosivi,Gabriel Hauche,35.0,Centre-Forward,Racing Club,free transfer,out,Winter,0.0,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8751,AA Argentinos Juniors,Jonatan Gómez,32.0,Attacking Midfield,Racing Club,loan transfer,out,Winter,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8759,AA Argentinos Juniors,Jonathan Sandoval,34.0,Right-Back,CA Colon,loan transfer,out,Winter,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8775,Arsenal Fútbol Club,Axel Werner,25.0,Goalkeeper,Elche CF,loan transfer,in,Winter,,Superliga,2021,2021/2022,Argentina,Primera Division,Spain
+8783,Arsenal Fútbol Club,Nicolás Miracco,30.0,Centre-Forward,Nueva Chicago,free transfer,out,Winter,0.0,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8795,Arsenal Fútbol Club,Brian Farioli,23.0,Attacking Midfield,CA Colon,"End of loanDec 31, 2021",out,Winter,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8802,Club Atlético Tucumán,Bruno Bianchi,32.0,Centre-Back,CA Colon,€265k,in,Winter,0.265,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8810,Club Atlético Tucumán,Alexis Doldán,24.0,Centre-Back,Querétaro FC,loan transfer,in,Winter,,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+8838,CA Banfield,Darío Cvitanich,37.0,Centre-Forward,Racing Club,free transfer,in,Winter,0.0,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8893,CA Boca Juniors,Pol Fernández,30.0,Central Midfield,CD Cruz Azul,€1.79m,in,Winter,1.79,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+8899,CA Boca Juniors,Ramón Ábila,32.0,Centre-Forward,D.C. United,"End of loanDec 31, 2021",in,Winter,,Superliga,2021,2021/2022,Argentina,Major League Soccer,United States of America
+8900,CA Boca Juniors,Lisandro López,32.0,Centre-Back,Club Tijuana,€2.00m,out,Winter,2.0,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+8901,CA Boca Juniors,Ramón Ábila,32.0,Centre-Forward,CA Colon,€1.50m,out,Winter,1.5,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8906,CA Boca Juniors,Edwin Cardona,29.0,Attacking Midfield,Club Tijuana,"End of loanDec 31, 2021",out,Winter,,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+8929,CA Central Córdoba (SdE),Cristian Vega,28.0,Defensive Midfield,CA Colon,€312k,out,Winter,0.312,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8930,CA Central Córdoba (SdE),César Taborda,37.0,Goalkeeper,Nueva Chicago,free transfer,out,Winter,0.0,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8961,CA Colon,Tomás Chancalay,22.0,Left Winger,Racing Club,"End of loanDec 31, 2021",in,Winter,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8962,CA Colon,Tomás Chancalay,23.0,Left Winger,Racing Club,€1.10m,out,Winter,1.1,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+8969,CA Colon,Gonzalo Piovi,27.0,Left-Back,Racing Club,"End of loanDec 31, 2021",out,Winter,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+9005,Defensa y Justicia,Nicolás Leguizamón,26.0,Centre-Forward,CA Colon,"End of loanFeb 10, 2021",out,Winter,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+9025,Club Estudiantes de La Plata,Facundo Mura,22.0,Right-Back,CA Colon,"End of loanDec 31, 2021",in,Winter,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+9030,Club Estudiantes de La Plata,Facundo Mura,22.0,Right-Back,Racing Club,€900k,out,Winter,0.9,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+9035,Club Estudiantes de La Plata,Juan Sánchez Miño,32.0,Left-Back,CA Colon,free transfer,out,Winter,0.0,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+9048,Club de Gimnasia y Esgrima La Plata,Johan Carbonero,22.0,Left Winger,Once Caldas,€2.00m,in,Winter,2.0,Superliga,2021,2021/2022,Argentina,Liga Dimayor I,Colombia
+9060,Club de Gimnasia y Esgrima La Plata,Luis Miguel Rodríguez,37.0,Second Striker,CA Colon,free transfer,out,Winter,0.0,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+9069,Club de Gimnasia y Esgrima La Plata,Johan Carbonero,22.0,Left Winger,Once Caldas,"End of loanDec 31, 2021",out,Winter,,Superliga,2021,2021/2022,Argentina,Liga Dimayor I,Colombia
+9071,CD Godoy Cruz Antonio Tomba,Martín Ojeda,23.0,Left Winger,Racing Club,€427k,in,Winter,0.427,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+9103,CD Godoy Cruz Antonio Tomba,Martín Ojeda,23.0,Left Winger,Racing Club,"End of loanDec 31, 2021",out,Winter,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+9121,CA Huracán,José Moya,29.0,Centre-Back,Deportes Tolima,free transfer,out,Winter,0.0,Superliga,2021,2021/2022,Argentina,Liga Dimayor I,Colombia
+9134,CA Independiente,Sebastián Sosa,35.0,Goalkeeper,Mazatlán FC,free transfer,in,Winter,0.0,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+9139,CA Independiente,Nicolás Messiniti,25.0,Centre-Forward,Once Caldas,"End of loanDec 31, 2021",in,Winter,,Superliga,2021,2021/2022,Argentina,Liga Dimayor I,Colombia
+9153,CA Independiente,Sebastián Sosa,35.0,Goalkeeper,Mazatlán FC,"End of loanDec 31, 2021",out,Winter,,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+9169,Club Atlético Lanús,Guillermo Burdisso,33.0,Centre-Back,Deportivo Cali,free transfer,out,Winter,0.0,Superliga,2021,2021/2022,Argentina,Liga Dimayor I,Colombia
+9179,CA Newell's Old Boys,Gustavo Velázquez,30.0,Centre-Back,FC Juárez,free transfer,in,Winter,0.0,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+9182,CA Newell's Old Boys,Willer Ditta,23.0,Centre-Back,Junior FC,loan transfer,in,Winter,,Superliga,2021,2021/2022,Argentina,Liga Dimayor I,Colombia
+9183,CA Newell's Old Boys,Iván Arboleda,25.0,Goalkeeper,Rayo Vallecano,loan transfer,in,Winter,,Superliga,2021,2021/2022,Argentina,Primera Division,Spain
+9189,CA Newell's Old Boys,Aníbal Moreno,22.0,Defensive Midfield,Racing Club,"End of loanDec 31, 2021",in,Winter,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+9191,CA Newell's Old Boys,Aníbal Moreno,22.0,Defensive Midfield,Racing Club,€2.47m,out,Winter,2.47,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+9227,Club Atlético Patronato,Matías Ibáñez,35.0,Goalkeeper,CA Colon,free transfer,out,Winter,0.0,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+9243,Club Atlético Patronato,Hugo Magallanes,24.0,Centre-Back,Querétaro FC,"End of loanDec 31, 2021",out,Winter,,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+9266,Club Atlético Platense,Jean Colorado,21.0,Central Midfield,Cortuluá,"End of loanMar 3, 2022",out,Winter,,Superliga,2021,2021/2022,Argentina,Liga Dimayor I,Colombia
+9273,Club Atlético Platense,Lucas Acevedo,30.0,Centre-Back,CA Colon,"End of loanFeb 9, 2022",out,Winter,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+9277,Racing Club,Edwin Cardona,29.0,Attacking Midfield,Club Tijuana,€2.90m,in,Winter,2.9,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+9279,Racing Club,Tomás Chancalay,23.0,Left Winger,CA Colon,€1.10m,in,Winter,1.1,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+9287,Racing Club,Gonzalo Piovi,27.0,Left-Back,CA Colon,"End of loanDec 31, 2021",in,Winter,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+9299,Racing Club,Tomás Chancalay,22.0,Left Winger,CA Colon,"End of loanDec 31, 2021",out,Winter,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+9315,CA River Plate,Jorge Carrascal,23.0,Attacking Midfield,CSKA Moscow,Loan fee:€300k,out,Winter,0.3,Superliga,2021,2021/2022,Argentina,Premier Liga,Russia
+9324,CA Rosario Central,Walter Montoya,28.0,Right Winger,CD Cruz Azul,free transfer,in,Winter,0.0,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+9325,CA Rosario Central,Julián Velázquez,31.0,Centre-Back,Club Tijuana,free transfer,in,Winter,0.0,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+9339,CA Rosario Central,Leandro Desábato,31.0,Defensive Midfield,Vegalta Sendai,?,out,Winter,,Superliga,2021,2021/2022,Argentina,J1 League,Japan
+9354,CA San Lorenzo de Almagro,Alexis Castro,27.0,Central Midfield,CA Colon,"End of loanDec 31, 2021",in,Winter,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+9361,CA San Lorenzo de Almagro,Franco Di Santo,32.0,Centre-Forward,Göztepe,free transfer,out,Winter,0.0,Superliga,2021,2021/2022,Argentina,Super Lig,Turkey
+9373,CA Sarmiento (Junin),Jean Rosso,24.0,Right-Back,Liverpool FC,free transfer,in,Winter,0.0,Superliga,2021,2021/2022,Argentina,Premier League,England
+9376,CA Sarmiento (Junin),Lisandro López,38.0,Centre-Forward,Racing Club,free transfer,in,Winter,0.0,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+9395,Club Atlético Talleres,Christian Oliva,25.0,Defensive Midfield,Cagliari Calcio,free transfer,in,Winter,0.0,Superliga,2021,2021/2022,Argentina,Serie A,Italy
+9466,Club Atlético Unión,Jonatan Fleita,26.0,Centre-Back,Nueva Chicago,"End of loanDec 31, 2021",in,Winter,,Superliga,2021,2021/2022,Argentina,Superliga,Argentina
+9507,CA Vélez Sarsfield,Federico Mancuello,32.0,Central Midfield,Puebla FC,free transfer,out,Winter,0.0,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+9508,CA Vélez Sarsfield,Enzo Martínez,23.0,Centre-Back,Querétaro FC,free transfer,out,Winter,0.0,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+9514,CA Vélez Sarsfield,Juan Martín Lucero,30.0,Centre-Forward,Club Tijuana,"End of loanDec 31, 2021",out,Winter,,Superliga,2021,2021/2022,Argentina,Liga Mx Apertura,Mexico
+9521,CA Boca Juniors,Jorman Campuzano,26.0,Defensive Midfield,Giresunspor,Loan fee:€200k,out,Summer,0.2,Superliga,2022,2022/2023,Argentina,Super Lig,Turkey
+9523,CA Boca Juniors,Eduardo Salvio,31.0,Right Winger,UNAM Pumas,free transfer,out,Summer,0.0,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+9524,CA Boca Juniors,Carlos Izquierdoz,33.0,Centre-Back,Sporting Gijón,free transfer,out,Summer,0.0,Superliga,2022,2022/2023,Argentina,Primera Division,Spain
+9534,AA Argentinos Juniors,Jonathan Sandoval,34.0,Right-Back,CA Colon,"End of loanJun 11, 2022",in,Summer,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9536,AA Argentinos Juniors,Matías Galarza,20.0,Central Midfield,KRC Genk,€6.00m,out,Summer,6.0,Superliga,2022,2022/2023,Argentina,Juliper Pro League,Belgium
+9538,AA Argentinos Juniors,Gabriel Carabajal,30.0,Attacking Midfield,Santos FC,€1.50m,out,Summer,1.5,Superliga,2022,2022/2023,Argentina,Campeonato Brasileiro Serie A,Brazil
+9539,AA Argentinos Juniors,Jonathan Galván,30.0,Centre-Back,Racing Club,€150k,out,Summer,0.15,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9545,Arsenal Fútbol Club,Leonel Picco,23.0,Central Midfield,CA Colon,?,out,Summer,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9547,Arsenal Fútbol Club,Axel Werner,26.0,Goalkeeper,Elche CF,"End of loanJun 30, 2022",out,Summer,,Superliga,2022,2022/2023,Argentina,Primera Division,Spain
+9550,Club Atlético Tucumán,Andrés Balanta,,Defensive Midfield,Deportivo Cali,loan transfer,in,Summer,,Superliga,2022,2022/2023,Argentina,Liga Dimayor I,Colombia
+9583,CA Central Córdoba (SdE),Nicolás Leguizamón,27.0,Centre-Forward,CA Colon,free transfer,in,Summer,0.0,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9597,CA Colon,Federico Lértora,32.0,Defensive Midfield,Club Tijuana,free transfer,out,Summer,0.0,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+9607,Defensa y Justicia,Nicolas Zalazar,25.0,Centre-Back,Bursaspor,free transfer,in,Summer,0.0,Superliga,2022,2022/2023,Argentina,Super Lig,Turkey
+9609,Defensa y Justicia,Julián López,22.0,Defensive Midfield,Racing Club,loan transfer,in,Summer,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9611,Defensa y Justicia,Fabricio Domínguez,24.0,Central Midfield,Racing Club,loan transfer,in,Summer,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9612,Defensa y Justicia,Cristian Ortíz,29.0,Left Winger,Club Tijuana,loan transfer,in,Summer,,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+9618,Defensa y Justicia,Carlos Rotondi,25.0,Left Winger,CD Cruz Azul,€3.90m,out,Summer,3.9,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+9626,Club Estudiantes de La Plata,José Sosa,37.0,Central Midfield,Fenerbahce,free transfer,in,Summer,0.0,Superliga,2022,2022/2023,Argentina,Super Lig,Turkey
+9627,Club Estudiantes de La Plata,Pablo Piatti,33.0,Left Winger,Elche CF,free transfer,in,Summer,0.0,Superliga,2022,2022/2023,Argentina,Primera Division,Spain
+9635,Club Estudiantes de La Plata,Gustavo del Prete,26.0,Centre-Forward,UNAM Pumas,€4.30m,out,Summer,4.3,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+9637,Club Estudiantes de La Plata,Agustín Rogel,24.0,Centre-Back,Hertha BSC,€400k,out,Summer,0.4,Superliga,2022,2022/2023,Argentina,1 Bundesliga,Germany
+9661,CD Godoy Cruz Antonio Tomba,Kalazán Suárez,20.0,Left-Back,Cortuluá,free transfer,out,Summer,0.0,Superliga,2022,2022/2023,Argentina,Liga Dimayor I,Colombia
+9662,CD Godoy Cruz Antonio Tomba,Juan Brunetta,25.0,Attacking Midfield,Santos Laguna,loan transfer,out,Summer,,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+9684,CA Independiente,Facundo Ferreyra,31.0,Centre-Forward,Club Tijuana,Loan fee:€196k,in,Summer,0.196,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+9696,Club Atlético Lanús,Guillermo de Amores,27.0,Goalkeeper,Deportivo Cali,free transfer,in,Summer,0.0,Superliga,2022,2022/2023,Argentina,Liga Dimayor I,Colombia
+9709,CA Newell's Old Boys,Fabián Ángel,21.0,Central Midfield,Junior FC,Loan fee:€570k,in,Summer,0.57,Superliga,2022,2022/2023,Argentina,Liga Dimayor I,Colombia
+9718,CA Newell's Old Boys,Nicolás Castro,21.0,Attacking Midfield,KRC Genk,€3.20m,out,Summer,3.2,Superliga,2022,2022/2023,Argentina,Juliper Pro League,Belgium
+9724,CA Newell's Old Boys,Iván Arboleda,26.0,Goalkeeper,Rayo Vallecano,"End of loanJun 30, 2022",out,Summer,,Superliga,2022,2022/2023,Argentina,Primera Division,Spain
+9737,Club Atlético Platense,Brian Mansilla,25.0,Left Winger,Racing Club,"End of loanJun 30, 2022",out,Summer,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9748,Racing Club,Javier Correa,29.0,Centre-Forward,Santos Laguna,"End of loanJun 30, 2022",out,Summer,,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+9749,CA River Plate,Miguel Borja,29.0,Centre-Forward,Junior FC,€6.70m,in,Summer,6.7,Superliga,2022,2022/2023,Argentina,Liga Dimayor I,Colombia
+9751,CA River Plate,Cristian Ferreira,22.0,Attacking Midfield,CA Colon,"End of loanDec 31, 2021",in,Summer,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9752,CA River Plate,Nahuel Gallardo,24.0,Left-Back,CA Colon,"End of loanJun 30, 2022",in,Summer,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9753,CA River Plate,Lucas Beltrán,21.0,Centre-Forward,CA Colon,"End of loanJun 27, 2022",in,Summer,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9754,CA River Plate,Jorge Carrascal,24.0,Attacking Midfield,CSKA Moscow,"End of loanJun 30, 2022",in,Summer,,Superliga,2022,2022/2023,Argentina,Premier Liga,Russia
+9756,CA River Plate,Jorge Carrascal,24.0,Attacking Midfield,CSKA Moscow,€6.00m,out,Summer,6.0,Superliga,2022,2022/2023,Argentina,Premier Liga,Russia
+9761,CA River Plate,Nahuel Gallardo,24.0,Left-Back,Once Caldas,loan transfer,out,Summer,,Superliga,2022,2022/2023,Argentina,Liga Dimayor I,Colombia
+9765,CA Rosario Central,Gustavo Ramírez,32.0,Centre-Forward,Deportes Tolima,?,in,Summer,,Superliga,2022,2022/2023,Argentina,Liga Dimayor I,Colombia
+9768,CA Rosario Central,Lautaro Blanco,23.0,Left-Back,Elche CF,loan transfer,in,Summer,,Superliga,2022,2022/2023,Argentina,Primera Division,Spain
+9771,CA Rosario Central,Lautaro Blanco,23.0,Left-Back,Elche CF,€1.96m,out,Summer,1.96,Superliga,2022,2022/2023,Argentina,Primera Division,Spain
+9783,CA San Lorenzo de Almagro,Nicolás Fernández Mercau,22.0,Left-Back,Elche CF,€4.00m,out,Summer,4.0,Superliga,2022,2022/2023,Argentina,Primera Division,Spain
+9785,CA San Lorenzo de Almagro,Gabriel Rojas,25.0,Left-Back,Querétaro FC,free transfer,out,Summer,0.0,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+9786,CA San Lorenzo de Almagro,Yeison Gordillo,30.0,Defensive Midfield,Junior FC,free transfer,out,Summer,0.0,Superliga,2022,2022/2023,Argentina,Liga Dimayor I,Colombia
+9794,CA Sarmiento (Junin),Julián Chicco,24.0,Defensive Midfield,CA Colon,free transfer,out,Summer,0.0,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9797,Club Atlético Talleres,Favio Álvarez,29.0,Attacking Midfield,UNAM Pumas,loan transfer,in,Summer,,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+9812,Club Atlético Unión,Tomás González,19.0,Centre-Forward,Nueva Chicago,€245k,in,Summer,0.245,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9832,CA Boca Juniors,Agustín Rossi,27.0,Goalkeeper,Al-Nassr FC,Loan fee:€1.20m,out,Winter,1.2,Superliga,2022,2022/2023,Argentina,Saudi Professional League,Saudi Arabia
+9835,AA Argentinos Juniors,Facundo Ferreyra,31.0,Centre-Forward,Club Tijuana,free transfer,in,Winter,0.0,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+9839,AA Argentinos Juniors,Fabricio Domínguez,24.0,Central Midfield,Racing Club,loan transfer,in,Winter,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9846,AA Argentinos Juniors,Jonatan Gómez,33.0,Attacking Midfield,Racing Club,"End of loanDec 31, 2022",in,Winter,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9854,AA Argentinos Juniors,Jonatan Gómez,33.0,Attacking Midfield,Racing Club,€461k,out,Winter,0.461,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9856,AA Argentinos Juniors,Andrés Roa,29.0,Attacking Midfield,Al-Batin FC,free transfer,out,Winter,0.0,Superliga,2022,2022/2023,Argentina,Saudi Professional League,Saudi Arabia
+9864,AA Argentinos Juniors,Nicolás Reniero,27.0,Centre-Forward,Racing Club,"End of loanDec 31, 2022",out,Winter,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9873,Arsenal Fútbol Club,Tiago Banega,23.0,Defensive Midfield,Racing Club,loan transfer,in,Winter,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9892,Arsenal Fútbol Club,Joaquín Ibáñez,26.0,Left Winger,CA Colon,free transfer,out,Winter,0.0,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9910,Club Atlético Belgrano,Matías García,31.0,Left Winger,FC Juárez,free transfer,in,Winter,0.0,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+9919,Club Atlético Belgrano,Joaquín Novillo,24.0,Centre-Back,CA Colon,"End of loanDec 31, 2022",in,Winter,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9921,Club Atlético Belgrano,Leonardo Sequeira,27.0,Right Winger,Querétaro FC,"End of loanDec 31, 2022",in,Winter,,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+9922,Club Atlético Belgrano,Leonardo Sequeira,27.0,Right Winger,Real Oviedo,€450k,out,Winter,0.45,Superliga,2022,2022/2023,Argentina,Primera Division,Spain
+9928,Club Atlético Belgrano,Fabricio Brener,24.0,Right Winger,Nueva Chicago,loan transfer,out,Winter,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9930,Club Atlético Belgrano,Tobias Ostchega,24.0,Left-Back,Nueva Chicago,loan transfer,out,Winter,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+9948,Club Atlético Tucumán,Augusto Lotti,26.0,Second Striker,CD Cruz Azul,€1.50m,out,Winter,1.5,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+9950,Club Atlético Tucumán,Ramiro Carrera,29.0,Right Midfield,CD Cruz Azul,€1.30m,out,Winter,1.3,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+9979,CA Banfield,Agustín Urzi,22.0,Left Winger,FC Juárez,€3.20m,out,Winter,3.2,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+10000,CA Barracas Central,Fernando Prado,21.0,Left-Back,Racing Club,loan transfer,in,Winter,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+10009,CA Barracas Central,Lucas López,24.0,Right Midfield,Nueva Chicago,loan transfer,in,Winter,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+10019,CA Barracas Central,Carlos Valenzuela,25.0,Left Winger,Club Tijuana,free transfer,out,Winter,0.0,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+10034,CA Vélez Sarsfield,Gastón Gómez,26.0,Goalkeeper,Racing Club,Loan fee:€188k,in,Winter,0.188,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+10054,CA Central Córdoba (SdE),Luis Miguel Rodríguez,38.0,Second Striker,CA Colon,€185k,in,Winter,0.185,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+10069,CA Central Córdoba (SdE),Brian Farioli,24.0,Attacking Midfield,CA Colon,loan transfer,in,Winter,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+10075,CA Central Córdoba (SdE),Renzo López,28.0,Centre-Forward,Al-Batin FC,€4.70m,out,Winter,4.7,Superliga,2022,2022/2023,Argentina,Saudi Professional League,Saudi Arabia
+10076,CA Central Córdoba (SdE),Alejandro Martínez,25.0,Left Midfield,Club Tijuana,€2.84m,out,Winter,2.84,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+10117,Defensa y Justicia,Alexis Soto,29.0,Left-Back,Racing Club,€484k,in,Winter,0.484,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+10118,Defensa y Justicia,Kevin Gutiérrez,25.0,Defensive Midfield,Racing Club,€484k,in,Winter,0.484,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+10130,Defensa y Justicia,David Barbona,27.0,Left Winger,Club Tijuana,loan transfer,in,Winter,,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+10156,Defensa y Justicia,Manuel Duarte,21.0,Attacking Midfield,Querétaro FC,loan transfer,out,Winter,,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+10159,Defensa y Justicia,Kevin Gutiérrez,25.0,Defensive Midfield,Racing Club,"End of loanDec 31, 2022",out,Winter,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+10162,Defensa y Justicia,Cristian Ortíz,30.0,Left Winger,Club Tijuana,"End of loanDec 31, 2022",out,Winter,,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+10163,Defensa y Justicia,Alexis Soto,29.0,Left-Back,Racing Club,"End of loanDec 31, 2022",out,Winter,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+10167,Defensa y Justicia,Fabricio Domínguez,24.0,Central Midfield,Racing Club,"End of loanDec 31, 2022",out,Winter,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+10172,Club Estudiantes de La Plata,Santiago Ascacíbar,25.0,Defensive Midfield,Hertha BSC,loan transfer,in,Winter,,Superliga,2022,2022/2023,Argentina,1 Bundesliga,Germany
+10189,Club Estudiantes de La Plata,Manuel Castro,27.0,Right Midfield,FC Juárez,free transfer,out,Winter,0.0,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+10287,CA Huracán,Diego Mercado,25.0,Defensive Midfield,Nueva Chicago,free transfer,out,Winter,0.0,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+10298,CA Huracán,Benjamín Garré,22.0,Left Winger,Racing Club,"End of loanJan 28, 2023",out,Winter,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+10322,CA Independiente,Sebastián Sosa,36.0,Goalkeeper,UNAM Pumas,free transfer,out,Winter,0.0,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+10327,CA Independiente,Alan Soñora,24.0,Central Midfield,FC Juárez,free transfer,out,Winter,0.0,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+10331,CA Independiente,Lucas González,22.0,Central Midfield,Santos Laguna,loan transfer,out,Winter,,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+10335,CA Independiente,Facundo Ferreyra,31.0,Centre-Forward,Club Tijuana,"End of loanDec 31, 2022",out,Winter,,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+10337,Club Atlético Lanús,Juan Sánchez Miño,33.0,Left-Back,CA Colon,free transfer,in,Winter,0.0,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+10339,Club Atlético Lanús,Juan José Cáceres,22.0,Right-Back,Racing Club,loan transfer,in,Winter,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+10352,Club Atlético Lanús,Guillermo de Amores,28.0,Goalkeeper,Sporting Gijón,loan transfer,out,Winter,,Superliga,2022,2022/2023,Argentina,Primera Division,Spain
+10358,CA Newell's Old Boys,Willer Ditta,24.0,Centre-Back,Junior FC,€665k,in,Winter,0.665,Superliga,2022,2022/2023,Argentina,Liga Dimayor I,Colombia
+10389,CA Newell's Old Boys,Willer Ditta,24.0,Centre-Back,Junior FC,"End of loanDec 31, 2022",out,Winter,,Superliga,2022,2022/2023,Argentina,Liga Dimayor I,Colombia
+10398,Club Atlético Platense,Iván Rossi,29.0,Defensive Midfield,Junior FC,?,in,Winter,,Superliga,2022,2022/2023,Argentina,Liga Dimayor I,Colombia
+10433,Racing Club,Gabriel Rojas,25.0,Left-Back,Querétaro FC,€2.30m,in,Winter,2.3,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+10492,CA Rosario Central,Gustavo Ramírez,32.0,Centre-Forward,Deportivo Cali,"End of loanDec 31, 2022",in,Winter,,Superliga,2022,2022/2023,Argentina,Liga Dimayor I,Colombia
+10496,CA Rosario Central,Mateo Tanlongo,19.0,Defensive Midfield,Sporting CP,free transfer,out,Winter,0.0,Superliga,2022,2022/2023,Argentina,Liga Nos,Portugal
+10501,CA Rosario Central,Facundo Almada,24.0,Centre-Back,Mazatlán FC,loan transfer,out,Winter,,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+10503,CA Rosario Central,Gustavo Ramírez,32.0,Centre-Forward,Deportivo Cali,loan transfer,out,Winter,,Superliga,2022,2022/2023,Argentina,Liga Dimayor I,Colombia
+10508,CA Rosario Central,Lautaro Blanco,23.0,Left-Back,Elche CF,"End of loanDec 31, 2022",out,Winter,,Superliga,2022,2022/2023,Argentina,Primera Division,Spain
+10514,CA San Lorenzo de Almagro,Federico Gattoni,23.0,Centre-Back,Sevilla FC,loan transfer,in,Winter,,Superliga,2022,2022/2023,Argentina,Primera Division,Spain
+10523,CA San Lorenzo de Almagro,Federico Gattoni,23.0,Centre-Back,Sevilla FC,€1.40m,out,Winter,1.4,Superliga,2022,2022/2023,Argentina,Primera Division,Spain
+10561,CA Sarmiento (Junin),Facundo Ferrero,27.0,Goalkeeper,Nueva Chicago,?,out,Winter,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+10562,CA Sarmiento (Junin),Federico Andueza,25.0,Centre-Back,Junior FC,?,out,Winter,,Superliga,2022,2022/2023,Argentina,Liga Dimayor I,Colombia
+10563,CA Sarmiento (Junin),Jonatan Torres,26.0,Centre-Forward,Querétaro FC,loan transfer,out,Winter,,Superliga,2022,2022/2023,Argentina,Liga Mx Apertura,Mexico
+10623,Club Atlético Talleres,Héctor Fertoli,28.0,Left Winger,Racing Club,"End of loanDec 31, 2022",out,Winter,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+10643,Club Atlético Tigre,Diego Sosa,25.0,Left-Back,Racing Club,loan transfer,out,Winter,,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
+10650,Club Atlético Unión,Yeison Gordillo,30.0,Defensive Midfield,Junior FC,?,in,Winter,,Superliga,2022,2022/2023,Argentina,Liga Dimayor I,Colombia
+10651,Club Atlético Unión,Thiago Vecino,23.0,Centre-Forward,Liverpool FC,loan transfer,in,Winter,,Superliga,2022,2022/2023,Argentina,Premier League,England
+10659,Club Atlético Unión,Juan Ignacio Nardoni,20.0,Central Midfield,Racing Club,€5.70m,out,Winter,5.7,Superliga,2022,2022/2023,Argentina,Superliga,Argentina
