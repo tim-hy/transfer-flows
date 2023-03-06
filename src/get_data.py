@@ -1,14 +1,15 @@
 import pandas as pd
 import os
 
-def load_data(raw_path, big_leagues_only=True):
+def load_data(raw_path, big5_leagues_only=False):
     # Load data into dict
     data_dict = {}
 
     for file in os.listdir(raw_path):
 
-        if big_leagues_only == True:
-            if any(ignore in file for ignore in ["premier-liga", "championship"]):
+        if big5_leagues_only == True:
+            if not any(league in file for league in ["premier-league", "1-bungesliga", "primera-divison",
+                "ligue-1", "serie-a"]):
                 continue
 
         filename = file.split(".")[0]
@@ -53,12 +54,14 @@ def export_data(data_dict, data_path, internal_transfers_only=True):
 
                 export_df.to_csv(export_name)
 
-def main(big_leagues_only=True, internal_transfers_only=True):
+def main(big5_leagues_only=False, internal_transfers_only=True):
+    # Initialise directories
     cwd = os.path.dirname(__file__)
     data_path = os.path.abspath(os.path.join(cwd, "..", "data"))
     raw_path = os.path.join(data_path, "raw", "transfers")
 
-    data_dict = load_data(raw_path, big_leagues_only)
+    # Import data, munge and export
+    data_dict = load_data(raw_path, big5_leagues_only)
     league_id_dict = get_club_leagues(data_dict)
     data_dict = define_club_to(data_dict, league_id_dict, internal_transfers_only)
     export_data(data_dict, data_path)
