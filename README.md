@@ -16,10 +16,11 @@ This repo provides interactive mapping for European transfer flows, as well as v
 
 ## Roadmap
 
-- [ ] Integrate automatic data retrieval from https://github.com/ewenme/transfers
-- [ ] Include international transfer flows (requires matching to external club dataset list)
+- [ ] Remove duplicated transfers within leagues (and include inter-league transfers)
+- [ ] Integrate automatic data retrieval from https://github.com/tim-hy/tmarkt-transfers
+- [ ] Include international transfer flows outside of selected leagues (requires matching to external club dataset list)
 
 ## Sources
 
-- Transfer data from https://github.com/ewenme/transfers (as of Saturday 10th September 2022)
+- Transfer data from https://github.com/tim-hy/tmarkt-transfers
 - Football teams list from https://github.com/jokecamp/FootballData
