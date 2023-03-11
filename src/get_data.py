@@ -22,13 +22,19 @@ def load_data(raw_path, big5_leagues_only=False):
 def get_club_leagues(data_dict):
     # Create club and league pairing dict
     league_id_dict = {}
+    league_id_dict["league_map"] = {}
+    league_id_dict["country_map"] = {}
 
     for league, df in data_dict.items():
         clubs = df.club_name.unique().tolist()
 
         league_name = df["league_name"].unique()[0]
+        country = df["country"].unique()[0]
+        
+
         for club in clubs:
-            league_id_dict[club] = league_name
+            league_id_dict["league_map"][club] = league_name
+            league_id_dict["country_map"][club] = country
 
     return league_id_dict
 
@@ -36,9 +42,10 @@ def define_club_to(data_dict, league_id_dict, internal_transfers_only=True):
     # Map transfer destination to league
     if internal_transfers_only==True:
         for league, df in data_dict.items():
-            df.rename(columns={'league_name':'league_from_name'}, inplace=True)
+            df.rename(columns={'league_name':'league_from_name', 'country':'country_from_name'}, inplace=True)
 
-            df["league_to_name"] = df["club_involved_name"].map(league_id_dict)
+            df["league_to_name"] = df["club_involved_name"].map(league_id_dict["league_map"])
+            df["country_to_name"] = df["club_involved_name"].map(league_id_dict["country_map"])
 
     return data_dict
 
