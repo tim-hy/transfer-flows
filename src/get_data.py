@@ -78,8 +78,9 @@ def remove_internal_duplicates(data_dict):
 
 def remove_external_duplicates(data_dict):
     # Remove transfers from 1 direction (as will be duplicated in other leagues)
-    for league, df in data_dict.items():
-        df = df[df.transfer_movement != "in"]
+    data_dict = dict((league+"_external_removed", df[df.transfer_movement != "in"]) for league, df in data_dict.items())
+    
+    return data_dict
 
 def export_data(data_dict, data_path, internal_transfers_only=True):
     # Export results
@@ -93,7 +94,7 @@ def export_data(data_dict, data_path, internal_transfers_only=True):
 
                 export_df.to_csv(export_name)
 
-def main(big5_leagues_only=False, internal_transfers_only=True, remove_internal_dupes=False, remove_external_dupes=True):
+def main(big5_leagues_only=False, internal_transfers_only=True, remove_internal_dupes=False, remove_external_dupes=False):
     # Initialise directories
     cwd = os.path.dirname(__file__)
     data_path = os.path.abspath(os.path.join(cwd, "..", "data"))
